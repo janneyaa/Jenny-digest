@@ -1,0 +1,45 @@
+{
+  "youtube": [],
+  "x": [],
+  "rss": [
+    {
+      "source": "podcast",
+      "name": "Huberman Lab",
+      "category": "个人成长",
+      "items": [
+        {
+          "title": "The Mental Frame & Specific Daily Actions to Succeed | Andy Stumpf",
+          "description": "Andy Stumpf is a retired Navy SEAL, world-record-holding wingsuit BASE jumper, martial artist, and author. We discuss the mental framework and moment-to-moment decision-making process that can allow anyone to build discipline and resilience and better navigate both everyday life and life's most challenging moments. Andy explains several simple-yet-powerful tools gleaned from his time in — and after — his SEAL career that can help you determine where to focus your actions and how to clear your mind of things you can't control or that hold you back mentally. Andy also shares and reflects on lessons learned from some of the deeply personal challenges he faced outside of combat and freefall. Finally, we explore the all-too-frequent tragedy of people — including high performers — taking their own lives, and consider what might be done to prevent more such losses. Thank you to our sponsors AG1: https://drinkag1.com/huberman Our Place: https://fromourplace.com/huberman Wealthfront*: https://wealthfront.com/huberman Function: https://functionhealth.com/huberman Joovv: https://joovv.com/huberman Timestamps (00:00:00) Andy Stumpf (00:03:09) Protocols Book (00:04:06) Nagging Thoughts, Tool: Determine Influence vs Concern (00:10:14) Social Media, Screen Time Discipline (00:17:01) Sponsors: Our Place & Wealthfront (00:20:11) Social Media Addiction, Young Adults, Rebellion, Alcohol (00:27:38) Alcohol & Social Experiences; Cannabis; Ice Bath (00:36:07) Skydiving, Wingsuit Flying (00:41:47) Sponsor: AG1 (00:43:06) Skydiving, BASE Jumping, Wingsuit Flying; Navy (00:55:25) Danger & Fear, Wingsuit Flying Risk, Death (01:03:04) Divorce, Imperfection; Parenting Kids in Divorce (01:12:16) Sponsor: Function (01:13:55) Parents' Divorce (01:19:38) Long-Term Flow State, Focus, Adrenaline; Time Perception (01:30:58) Toilet Paper, Shortcuts, Tool: Do the Slightly Harder Choice (01:37:11) Micro-Discipline, Doing the Harder Thing, Tenacity & Super-Agers (01:48:00) Sponsor: Joovv (01:49:12) Physi",
+          "pubDate": "Mon, 15 Jun 2026 08:00:00 -0000",
+          "url": ""
+        },
+        {
+          "title": "Essentials: Sleep Toolkit for Optimizing Sleep & Sleep-Wake Timing",
+          "description": "In this Huberman Lab Essentials episode, I discuss science-supported tools to improve sleep by supporting a healthy circadian rhythm using key behaviors and environmental cues. I explain specific morning, afternoon and evening behaviors that will increase daytime alertness and support deeper, more consistent sleep at night. I also cover sleep supplements, the effects of caffeine, alcohol and THC on sleep, as well as practical strategies for managing jet lag and shift work. Read the episode show notes at hubermanlab.com. Thank you to our sponsors AG1: https://drinkag1.com/huberman LMNT: https://drinklmnt.com/huberman Eight Sleep: https://eightsleep.com/huberman Timestamps (00:00:00) Sleep Toolkit (00:00:21) Optimal Cortisol Rhythms, Tool: View Morning Sunlight (00:03:44) Morning Sunlight Guide, Artificial Light, Cloudy Days (00:08:04) Sponsor: Eight Sleep (00:09:22) Morning & Body Temperature, Tools: Deliberate Cold Exposure, Exercise (00:11:38) Morning: Caffeine Timing (00:13:22) Morning: Meal Timing & Alertness (00:15:36) Circadian Clock; 3 Daily Critical Periods (00:17:10) Afternoon: Caffeine, Naps, Exercise (00:19:34) Tool: Late Afternoon/Evening Sunlight (00:21:41) Sponsor: AG1 (00:23:00) Evening Tools: Artificial Lights; Hot Tub/Sauna, Bedroom Temperature (00:26:40) Alcohol, THC & Effects on Sleep (00:27:39) Sleep Supplements: Magnesium Threonate, Apigenin & Theanine (00:31:03) Caution for Melatonin Supplementation (00:31:41) Sponsor: LMNT (00:33:13) Weekends, Tool: Consistent Sleep Schedule (00:34:00) Jet Lag, Tool: Temperature Minimum (00:37:41) Shift Work, Tool: Red Light (00:38:30) Recap Disclaimer & Disclosures Learn more about your ad choices. Visit megaphone.fm/adchoices",
+          "pubDate": "Thu, 11 Jun 2026 08:00:00 -0000",
+          "url": "https://www.hubermanlab.com/episode/essentials-sleep-toolkit-for-optimizing-sleep-and-sleep-wake-timing"
+        }
+      ]
+    },
+    {
+      "source": "newsletter",
+      "name": "Dan Koe Newsletter",
+      "category": "个人成长",
+      "items": [
+        {
+          "title": "How to turn your love for learning into a one-person business",
+          "description": "Having multiple interests is not a weakness like people make you believe",
+          "pubDate": "Tue, 02 Jun 2026 14:31:35 GMT",
+          "url": "https://letters.thedankoe.com/p/how-to-turn-your-love-for-learning"
+        },
+        {
+          "title": "I built the writing app I've always wanted",
+          "description": "A place to discover new ideas, refine your unique voice, and use AI intelligently",
+          "pubDate": "Sat, 23 May 2026 15:26:21 GMT",
+          "url": "https://letters.thedankoe.com/p/i-built-the-writing-app-ive-always"
+        }
+      ]
+    }
+  ],
+  "fetchedAt": "2026-06-15T16:27:19.774Z"
+}

@@ -1,0 +1,28 @@
+{
+  "youtube": [
+    { "name": "Mel Robbins",                   "handle": "melrobbins",                    "category": "个人成长" },
+    { "name": "Zara Zhang",                    "handle": "ZaraZhangg",                    "category": "个人成长" },
+    { "name": "Dan Koe",                       "handle": "DanKoeTalks",                   "category": "个人成长" },
+    { "name": "ami",                           "handle": "ami.moment",                    "category": "个人成长" },
+    { "name": "Good Hang with Amy Poehler",    "handle": "Good-Hang-with-Amy-Poehler",    "category": "娱乐" },
+    { "name": "Ha Sisters",                    "handle": "hasisters",                     "category": "娱乐" }
+  ],
+  "x": [
+    { "name": "Zara Zhang", "handle": "zarazhangrui", "category": "个人成长" },
+    { "name": "Dan Koe",    "handle": "thedankoe",    "category": "个人成长" }
+  ],
+  "rss": [
+    {
+      "name": "Huberman Lab",
+      "url": "https://feeds.megaphone.fm/hubermanlab",
+      "type": "podcast",
+      "category": "个人成长"
+    },
+    {
+      "name": "Dan Koe Newsletter",
+      "url": "https://letters.thedankoe.com/feed",
+      "type": "newsletter",
+      "category": "个人成长"
+    }
+  ]
+}

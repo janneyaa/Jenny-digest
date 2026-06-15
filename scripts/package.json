@@ -1,0 +1,15 @@
+{
+  "name": "my-digest",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch": "node fetch-all.js",
+    "remix": "node remix-deliver.js",
+    "run":   "node fetch-all.js && node remix-deliver.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.52.0",
+    "dotenv": "^16.4.0",
+    "xml2js": "^0.6.2"
+  }
+}
