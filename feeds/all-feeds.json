@@ -1,5 +1,180 @@
 {
-  "youtube": [],
+  "youtube": [
+    {
+      "source": "youtube",
+      "name": "Mel Robbins",
+      "handle": "melrobbins",
+      "category": "个人成长",
+      "videos": [
+        {
+          "id": "_NwN9qXxfW0",
+          "title": "7 Things to Tell Yourself Every Night for More Happiness and Positivity",
+          "description": "This episode gives you a reset you can use tonight. In today's solo episode, Mel shows you how to end your day right, with 7 ...",
+          "publishedAt": "2026-06-15T09:00:00Z",
+          "url": "https://www.youtube.com/watch?v=_NwN9qXxfW0"
+        },
+        {
+          "id": "hH4k4VkluI0",
+          "title": "If You Feel Lonely, Follow This 5-3-1 Formula | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-14T19:30:11Z",
+          "url": "https://www.youtube.com/watch?v=hH4k4VkluI0"
+        },
+        {
+          "id": "JKeiOy9uYik",
+          "title": "The 3 types of connections you need in life | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-13T19:30:23Z",
+          "url": "https://www.youtube.com/watch?v=JKeiOy9uYik"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Zara Zhang",
+      "handle": "ZaraZhangg",
+      "category": "个人成长",
+      "videos": [
+        {
+          "id": "jvB2F_hYkXA",
+          "title": "How I got 30k+ GitHub stars as a nontechnical builder: vibe coding techniques and principles",
+          "description": "My talk on how code is becoming a medium for storytelling, and how non-traditional builders can use coding agents to turn taste, ...",
+          "publishedAt": "2026-06-14T17:18:57Z",
+          "url": "https://www.youtube.com/watch?v=jvB2F_hYkXA"
+        },
+        {
+          "id": "6lHqr_y-9e0",
+          "title": "Code as medium for storytelling: My presentation at Vibe Coding Jam event",
+          "description": "This 20-min presentation, \"Code as a Medium for Storytelling\", is an encapsulation of all my recent thinking on vibe coding as a ...",
+          "publishedAt": "2026-02-23T07:13:07Z",
+          "url": "https://www.youtube.com/watch?v=6lHqr_y-9e0"
+        },
+        {
+          "id": "0WND4AsJFlI",
+          "title": "How to Build a Custom X Analytics Dashboard with AI (No Code Tutorial)",
+          "description": "The official X (Twitter) analytics dashboard is missing some crucial data, like your total follower growth over time. It tells you who ...",
+          "publishedAt": "2026-02-02T06:38:18Z",
+          "url": "https://www.youtube.com/watch?v=0WND4AsJFlI"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Dan Koe",
+      "handle": "DanKoeTalks",
+      "category": "个人成长",
+      "videos": [
+        {
+          "id": "FBHhmqBs894",
+          "title": "If You Have Multiple Interests, Start A One-Person Business",
+          "description": "Eden: Your AI Content Strategist (50% off first month) find, save, and reverse-engineer viral content: https://eden.so If you don't ...",
+          "publishedAt": "2026-06-13T14:37:51Z",
+          "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
+        },
+        {
+          "id": "CshMqdaUGcQ",
+          "title": "After 100M+ views, this is the system I wish I had when I started",
+          "description": "Use Eden to take your ideas to the next level: https://eden.so Since we are launching, there's probably going to be issues.",
+          "publishedAt": "2026-05-22T19:22:50Z",
+          "url": "https://www.youtube.com/watch?v=CshMqdaUGcQ"
+        },
+        {
+          "id": "2yJUzTBHcLs",
+          "title": "“Competition” is irrelevant",
+          "description": "",
+          "publishedAt": "2026-05-19T23:42:00Z",
+          "url": "https://www.youtube.com/watch?v=2yJUzTBHcLs"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "ami",
+      "handle": "ami.moment",
+      "category": "个人成长",
+      "videos": [
+        {
+          "id": "yGvtwfaZALc",
+          "title": "讓生活更高效的文件管理系統📁｜我是如何整理照片、拍攝素材各種資料的💻～",
+          "description": "人生整理術之文件管理✌   從照片、影片素材，到工作資料、學習筆記把我的整理思路分享給大家～ 補充說明1️⃣ 如何知道照片 ...",
+          "publishedAt": "2026-06-07T22:02:40Z",
+          "url": "https://www.youtube.com/watch?v=yGvtwfaZALc"
+        },
+        {
+          "id": "egYk0wLaGpI",
+          "title": "Google I/O 2026：普通人&amp;創作者最值得關注的 5 個 AI 更新 💻",
+          "description": "解鎖人生新劇情～這次被邀請去參加Google I/O的發布會。 現場學到超～～多東西，分享給大家！ 如果一定要推薦一個，那就是Flow ...",
+          "publishedAt": "2026-06-04T12:03:38Z",
+          "url": "https://www.youtube.com/watch?v=egYk0wLaGpI"
+        },
+        {
+          "id": "OM34Y2ify2w",
+          "title": "富士相機怎麼選？🤔 我最常用的機身＆鏡頭 📸",
+          "description": "如果你也對AI充滿好奇、想用它解決實際問題，歡迎加入我們「用AI發電」的空間。我的專屬早鳥折扣 ...",
+          "publishedAt": "2026-05-29T10:39:00Z",
+          "url": "https://www.youtube.com/watch?v=OM34Y2ify2w"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Good Hang with Amy Poehler",
+      "handle": "Good-Hang-with-Amy-Poehler",
+      "category": "娱乐",
+      "videos": [
+        {
+          "id": "mWHWva9S8lY",
+          "title": "We’re all just hoping for the best.",
+          "description": "We're all just hoping for the best.",
+          "publishedAt": "2026-06-12T18:45:40Z",
+          "url": "https://www.youtube.com/watch?v=mWHWva9S8lY"
+        },
+        {
+          "id": "RroDr_0vry4",
+          "title": "Anything to keep our viewers happy!!",
+          "description": "Anything to keep our viewers happy!!",
+          "publishedAt": "2026-06-12T15:45:34Z",
+          "url": "https://www.youtube.com/watch?v=RroDr_0vry4"
+        },
+        {
+          "id": "gRqecuhHdBs",
+          "title": "We hope to see you next Tuesday, Philly🫶",
+          "description": "We hope to see you next Tuesday, Philly.",
+          "publishedAt": "2026-06-11T16:22:12Z",
+          "url": "https://www.youtube.com/watch?v=gRqecuhHdBs"
+        }
+      ]
+    },
+    {
+      "source": "youtube",
+      "name": "Ha Sisters",
+      "handle": "hasisters",
+      "category": "娱乐",
+      "videos": [
+        {
+          "id": "DWRJSOSfG6I",
+          "title": "WE WENT TO MY LITTLE SISTER’S SENIOR PROM!!! *VLOG*",
+          "description": "GUYS emily's LAST senior prom vlog….ENJOY!!! MAKE SURE TO LIKE THIS VIDEO + SUBSCRIBE FOR EMILY'S GRADUATION ...",
+          "publishedAt": "2026-06-14T15:19:29Z",
+          "url": "https://www.youtube.com/watch?v=DWRJSOSfG6I"
+        },
+        {
+          "id": "CtiqpCRrlbI",
+          "title": "HA SISTERS REACT TO FAN EDITS + VIRAL MOMENTS *omg...*",
+          "description": "HEY GUYS we're back with a highly requested video.... we reacted to YOUR FAN EDITS!!! If you're one of our CatCakes making ...",
+          "publishedAt": "2026-06-12T15:28:09Z",
+          "url": "https://www.youtube.com/watch?v=CtiqpCRrlbI"
+        },
+        {
+          "id": "aYSv0J8Roas",
+          "title": "WE HIT 5 MILLION SUBSCRIBERS! *livestream*",
+          "description": "TONIGHT WE'RE CELEBRATING OUR 5 MILLION SUBSCRIBER COUNT!! Join us while we celerate and bake a cake for you ...",
+          "publishedAt": "2026-06-10T00:35:47Z",
+          "url": "https://www.youtube.com/watch?v=aYSv0J8Roas"
+        }
+      ]
+    }
+  ],
   "x": [],
   "rss": [
     {
@@ -41,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-15T16:27:19.774Z"
+  "fetchedAt": "2026-06-15T17:48:19.230Z"
 }
