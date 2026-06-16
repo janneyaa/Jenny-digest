@@ -71,6 +71,30 @@ cat ~/.claude/skills/my-digest/feeds/all-feeds.json
 
 如果 YouTube、X、RSS 均无内容，告知用户："今日暂无新内容，请检查 GitHub Actions 是否正常运行。"
 
+### Step 2.5：读取 last-sent 记录
+
+```bash
+cat ~/.claude/skills/my-digest/feeds/last-sent.json 2>/dev/null || echo "{}"
+```
+
+读取上次已发送的内容记录。文件结构如下：
+
+```json
+{
+  "sentAt": "2026-06-16T...",
+  "youtube": ["videoId1", "videoId2"],
+  "rss": ["url-or-title1", "url-or-title2"]
+}
+```
+
+如果文件不存在，视为首次运行，所有内容都是"新的"。
+
+**过滤规则：**
+- YouTube：跳过 `id` 已在 `last-sent.youtube` 中的视频
+- RSS/Podcast/Newsletter：跳过 `url`（无 url 则用 `title`）已在 `last-sent.rss` 中的条目
+- 过滤后某个分类完全没有新内容，则该分类不出现在 digest 中
+- 所有分类都没有新内容，告知用户："今日暂无新内容，所有内容已在上次 digest 中发送过。"
+
 ### Step 3：读取 prompts
 
 依次读取：
@@ -127,8 +151,33 @@ DIGESTEOF
 cd ~/.claude/skills/my-digest/scripts && node deliver.js --file /tmp/my-digest.txt
 ```
 
-推送成功后，询问用户：
-"已推送到飞书！摘要长度和风格是否合适？如需调整，告诉我。"
+推送成功后，执行 Step 7。
+
+### Step 7：更新 last-sent 记录
+
+将本次 digest 中实际发送的所有内容 ID 写入 `last-sent.json`：
+
+- YouTube：收集本次发送的所有视频 `id`
+- RSS：收集本次发送的所有条目的 `url`（无 url 的用 `title` 代替）
+- `sentAt` 写入当前 UTC 时间（用 feeds 的 `fetchedAt` 值即可）
+
+**写入方式（用 node 内联脚本）：**
+
+```bash
+node -e "
+const fs = require('fs');
+const sent = {
+  sentAt: '<fetchedAt值>',
+  youtube: ['<id1>', '<id2>', ...],
+  rss: ['<url-or-title1>', '<url-or-title2>', ...]
+};
+fs.writeFileSync('/Users/insta360/.claude/skills/my-digest/feeds/last-sent.json', JSON.stringify(sent, null, 2));
+console.log('last-sent.json updated');
+"
+```
+
+写入成功后，询问用户：
+"已推送到飞书，last-sent 已更新！摘要长度和风格是否合适？如需调整，告诉我。"
 
 ---
 
