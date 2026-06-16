@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "1A3SQLrvROc",
+          "title": "4 Powerful words to tell yourself every evening | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-15T19:30:28Z",
+          "url": "https://www.youtube.com/watch?v=1A3SQLrvROc"
+        },
+        {
           "id": "_NwN9qXxfW0",
           "title": "7 Things to Tell Yourself Every Night for More Happiness and Positivity",
           "description": "This episode gives you a reset you can use tonight. In today's solo episode, Mel shows you how to end your day right, with 7 ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-06-14T19:30:11Z",
           "url": "https://www.youtube.com/watch?v=hH4k4VkluI0"
-        },
-        {
-          "id": "JKeiOy9uYik",
-          "title": "The 3 types of connections you need in life | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-06-13T19:30:23Z",
-          "url": "https://www.youtube.com/watch?v=JKeiOy9uYik"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-15T17:48:19.230Z"
+  "fetchedAt": "2026-06-16T06:33:05.345Z"
 }
