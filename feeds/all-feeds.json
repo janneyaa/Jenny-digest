@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "99h16cyvroQ",
+          "title": "How friendships affect your immune system | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-17T19:30:36Z",
+          "url": "https://www.youtube.com/watch?v=99h16cyvroQ"
+        },
+        {
           "id": "Hc-ShX0s7VQ",
           "title": "&quot;I don&#39;t need to solve this right now&quot; | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-06-15T19:30:28Z",
           "url": "https://www.youtube.com/watch?v=1A3SQLrvROc"
-        },
-        {
-          "id": "_NwN9qXxfW0",
-          "title": "7 Things to Tell Yourself Every Night for More Happiness and Positivity",
-          "description": "This episode gives you a reset you can use tonight. In today's solo episode, Mel shows you how to end your day right, with 7 ...",
-          "publishedAt": "2026-06-15T09:00:00Z",
-          "url": "https://www.youtube.com/watch?v=_NwN9qXxfW0"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "CW6x9eRoUcQ",
-          "title": "How soon until The Human Centipede hits Broadway?",
-          "description": "How soon until The Human Centipede hits Broadway?",
-          "publishedAt": "2026-06-16T20:10:37Z",
-          "url": "https://www.youtube.com/watch?v=CW6x9eRoUcQ"
+          "id": "xPWPRxz0T1A",
+          "title": "Catch us at the hot dog bar mitzvah all summer long🌭",
+          "description": "Catch us at the hot dog bar mitzvah all summer long.",
+          "publishedAt": "2026-06-17T22:15:18Z",
+          "url": "https://www.youtube.com/watch?v=xPWPRxz0T1A"
         },
         {
-          "id": "3bk_5GixJns",
-          "title": "We did not let the dogs out.",
-          "description": "We did not let the dogs out.",
-          "publishedAt": "2026-06-16T18:45:27Z",
-          "url": "https://www.youtube.com/watch?v=3bk_5GixJns"
+          "id": "V4Ld3SrRD90",
+          "title": "⏰⏰⏰⏰⏰",
+          "description": "",
+          "publishedAt": "2026-06-17T16:30:38Z",
+          "url": "https://www.youtube.com/watch?v=V4Ld3SrRD90"
         },
         {
-          "id": "HpMl8ODrnuc",
-          "title": "Sarah Sherman | Good Hang with Amy Poehler",
-          "description": "Sarah Sherman knows that you can't show your feet for free. Amy hangs with the 'Saturday Night Live' star and talks about why we ...",
-          "publishedAt": "2026-06-16T10:00:08Z",
-          "url": "https://www.youtube.com/watch?v=HpMl8ODrnuc"
+          "id": "R0-u9I4AS4k",
+          "title": "New York’s hottest comedy club is the therapist’s office.",
+          "description": "New York's hottest comedy club is the therapist's office.",
+          "publishedAt": "2026-06-17T16:10:02Z",
+          "url": "https://www.youtube.com/watch?v=R0-u9I4AS4k"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-17T06:10:24.446Z"
+  "fetchedAt": "2026-06-18T05:54:51.958Z"
 }
