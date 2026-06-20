@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "VrOXIOzwYuY",
+          "title": "The Small Habit That Predicts Divorce | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-19T19:30:03Z",
+          "url": "https://www.youtube.com/watch?v=VrOXIOzwYuY"
+        },
+        {
           "id": "BaLKnDYSpR0",
           "title": "The 4 Horsemen Of Relationships | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Today's episode is one of the most eye-opening conversations about marriage, love, and relationships you will ever hear.",
           "publishedAt": "2026-06-18T09:00:02Z",
           "url": "https://www.youtube.com/watch?v=sNzswsEIJ-E"
-        },
-        {
-          "id": "99h16cyvroQ",
-          "title": "How friendships affect your immune system | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-06-17T19:30:36Z",
-          "url": "https://www.youtube.com/watch?v=99h16cyvroQ"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "lcP7cXrDcPo",
+          "title": "Sarah Sherman cast as @adamsandler WHEN??",
+          "description": "Sarah Sherman cast as @adamsandler WHEN??",
+          "publishedAt": "2026-06-20T01:06:24Z",
+          "url": "https://www.youtube.com/watch?v=lcP7cXrDcPo"
+        },
+        {
           "id": "fqnzEgnNwQU",
           "title": "If you want a role on @generalhospitalabc, stay in line!!!",
           "description": "If you want a role on @generalhospitalabc, stay in line!!!",
@@ -135,13 +142,6 @@
           "description": "Introducing the Queen of Clown's Christmas: Sarah Sherman.",
           "publishedAt": "2026-06-18T17:30:28Z",
           "url": "https://www.youtube.com/watch?v=4Hc8BwXJj3A"
-        },
-        {
-          "id": "xPWPRxz0T1A",
-          "title": "Catch us at the hot dog bar mitzvah all summer long🌭",
-          "description": "Catch us at the hot dog bar mitzvah all summer long.",
-          "publishedAt": "2026-06-17T22:15:18Z",
-          "url": "https://www.youtube.com/watch?v=xPWPRxz0T1A"
         }
       ]
     },
@@ -166,11 +166,11 @@
           "url": "https://www.youtube.com/watch?v=CtiqpCRrlbI"
         },
         {
-          "id": "aYSv0J8Roas",
-          "title": "WE HIT 5 MILLION SUBSCRIBERS! *livestream*",
-          "description": "TONIGHT WE'RE CELEBRATING OUR 5 MILLION SUBSCRIBER COUNT!! Join us while we celerate and bake a cake for you ...",
-          "publishedAt": "2026-06-10T00:35:47Z",
-          "url": "https://www.youtube.com/watch?v=aYSv0J8Roas"
+          "id": "7xgl1IVh8Pk",
+          "title": "WE TRAVELED ACROSS THE COUNTRY FOR JUST 24 HOURS!!!",
+          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
+          "publishedAt": "2026-06-09T15:59:28Z",
+          "url": "https://www.youtube.com/watch?v=7xgl1IVh8Pk"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-19T06:18:03.516Z"
+  "fetchedAt": "2026-06-20T05:12:54.860Z"
 }
