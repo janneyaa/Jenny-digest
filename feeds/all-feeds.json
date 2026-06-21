@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "3oF6BJte2tg",
+          "title": "There are two types of charisma (you only need one) | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-20T19:30:03Z",
+          "url": "https://www.youtube.com/watch?v=3oF6BJte2tg"
+        },
+        {
           "id": "VrOXIOzwYuY",
           "title": "The Small Habit That Predicts Divorce | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-06-18T19:30:16Z",
           "url": "https://www.youtube.com/watch?v=BaLKnDYSpR0"
-        },
-        {
-          "id": "sNzswsEIJ-E",
-          "title": "The #1 Relationship Researchers in the World: 50 Years of Marriage &amp; Love Advice in One Conversation",
-          "description": "Today's episode is one of the most eye-opening conversations about marriage, love, and relationships you will ever hear.",
-          "publishedAt": "2026-06-18T09:00:02Z",
-          "url": "https://www.youtube.com/watch?v=sNzswsEIJ-E"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "rPVLFKuleh0",
+          "title": "SPOILING OUR SISTER FOR GETTING INTO COLLEGE!! 💜💜",
+          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
+          "publishedAt": "2026-06-20T13:00:30Z",
+          "url": "https://www.youtube.com/watch?v=rPVLFKuleh0"
+        },
+        {
           "id": "DWRJSOSfG6I",
           "title": "WE WENT TO MY LITTLE SISTER’S SENIOR PROM!!! *VLOG*",
           "description": "GUYS emily's LAST senior prom vlog….ENJOY!!! MAKE SURE TO LIKE THIS VIDEO + SUBSCRIBE FOR EMILY'S GRADUATION ...",
@@ -164,13 +171,6 @@
           "description": "HEY GUYS we're back with a highly requested video.... we reacted to YOUR FAN EDITS!!! If you're one of our CatCakes making ...",
           "publishedAt": "2026-06-12T15:28:09Z",
           "url": "https://www.youtube.com/watch?v=CtiqpCRrlbI"
-        },
-        {
-          "id": "7xgl1IVh8Pk",
-          "title": "WE TRAVELED ACROSS THE COUNTRY FOR JUST 24 HOURS!!!",
-          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
-          "publishedAt": "2026-06-09T15:59:28Z",
-          "url": "https://www.youtube.com/watch?v=7xgl1IVh8Pk"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-20T05:12:54.860Z"
+  "fetchedAt": "2026-06-21T05:59:48.161Z"
 }
