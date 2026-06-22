@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "Iym7r9dv5es",
+          "title": "If you feel stuck, watch this | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-21T19:30:19Z",
+          "url": "https://www.youtube.com/watch?v=Iym7r9dv5es"
+        },
+        {
           "id": "3oF6BJte2tg",
           "title": "There are two types of charisma (you only need one) | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-06-19T19:30:03Z",
           "url": "https://www.youtube.com/watch?v=VrOXIOzwYuY"
-        },
-        {
-          "id": "BaLKnDYSpR0",
-          "title": "The 4 Horsemen Of Relationships | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-06-18T19:30:16Z",
-          "url": "https://www.youtube.com/watch?v=BaLKnDYSpR0"
         }
       ]
     },
@@ -67,7 +67,7 @@
         {
           "id": "FBHhmqBs894",
           "title": "If You Have Multiple Interests, Start A One-Person Business",
-          "description": "Eden: Your AI Content Strategist (50% off first month) find, save, and reverse-engineer viral content: https://eden.so If you don't ...",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
           "publishedAt": "2026-06-13T14:37:51Z",
           "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
         },
@@ -81,7 +81,7 @@
         {
           "id": "7HM-rptYdTs",
           "title": "How To Grow An Audience If You Have 0 Followers (It&#39;s Only 2 Habits)",
-          "description": "Eden V2 – find, save, and reverse-engineer viral content: https://eden.so The youtube swipe file board: ...",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so The youtube swipe ...",
           "publishedAt": "2026-05-14T17:55:49Z",
           "url": "https://www.youtube.com/watch?v=7HM-rptYdTs"
         }
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "O2tacgu37jc",
+          "title": "ARE WE SMARTER THAN 5TH GRADERS?",
+          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
+          "publishedAt": "2026-06-21T13:00:23Z",
+          "url": "https://www.youtube.com/watch?v=O2tacgu37jc"
+        },
+        {
           "id": "rPVLFKuleh0",
           "title": "SPOILING OUR SISTER FOR GETTING INTO COLLEGE!! 💜💜",
           "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
@@ -164,13 +171,6 @@
           "description": "GUYS emily's LAST senior prom vlog….ENJOY!!! MAKE SURE TO LIKE THIS VIDEO + SUBSCRIBE FOR EMILY'S GRADUATION ...",
           "publishedAt": "2026-06-14T15:19:29Z",
           "url": "https://www.youtube.com/watch?v=DWRJSOSfG6I"
-        },
-        {
-          "id": "CtiqpCRrlbI",
-          "title": "HA SISTERS REACT TO FAN EDITS + VIRAL MOMENTS *omg...*",
-          "description": "HEY GUYS we're back with a highly requested video.... we reacted to YOUR FAN EDITS!!! If you're one of our CatCakes making ...",
-          "publishedAt": "2026-06-12T15:28:09Z",
-          "url": "https://www.youtube.com/watch?v=CtiqpCRrlbI"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-21T05:59:48.161Z"
+  "fetchedAt": "2026-06-22T06:29:03.835Z"
 }
