@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "jiuN7u7yUjI",
+          "title": "Conflict Is Necessary For Connection | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-23T19:30:21Z",
+          "url": "https://www.youtube.com/watch?v=jiuN7u7yUjI"
+        },
+        {
           "id": "R3sLKaCrvQU",
           "title": "The Secret to Bringing People Together | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Summer is all about having fun: long days, warm nights, and getting together with the people you love. Today's episode is your ...",
           "publishedAt": "2026-06-22T09:00:34Z",
           "url": "https://www.youtube.com/watch?v=IDqKUXp2ENk"
-        },
-        {
-          "id": "Iym7r9dv5es",
-          "title": "If you feel stuck, watch this | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-06-21T19:30:19Z",
-          "url": "https://www.youtube.com/watch?v=Iym7r9dv5es"
         }
       ]
     },
@@ -35,6 +35,13 @@
       "handle": "ZaraZhangg",
       "category": "个人成长",
       "videos": [
+        {
+          "id": "372Iksaz8b0",
+          "title": "Stop making PowerPoints: how to vibe code beautiful HTML slides with AI (22k+ stars on GitHub)",
+          "description": "Frontend Slides is an open source skill I built that turns your coding agent into a slide designer. Instead of a PowerPoint, you get a ...",
+          "publishedAt": "2026-06-23T06:43:42Z",
+          "url": "https://www.youtube.com/watch?v=372Iksaz8b0"
+        },
         {
           "id": "jvB2F_hYkXA",
           "title": "How I got 30k+ GitHub stars as a nontechnical builder: vibe coding techniques and principles",
@@ -48,13 +55,6 @@
           "description": "This 20-min presentation, \"Code as a Medium for Storytelling\", is an encapsulation of all my recent thinking on vibe coding as a ...",
           "publishedAt": "2026-02-23T07:13:07Z",
           "url": "https://www.youtube.com/watch?v=6lHqr_y-9e0"
-        },
-        {
-          "id": "0WND4AsJFlI",
-          "title": "How to Build a Custom X Analytics Dashboard with AI (No Code Tutorial)",
-          "description": "The official X (Twitter) analytics dashboard is missing some crucial data, like your total follower growth over time. It tells you who ...",
-          "publishedAt": "2026-02-02T06:38:18Z",
-          "url": "https://www.youtube.com/watch?v=0WND4AsJFlI"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "KUPHQSWh9yY",
+          "title": "Greta Lee | Good Hang with Amy Poehler",
+          "description": "Greta Lee lives in L.A. and grows vegetables now. Amy hangs with the 'Toy Story 5' star and talks about taking her parents to a ...",
+          "publishedAt": "2026-06-23T10:00:31Z",
+          "url": "https://www.youtube.com/watch?v=KUPHQSWh9yY"
+        },
+        {
           "id": "lcP7cXrDcPo",
           "title": "Sarah Sherman cast as @adamsandler WHEN??",
           "description": "Sarah Sherman cast as @adamsandler WHEN??",
@@ -135,13 +142,6 @@
           "description": "If you want a role on @generalhospitalabc, stay in line!!!",
           "publishedAt": "2026-06-18T23:15:28Z",
           "url": "https://www.youtube.com/watch?v=fqnzEgnNwQU"
-        },
-        {
-          "id": "4Hc8BwXJj3A",
-          "title": "Introducing the Queen of Clown’s Christmas: Sarah Sherman🃏",
-          "description": "Introducing the Queen of Clown's Christmas: Sarah Sherman.",
-          "publishedAt": "2026-06-18T17:30:28Z",
-          "url": "https://www.youtube.com/watch?v=4Hc8BwXJj3A"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-23T04:59:25.390Z"
+  "fetchedAt": "2026-06-24T05:01:25.536Z"
 }
