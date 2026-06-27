@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "qRvYSO0u1xo",
+          "title": "3 Habits That Help You Age Better | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-26T19:30:08Z",
+          "url": "https://www.youtube.com/watch?v=qRvYSO0u1xo"
+        },
+        {
           "id": "rUYWrVK_Ozg",
           "title": "5 Supplements Everyone Should Take | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Today's episode is a MUST listen. You will learn the surprising science of exercise and nutrition, the mistakes you're making, and ...",
           "publishedAt": "2026-06-25T09:00:33Z",
           "url": "https://www.youtube.com/watch?v=BPZBIzf39M0"
-        },
-        {
-          "id": "JFzPWxQv1h0",
-          "title": "Nothing changes until you change | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-06-24T19:30:22Z",
-          "url": "https://www.youtube.com/watch?v=JFzPWxQv1h0"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "RLjcbaAeSG8",
+          "title": "That’s Academy Award-winning actress Greta Lee to you!",
+          "description": "That's Academy Award-winning actress Greta Lee to you!",
+          "publishedAt": "2026-06-26T18:30:18Z",
+          "url": "https://www.youtube.com/watch?v=RLjcbaAeSG8"
+        },
+        {
           "id": "RDS83nf6x4A",
           "title": "Hey, we need 1 more Sisters movie.",
           "description": "Hey, we need 1 more Sisters movie.",
@@ -135,13 +142,6 @@
           "description": "Nothing comes between us and our Calvins. Except Toy Story 5.",
           "publishedAt": "2026-06-25T22:01:58Z",
           "url": "https://www.youtube.com/watch?v=bORbzA6nFQE"
-        },
-        {
-          "id": "qhcdo1NYLdw",
-          "title": "And that’s on surviving another day at work.",
-          "description": "And that's on surviving another day at work.",
-          "publishedAt": "2026-06-24T19:38:38Z",
-          "url": "https://www.youtube.com/watch?v=qhcdo1NYLdw"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "8uDZYVhK1XY",
+          "title": "COOKING WITH NO RECIPE CHALLENGE… *CHAOTIC* ",
+          "description": "We tried cooking….TIRAMISU!!! Without a recipe lol. TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-06-26T13:00:24Z",
+          "url": "https://www.youtube.com/watch?v=8uDZYVhK1XY"
+        },
         {
           "id": "O2tacgu37jc",
           "title": "ARE WE SMARTER THAN 5TH GRADERS?",
@@ -164,13 +171,6 @@
           "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
           "publishedAt": "2026-06-20T13:00:30Z",
           "url": "https://www.youtube.com/watch?v=rPVLFKuleh0"
-        },
-        {
-          "id": "Od8HL_6a-Xk",
-          "title": "Ha Sisters Go To COACHELLA!!",
-          "description": "we went to coachella again! enjoy~ INSTAGRAM: https://www.instagram.com/HJEVELYN/ SHOP OUR MERCH: ...",
-          "publishedAt": "2025-04-19T19:31:11Z",
-          "url": "https://www.youtube.com/watch?v=Od8HL_6a-Xk"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-26T05:07:30.735Z"
+  "fetchedAt": "2026-06-27T04:52:38.678Z"
 }
