@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "Z1XImYgB_6A",
+          "title": "This is why you overcomplicate things | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-27T19:30:17Z",
+          "url": "https://www.youtube.com/watch?v=Z1XImYgB_6A"
+        },
+        {
           "id": "qRvYSO0u1xo",
           "title": "3 Habits That Help You Age Better | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-06-25T19:30:02Z",
           "url": "https://www.youtube.com/watch?v=rUYWrVK_Ozg"
-        },
-        {
-          "id": "BPZBIzf39M0",
-          "title": "Change Your Body at Any Age: The Diet &amp; Exercise Plan For a Longer Life",
-          "description": "Today's episode is a MUST listen. You will learn the surprising science of exercise and nutrition, the mistakes you're making, and ...",
-          "publishedAt": "2026-06-25T09:00:33Z",
-          "url": "https://www.youtube.com/watch?v=BPZBIzf39M0"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "alyk_DJZ8h8",
+          "title": "HA SISTERS ENTER A SPELLING BEE COMPETITION!!",
+          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
+          "publishedAt": "2026-06-27T13:01:05Z",
+          "url": "https://www.youtube.com/watch?v=alyk_DJZ8h8"
+        },
+        {
           "id": "8uDZYVhK1XY",
           "title": "COOKING WITH NO RECIPE CHALLENGE… *CHAOTIC* ",
           "description": "We tried cooking….TIRAMISU!!! Without a recipe lol. TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
           "publishedAt": "2026-06-21T13:00:23Z",
           "url": "https://www.youtube.com/watch?v=O2tacgu37jc"
-        },
-        {
-          "id": "rPVLFKuleh0",
-          "title": "SPOILING OUR SISTER FOR GETTING INTO COLLEGE!! 💜💜",
-          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
-          "publishedAt": "2026-06-20T13:00:30Z",
-          "url": "https://www.youtube.com/watch?v=rPVLFKuleh0"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-27T04:52:38.678Z"
+  "fetchedAt": "2026-06-28T05:16:06.814Z"
 }
