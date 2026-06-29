@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "uGDAGymKoig",
+          "title": "One simple fall is so dangerous for women | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-28T19:30:39Z",
+          "url": "https://www.youtube.com/watch?v=uGDAGymKoig"
+        },
+        {
           "id": "Z1XImYgB_6A",
           "title": "This is why you overcomplicate things | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-06-26T19:30:08Z",
           "url": "https://www.youtube.com/watch?v=qRvYSO0u1xo"
-        },
-        {
-          "id": "rUYWrVK_Ozg",
-          "title": "5 Supplements Everyone Should Take | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-06-25T19:30:02Z",
-          "url": "https://www.youtube.com/watch?v=rUYWrVK_Ozg"
         }
       ]
     },
@@ -65,6 +65,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "K2QvCV1PB1w",
+          "title": "The 5 Ingredients Of Success (Learn These To Never Get Replaced by AI)",
+          "description": "Your AI content strategist (get daily proven ideas to write about): https://eden.so Or join the bootcamp before July 8th: ...",
+          "publishedAt": "2026-06-28T22:37:06Z",
+          "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
+        },
+        {
           "id": "FBHhmqBs894",
           "title": "If You Have Multiple Interests, Start A One-Person Business",
           "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
@@ -77,13 +84,6 @@
           "description": "",
           "publishedAt": "2026-05-19T23:42:00Z",
           "url": "https://www.youtube.com/watch?v=2yJUzTBHcLs"
-        },
-        {
-          "id": "7HM-rptYdTs",
-          "title": "How To Grow An Audience If You Have 0 Followers (It&#39;s Only 2 Habits)",
-          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so The youtube swipe ...",
-          "publishedAt": "2026-05-14T17:55:49Z",
-          "url": "https://www.youtube.com/watch?v=7HM-rptYdTs"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-28T05:16:06.814Z"
+  "fetchedAt": "2026-06-29T05:49:38.399Z"
 }
