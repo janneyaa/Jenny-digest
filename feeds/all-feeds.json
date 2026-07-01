@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "wCHMhtypJmc",
+          "title": "This Is Why You Dream About People You&#39;ve Lost | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-06-30T19:30:32Z",
+          "url": "https://www.youtube.com/watch?v=wCHMhtypJmc"
+        },
+        {
           "id": "GxgjKB-e6-I",
           "title": "How to Remember Your Dreams | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Today's episode will change how you think about your dreams and your entire life. Do you ever wake up from a dream and ...",
           "publishedAt": "2026-06-29T09:00:25Z",
           "url": "https://www.youtube.com/watch?v=GIGmGupeD_I"
-        },
-        {
-          "id": "uGDAGymKoig",
-          "title": "One simple fall is so dangerous for women | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-06-28T19:30:39Z",
-          "url": "https://www.youtube.com/watch?v=uGDAGymKoig"
         }
       ]
     },
@@ -35,6 +35,13 @@
       "handle": "ZaraZhangg",
       "category": "个人成长",
       "videos": [
+        {
+          "id": "Q8g1hod552g",
+          "title": "I built a Chrome extension that puts your saved articles on your calendar",
+          "description": "\"Read later\" usually means \"read never.\" So I built a Chrome extension that turns your read-later pile into dedicated reading time ...",
+          "publishedAt": "2026-06-30T06:13:03Z",
+          "url": "https://www.youtube.com/watch?v=Q8g1hod552g"
+        },
         {
           "id": "372Iksaz8b0",
           "title": "Stop making PowerPoints: how to vibe code beautiful HTML slides with AI (22k+ stars on GitHub)",
@@ -48,13 +55,6 @@
           "description": "My talk on how code is becoming a medium for storytelling, and how non-traditional builders can use coding agents to turn taste, ...",
           "publishedAt": "2026-06-14T17:18:57Z",
           "url": "https://www.youtube.com/watch?v=jvB2F_hYkXA"
-        },
-        {
-          "id": "6lHqr_y-9e0",
-          "title": "Code as medium for storytelling: My presentation at Vibe Coding Jam event",
-          "description": "This 20-min presentation, \"Code as a Medium for Storytelling\", is an encapsulation of all my recent thinking on vibe coding as a ...",
-          "publishedAt": "2026-02-23T07:13:07Z",
-          "url": "https://www.youtube.com/watch?v=6lHqr_y-9e0"
         }
       ]
     },
@@ -66,8 +66,8 @@
       "videos": [
         {
           "id": "K2QvCV1PB1w",
-          "title": "You need to become &quot;unemployable&quot; if you want to succeed",
-          "description": "Your AI content strategist (get daily proven ideas to write about): https://eden.so Or join the bootcamp before July 8th: ...",
+          "title": "How To Become So Valuable AI Can Never Replace You",
+          "description": "Find validated ideas & create unique content: https://eden.so Or join the bootcamp before July 8th: https://eden.so/bootcamp ...",
           "publishedAt": "2026-06-28T22:37:06Z",
           "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
         },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "4cOSuUZvQRg",
+          "title": "Mindy Kaling | Good Hang with Amy Poehler",
+          "description": "Mindy Kaling is a mogul, and she has a trilogy. Amy hangs with the creator of 'Not Suitable for Work' and talks about looking up to ...",
+          "publishedAt": "2026-06-30T10:00:01Z",
+          "url": "https://www.youtube.com/watch?v=4cOSuUZvQRg"
+        },
+        {
           "id": "RLjcbaAeSG8",
           "title": "That’s Academy Award-winning actress Greta Lee to you!",
           "description": "That's Academy Award-winning actress Greta Lee to you!",
@@ -135,13 +142,6 @@
           "description": "Hey, we need 1 more Sisters movie.",
           "publishedAt": "2026-06-25T22:05:20Z",
           "url": "https://www.youtube.com/watch?v=RDS83nf6x4A"
-        },
-        {
-          "id": "bORbzA6nFQE",
-          "title": "Nothing comes between us and our Calvins. Except Toy Story 5.",
-          "description": "Nothing comes between us and our Calvins. Except Toy Story 5.",
-          "publishedAt": "2026-06-25T22:01:58Z",
-          "url": "https://www.youtube.com/watch?v=bORbzA6nFQE"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-06-30T05:01:57.987Z"
+  "fetchedAt": "2026-07-01T05:20:39.249Z"
 }
