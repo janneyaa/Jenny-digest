@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "6nWfyvcyOyk",
+          "title": "This Trick Erases Anxiety in 24 Hours | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-07T19:30:24Z",
+          "url": "https://www.youtube.com/watch?v=6nWfyvcyOyk"
+        },
+        {
           "id": "hSLJ1kZVxaM",
           "title": "How to Remember Anyone’s Name | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "What if you could walk into any room and become the person everyone remembers? Someone who can communicate with ...",
           "publishedAt": "2026-07-06T09:00:24Z",
           "url": "https://www.youtube.com/watch?v=dz23H7Cgylw"
-        },
-        {
-          "id": "QoDdM-yN-LE",
-          "title": "Career Advice Every Woman Should Hear | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-05T19:30:14Z",
-          "url": "https://www.youtube.com/watch?v=QoDdM-yN-LE"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "vHLof10P3MM",
-          "title": "Catch us in How to Be a Mogul 101 with Professor Mindy",
-          "description": "Catch us in How to Be a Mogul 101 with Professor Mindy.",
-          "publishedAt": "2026-07-03T19:00:38Z",
-          "url": "https://www.youtube.com/watch?v=vHLof10P3MM"
+          "id": "R3Ty4x5gBdw",
+          "title": "We can already hear the Boston accents in the comments.",
+          "description": "We can already hear the Boston accents in the comments.",
+          "publishedAt": "2026-07-07T20:00:35Z",
+          "url": "https://www.youtube.com/watch?v=R3Ty4x5gBdw"
         },
         {
-          "id": "GqdokbMakbA",
-          "title": "All of our algorithms are haunted",
-          "description": "All of our algorithms are haunted.",
-          "publishedAt": "2026-07-03T15:00:15Z",
-          "url": "https://www.youtube.com/watch?v=GqdokbMakbA"
+          "id": "HkXzXqqwVPc",
+          "title": "We had to go see about a Beatle.",
+          "description": "We had to go see about a Beatle.",
+          "publishedAt": "2026-07-07T19:46:09Z",
+          "url": "https://www.youtube.com/watch?v=HkXzXqqwVPc"
         },
         {
-          "id": "wGD9YR7pr38",
-          "title": "Pour yourself a cup of a cappella ambition",
-          "description": "Pour yourself a cup of a cappella ambition.",
-          "publishedAt": "2026-07-02T19:00:25Z",
-          "url": "https://www.youtube.com/watch?v=wGD9YR7pr38"
+          "id": "PfOkaa2a_iA",
+          "title": "Matt Damon | Good Hang with Amy Poehler",
+          "description": "It's Boston's own Matt Damon. Amy hangs with the 'The Odyssey' star and talks about where he was when the Red Sox won the ...",
+          "publishedAt": "2026-07-07T10:00:19Z",
+          "url": "https://www.youtube.com/watch?v=PfOkaa2a_iA"
         }
       ]
     },
@@ -202,10 +202,10 @@
       "category": "个人成长",
       "items": [
         {
-          "title": "My friends thought I was crazy too",
-          "description": "How to write about your interests on the internet, the right way",
-          "pubDate": "Mon, 06 Jul 2026 19:49:12 GMT",
-          "url": "https://letters.thedankoe.com/p/my-friends-thought-i-was-crazy-too"
+          "title": "Enrollment closes tonight (yes i'm selling you something)",
+          "description": "As mentioned in yesterday&#8217;s email, bootcamp enrollment closes tonight.",
+          "pubDate": "Tue, 07 Jul 2026 15:49:52 GMT",
+          "url": "https://letters.thedankoe.com/p/enrollment-closes-tonight-yes-im"
         },
         {
           "title": "The most profitable skill of the 21st century (not AI)",
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-07T04:51:22.877Z"
+  "fetchedAt": "2026-07-08T04:13:37.445Z"
 }
