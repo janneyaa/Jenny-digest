@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "w90OwOttWa4",
+          "title": "The biggest lie about body language | Mel Robbins #Shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-08T19:30:10Z",
+          "url": "https://www.youtube.com/watch?v=w90OwOttWa4"
+        },
+        {
           "id": "6nWfyvcyOyk",
           "title": "This Trick Erases Anxiety in 24 Hours | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-07-06T19:30:36Z",
           "url": "https://www.youtube.com/watch?v=hSLJ1kZVxaM"
-        },
-        {
-          "id": "dz23H7Cgylw",
-          "title": "How to Master Any Conversation, Communicate With Confidence, and Deal With Difficult People",
-          "description": "What if you could walk into any room and become the person everyone remembers? Someone who can communicate with ...",
-          "publishedAt": "2026-07-06T09:00:24Z",
-          "url": "https://www.youtube.com/watch?v=dz23H7Cgylw"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "GGTd1kn4yaE",
+          "title": "How do you like them (fruit basket) apples?",
+          "description": "How do you like them (fruit basket) apples?",
+          "publishedAt": "2026-07-08T16:00:20Z",
+          "url": "https://www.youtube.com/watch?v=GGTd1kn4yaE"
+        },
+        {
           "id": "R3Ty4x5gBdw",
           "title": "We can already hear the Boston accents in the comments.",
           "description": "We can already hear the Boston accents in the comments.",
@@ -135,13 +142,6 @@
           "description": "We had to go see about a Beatle.",
           "publishedAt": "2026-07-07T19:46:09Z",
           "url": "https://www.youtube.com/watch?v=HkXzXqqwVPc"
-        },
-        {
-          "id": "PfOkaa2a_iA",
-          "title": "Matt Damon | Good Hang with Amy Poehler",
-          "description": "It's Boston's own Matt Damon. Amy hangs with the 'The Odyssey' star and talks about where he was when the Red Sox won the ...",
-          "publishedAt": "2026-07-07T10:00:19Z",
-          "url": "https://www.youtube.com/watch?v=PfOkaa2a_iA"
         }
       ]
     },
@@ -202,19 +202,19 @@
       "category": "个人成长",
       "items": [
         {
-          "title": "Enrollment closes tonight (yes i'm selling you something)",
-          "description": "As mentioned in yesterday&#8217;s email, bootcamp enrollment closes tonight.",
-          "pubDate": "Tue, 07 Jul 2026 15:49:52 GMT",
-          "url": "https://letters.thedankoe.com/p/enrollment-closes-tonight-yes-im"
-        },
-        {
           "title": "The most profitable skill of the 21st century (not AI)",
           "description": "How to pull psychological levers and get what you want",
           "pubDate": "Fri, 03 Jul 2026 16:34:50 GMT",
           "url": "https://letters.thedankoe.com/p/the-most-profitable-skill-of-the"
+        },
+        {
+          "title": "How To Come Up With Profound Ideas With Craig Perry",
+          "description": "The secret to growing on socials while writing about ideas you love",
+          "pubDate": "Wed, 01 Jul 2026 19:27:24 GMT",
+          "url": "https://letters.thedankoe.com/p/how-to-come-up-with-profound-ideas"
         }
       ]
     }
   ],
-  "fetchedAt": "2026-07-08T04:13:37.445Z"
+  "fetchedAt": "2026-07-09T04:51:31.290Z"
 }
