@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "8SOJo-NBz2c",
+          "title": "10 foods that help your mood, sleep, and gut | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-12T19:30:02Z",
+          "url": "https://www.youtube.com/watch?v=8SOJo-NBz2c"
+        },
+        {
           "id": "uKtUGwjaaxc",
           "title": "You&#39;re not giving yourself enough credit | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Two simple questions can change the way you make decisions, spend your time, and build your future. In today's episode, Mel sits ...",
           "publishedAt": "2026-07-11T09:00:06Z",
           "url": "https://www.youtube.com/watch?v=IJq-SLEjdsk"
-        },
-        {
-          "id": "pNT_0njLQiU",
-          "title": "Stop Waiting To Feel Better | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-10T19:30:10Z",
-          "url": "https://www.youtube.com/watch?v=pNT_0njLQiU"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-12T04:24:11.070Z"
+  "fetchedAt": "2026-07-13T04:28:45.011Z"
 }
