@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "5xBEL6-nkmU",
+          "title": "You Don&#39;t Need A Life Overhaul. You Need This. | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-14T19:30:06Z",
+          "url": "https://www.youtube.com/watch?v=5xBEL6-nkmU"
+        },
+        {
           "id": "knpKJ743hwo",
           "title": "Feeling Lost Start Here | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "In today's episode, you'll learn how to feel happier and more connected to your purpose in under 5 minutes. Today, you're ...",
           "publishedAt": "2026-07-13T09:00:31Z",
           "url": "https://www.youtube.com/watch?v=-Lg2T5F-1nc"
-        },
-        {
-          "id": "8SOJo-NBz2c",
-          "title": "10 foods that help your mood, sleep, and gut | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-12T19:30:02Z",
-          "url": "https://www.youtube.com/watch?v=8SOJo-NBz2c"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "S47_oNlczKI",
-          "title": "We need Matt back at Harvard so that @mindykaling can be his professor.",
-          "description": "We need Matt back at Harvard so that @mindykaling can be his professor.",
-          "publishedAt": "2026-07-13T17:45:32Z",
-          "url": "https://www.youtube.com/watch?v=S47_oNlczKI"
+          "id": "bRbC1i0hQfI",
+          "title": "It’s not too late to give #TheHouse a nomination @TheAcademyChannel  …",
+          "description": "It's not too late to give #TheHouse a nomination @TheAcademyChannel …",
+          "publishedAt": "2026-07-14T23:30:32Z",
+          "url": "https://www.youtube.com/watch?v=bRbC1i0hQfI"
         },
         {
-          "id": "AbSq2YaRhj8",
-          "title": "Time to bring EuroTrip to Broadway🎭",
-          "description": "Time to bring EuroTrip to Broadway.",
-          "publishedAt": "2026-07-09T22:30:24Z",
-          "url": "https://www.youtube.com/watch?v=AbSq2YaRhj8"
+          "id": "2nY1trMOkMw",
+          "title": "Mbappé! That’s fun to say.",
+          "description": "Mbappé! That's fun to say.",
+          "publishedAt": "2026-07-14T23:25:30Z",
+          "url": "https://www.youtube.com/watch?v=2nY1trMOkMw"
         },
         {
-          "id": "A0OTV8Ki5Fk",
-          "title": "Odysseus should have taken the T home.",
-          "description": "Odysseus should have taken the T home.",
-          "publishedAt": "2026-07-09T22:00:27Z",
-          "url": "https://www.youtube.com/watch?v=A0OTV8Ki5Fk"
+          "id": "TtwKYkFLmfY",
+          "title": "We’re renaming the pod to ‘OKAY, STOP’✋🏻🛑",
+          "description": "We're renaming the pod to 'OKAY, STOP'",
+          "publishedAt": "2026-07-14T23:15:30Z",
+          "url": "https://www.youtube.com/watch?v=TtwKYkFLmfY"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-14T03:55:39.617Z"
+  "fetchedAt": "2026-07-15T03:56:47.022Z"
 }
