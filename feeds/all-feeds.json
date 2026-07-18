@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "gkXZ2oZuvsA",
+          "title": "Negative Self-Talk Starts In Childhood | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-17T19:30:05Z",
+          "url": "https://www.youtube.com/watch?v=gkXZ2oZuvsA"
+        },
+        {
           "id": "cOAb1cocz_M",
           "title": "What is emotional intelligence? | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Are you going to keep being controlled by your emotions for the rest of your life? The answer is no. Because today, Dr. Marc ...",
           "publishedAt": "2026-07-16T09:00:09Z",
           "url": "https://www.youtube.com/watch?v=SWvHZkkrAjc"
-        },
-        {
-          "id": "GvxsN2_62no",
-          "title": "Stop asking what you should do with your life | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-15T19:30:33Z",
-          "url": "https://www.youtube.com/watch?v=GvxsN2_62no"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "415XS_itrUk",
+          "title": "The f***ing Catalina Wine Mixer caused the end of Western civilization.",
+          "description": "The f***ing Catalina Wine Mixer caused the end of Western civilization.",
+          "publishedAt": "2026-07-17T17:15:08Z",
+          "url": "https://www.youtube.com/watch?v=415XS_itrUk"
+        },
+        {
           "id": "jpNADYGlQ80",
           "title": "Forget AI. Call a Swede.",
           "description": "Forget AI. Call a Swede.",
@@ -135,13 +142,6 @@
           "description": "Existential crises are more fun when dressed as an elf.",
           "publishedAt": "2026-07-17T02:35:20Z",
           "url": "https://www.youtube.com/watch?v=R_6x6v7ih1s"
-        },
-        {
-          "id": "N-1gUobIOEY",
-          "title": "No one knows what the question means, but it’s provocative.",
-          "description": "No one knows what the question means, but it's provocative.",
-          "publishedAt": "2026-07-15T22:15:20Z",
-          "url": "https://www.youtube.com/watch?v=N-1gUobIOEY"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "f0xLjj8B72A",
+          "title": "WE LET THE THRIFT STORE DECIDE OUR OUTFITS *challenge*",
+          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
+          "publishedAt": "2026-07-17T13:24:23Z",
+          "url": "https://www.youtube.com/watch?v=f0xLjj8B72A"
+        },
         {
           "id": "RNHRcJaoDKU",
           "title": "WHO KNOWS ME BETTER CHALLENGE *EMILY EDITION* ",
@@ -164,13 +171,6 @@
           "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
           "publishedAt": "2026-07-10T13:00:24Z",
           "url": "https://www.youtube.com/watch?v=io3eEdRIbE0"
-        },
-        {
-          "id": "alyk_DJZ8h8",
-          "title": "HA SISTERS ENTER A SPELLING BEE COMPETITION!!",
-          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
-          "publishedAt": "2026-06-27T13:01:05Z",
-          "url": "https://www.youtube.com/watch?v=alyk_DJZ8h8"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-17T03:58:30.228Z"
+  "fetchedAt": "2026-07-18T03:53:34.772Z"
 }
