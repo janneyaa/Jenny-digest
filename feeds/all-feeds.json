@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "9R2ce6JZvBM",
+          "title": "3 Signs of &quot;Mother Hunger&quot; | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-18T19:30:16Z",
+          "url": "https://www.youtube.com/watch?v=9R2ce6JZvBM"
+        },
+        {
           "id": "gkXZ2oZuvsA",
           "title": "Negative Self-Talk Starts In Childhood | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-07-16T19:37:11Z",
           "url": "https://www.youtube.com/watch?v=cOAb1cocz_M"
-        },
-        {
-          "id": "SWvHZkkrAjc",
-          "title": "How to Increase Your Emotional Intelligence &amp; Never Get Angry or Bothered by Anyone",
-          "description": "Are you going to keep being controlled by your emotions for the rest of your life? The answer is no. Because today, Dr. Marc ...",
-          "publishedAt": "2026-07-16T09:00:09Z",
-          "url": "https://www.youtube.com/watch?v=SWvHZkkrAjc"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-18T03:53:34.772Z"
+  "fetchedAt": "2026-07-19T04:21:20.680Z"
 }
