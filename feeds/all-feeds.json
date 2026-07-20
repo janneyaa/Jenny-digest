@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "MWyOz4GRPRY",
+          "title": "Regret is trying to tell you something | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-19T19:30:10Z",
+          "url": "https://www.youtube.com/watch?v=MWyOz4GRPRY"
+        },
+        {
           "id": "9R2ce6JZvBM",
           "title": "3 Signs of &quot;Mother Hunger&quot; | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-07-17T19:30:05Z",
           "url": "https://www.youtube.com/watch?v=gkXZ2oZuvsA"
-        },
-        {
-          "id": "cOAb1cocz_M",
-          "title": "What is emotional intelligence? | Mel Robbins #Shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-16T19:37:11Z",
-          "url": "https://www.youtube.com/watch?v=cOAb1cocz_M"
         }
       ]
     },
@@ -65,25 +65,25 @@
       "category": "个人成长",
       "videos": [
         {
-          "id": "bWR_3Sg-H-8",
-          "title": "Learn This Skill If You Want To Win In The Next 2-3 Years",
-          "description": "Capture any idea, find what's going viral, and create unique content: https://eden.so Or join the bootcamp before July 8th: ...",
-          "publishedAt": "2026-07-05T19:09:58Z",
-          "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8"
-        },
-        {
-          "id": "v3ltjIJb-F0",
-          "title": "How to change your life in 1 day",
-          "description": "",
-          "publishedAt": "2026-07-05T16:22:14Z",
-          "url": "https://www.youtube.com/watch?v=v3ltjIJb-F0"
-        },
-        {
           "id": "K2QvCV1PB1w",
           "title": "How To Become So Valuable AI Can Never Replace You",
           "description": "Find validated ideas & create unique content: https://eden.so Or join the bootcamp before July 8th: https://eden.so/bootcamp ...",
           "publishedAt": "2026-06-28T22:37:06Z",
           "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
+        },
+        {
+          "id": "FBHhmqBs894",
+          "title": "If You Have Multiple Interests, Start A One-Person Business",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
+          "publishedAt": "2026-06-13T14:37:51Z",
+          "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
+        },
+        {
+          "id": "7HM-rptYdTs",
+          "title": "How To Grow An Audience If You Have 0 Followers (It&#39;s Only 2 Habits)",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so The youtube swipe ...",
+          "publishedAt": "2026-05-14T17:55:49Z",
+          "url": "https://www.youtube.com/watch?v=7HM-rptYdTs"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "hsAK4WtGPnI",
+          "title": "INSTAGRAM CONTROLS OUR DAY FOR 24 HOURS...",
+          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
+          "publishedAt": "2026-07-19T13:00:30Z",
+          "url": "https://www.youtube.com/watch?v=hsAK4WtGPnI"
+        },
+        {
           "id": "f0xLjj8B72A",
           "title": "WE LET THE THRIFT STORE DECIDE OUR OUTFITS *challenge*",
           "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
@@ -164,13 +171,6 @@
           "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
           "publishedAt": "2026-07-11T13:00:19Z",
           "url": "https://www.youtube.com/watch?v=RNHRcJaoDKU"
-        },
-        {
-          "id": "io3eEdRIbE0",
-          "title": "EMBARRASSING OUR LITTLE SISTER FOR HER HIGH SCHOOL GRADUATION DAY *vlog!!*",
-          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
-          "publishedAt": "2026-07-10T13:00:24Z",
-          "url": "https://www.youtube.com/watch?v=io3eEdRIbE0"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-19T04:21:20.680Z"
+  "fetchedAt": "2026-07-20T04:34:29.090Z"
 }
