@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "i8uvvIF8YdQ",
+          "title": "The #1 Sign You&#39;re Being Manipulated | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-21T19:30:13Z",
+          "url": "https://www.youtube.com/watch?v=i8uvvIF8YdQ"
+        },
+        {
           "id": "B7894blT5mM",
           "title": "How to Spot a Narcissist | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "In today's episode, you'll learn the hidden signs of a manipulative, toxic person from the #1 researcher in the world on dark ...",
           "publishedAt": "2026-07-20T09:00:33Z",
           "url": "https://www.youtube.com/watch?v=ybrv66DM9Dw"
-        },
-        {
-          "id": "MWyOz4GRPRY",
-          "title": "Regret is trying to tell you something | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-19T19:30:10Z",
-          "url": "https://www.youtube.com/watch?v=MWyOz4GRPRY"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "415XS_itrUk",
-          "title": "The f***ing Catalina Wine Mixer caused the end of Western civilization.",
-          "description": "The f***ing Catalina Wine Mixer caused the end of Western civilization.",
-          "publishedAt": "2026-07-17T17:15:08Z",
-          "url": "https://www.youtube.com/watch?v=415XS_itrUk"
+          "id": "FCwTL4cq6Mg",
+          "title": "Shh…Calm Down Amy has entered the ring.",
+          "description": "Shh…Calm Down Amy has entered the ring.",
+          "publishedAt": "2026-07-22T00:15:22Z",
+          "url": "https://www.youtube.com/watch?v=FCwTL4cq6Mg"
         },
         {
-          "id": "jpNADYGlQ80",
-          "title": "Forget AI. Call a Swede.",
-          "description": "Forget AI. Call a Swede.",
-          "publishedAt": "2026-07-17T02:40:14Z",
-          "url": "https://www.youtube.com/watch?v=jpNADYGlQ80"
+          "id": "lKNPy3QWF2w",
+          "title": "@johncena claims he’s the first wrestler on Good Hang, but we still can’t see him.",
+          "description": "johncena claims he's the first wrestler on Good Hang, but we still can't see him.",
+          "publishedAt": "2026-07-21T23:50:13Z",
+          "url": "https://www.youtube.com/watch?v=lKNPy3QWF2w"
         },
         {
-          "id": "R_6x6v7ih1s",
-          "title": "Existential crises are more fun when dressed as an elf.",
-          "description": "Existential crises are more fun when dressed as an elf.",
-          "publishedAt": "2026-07-17T02:35:20Z",
-          "url": "https://www.youtube.com/watch?v=R_6x6v7ih1s"
+          "id": "gdb8qApCZmY",
+          "title": "Haberdashery is afoot🧐",
+          "description": "Haberdashery is afoot.",
+          "publishedAt": "2026-07-21T23:45:05Z",
+          "url": "https://www.youtube.com/watch?v=gdb8qApCZmY"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-21T04:14:21.268Z"
+  "fetchedAt": "2026-07-22T04:15:31.273Z"
 }
