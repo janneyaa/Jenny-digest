@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "rRbFML8sQCw",
+          "title": "&quot;I did my best today&quot; | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-22T19:30:06Z",
+          "url": "https://www.youtube.com/watch?v=rRbFML8sQCw"
+        },
+        {
           "id": "i8uvvIF8YdQ",
           "title": "The #1 Sign You&#39;re Being Manipulated | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-07-20T19:30:19Z",
           "url": "https://www.youtube.com/watch?v=B7894blT5mM"
-        },
-        {
-          "id": "ybrv66DM9Dw",
-          "title": "The Manipulation Expert: How to Spot Hidden Manipulators &amp; Take Your Power Back",
-          "description": "In today's episode, you'll learn the hidden signs of a manipulative, toxic person from the #1 researcher in the world on dark ...",
-          "publishedAt": "2026-07-20T09:00:33Z",
-          "url": "https://www.youtube.com/watch?v=ybrv66DM9Dw"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-22T04:15:31.273Z"
+  "fetchedAt": "2026-07-23T04:14:22.983Z"
 }
