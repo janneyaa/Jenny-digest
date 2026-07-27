@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "-jwXnbYvNPg",
+          "title": "How To Have A Difficult Conversation | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-26T19:30:39Z",
+          "url": "https://www.youtube.com/watch?v=-jwXnbYvNPg"
+        },
+        {
           "id": "j5RzbWJ57Qk",
           "title": "7 words to tell yourself before you go to bed | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-07-24T19:30:36Z",
           "url": "https://www.youtube.com/watch?v=QjIrEn0RGc4"
-        },
-        {
-          "id": "e8_Ouq01Ofk",
-          "title": "Here&#39;s What Your Irregular Periods Could Be Telling You | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-23T19:30:29Z",
-          "url": "https://www.youtube.com/watch?v=e8_Ouq01Ofk"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-26T04:24:14.186Z"
+  "fetchedAt": "2026-07-27T04:35:29.792Z"
 }
