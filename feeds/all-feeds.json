@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "e-3Hy4-_H04",
+          "title": "The Power of Speaking Less | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-07-28T19:30:32Z",
+          "url": "https://www.youtube.com/watch?v=e-3Hy4-_H04"
+        },
+        {
           "id": "qp7r8l2jwss",
           "title": "Before You Send That Text...| Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-07-26T19:30:39Z",
           "url": "https://www.youtube.com/watch?v=-jwXnbYvNPg"
-        },
-        {
-          "id": "j5RzbWJ57Qk",
-          "title": "7 words to tell yourself before you go to bed | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-25T19:30:30Z",
-          "url": "https://www.youtube.com/watch?v=j5RzbWJ57Qk"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "q9GYfxnIRmk",
-          "title": "“You can’t see me.”-Our plant to @johncena",
-          "description": "You can't see me.”-Our plant to @johncena.",
-          "publishedAt": "2026-07-24T16:40:27Z",
-          "url": "https://www.youtube.com/watch?v=q9GYfxnIRmk"
+          "id": "2Jeac_sa6bE",
+          "title": "@annelamott is still a sunsetty lavender to us🌅",
+          "description": "annelamott is still a sunsetty lavender to us.",
+          "publishedAt": "2026-07-28T23:35:38Z",
+          "url": "https://www.youtube.com/watch?v=2Jeac_sa6bE"
         },
         {
-          "id": "DyHJALyGW0o",
-          "title": "A round of applause for Carol Cena!",
-          "description": "A round of applause for Carol Cena!",
-          "publishedAt": "2026-07-24T16:30:35Z",
-          "url": "https://www.youtube.com/watch?v=DyHJALyGW0o"
+          "id": "TD7b20hoGIg",
+          "title": "Quick, what’s a fancier word for “advice”🤔",
+          "description": "Quick, what's a fancier word for “advice”",
+          "publishedAt": "2026-07-28T18:55:20Z",
+          "url": "https://www.youtube.com/watch?v=TD7b20hoGIg"
         },
         {
-          "id": "oOpBFE1q_58",
-          "title": "Start your day right with a full spread.",
-          "description": "Start your day right with a full spread.",
-          "publishedAt": "2026-07-23T19:15:00Z",
-          "url": "https://www.youtube.com/watch?v=oOpBFE1q_58"
+          "id": "56H8dtzU7lM",
+          "title": "Anne Lamott | Good Hang with Amy Poehler",
+          "description": "For Anne Lamott, it goes Jesus, the cat, and then everyone else. Amy hangs with the 'Bird by Bird' author and talks about how she ...",
+          "publishedAt": "2026-07-28T10:00:36Z",
+          "url": "https://www.youtube.com/watch?v=56H8dtzU7lM"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-07-28T04:07:29.403Z"
+  "fetchedAt": "2026-07-29T04:10:22.521Z"
 }
