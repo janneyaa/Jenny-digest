@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "_cPoA7rKzro",
+          "title": "Have You Given It A Chance? | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-02T19:30:16Z",
+          "url": "https://www.youtube.com/watch?v=_cPoA7rKzro"
+        },
+        {
           "id": "m5Vu3A_9hLE",
           "title": "How To Know It&#39;s Time For A Change | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-07-31T19:30:20Z",
           "url": "https://www.youtube.com/watch?v=DO1mgCfG-fg"
-        },
-        {
-          "id": "kRl_ER3gIcc",
-          "title": "Nobody Prepares You For Retirement Like This | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-07-30T19:30:29Z",
-          "url": "https://www.youtube.com/watch?v=kRl_ER3gIcc"
         }
       ]
     },
@@ -152,25 +152,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "zl0X4vsCBGo",
+          "title": "beware of the moody teenager STAY CLEAR",
+          "description": "",
+          "publishedAt": "2026-08-02T18:17:58Z",
+          "url": "https://www.youtube.com/watch?v=zl0X4vsCBGo"
+        },
+        {
+          "id": "UeCJhMrxwws",
+          "title": "WE TRIED CAMPING ALONE FOR THE FIRST TIME EVER *never again*",
+          "description": "Hi Catcakes! We're officially camping experts at this point! Should we try a longer camping trip next time? Comment where else ...",
+          "publishedAt": "2026-08-02T13:00:35Z",
+          "url": "https://www.youtube.com/watch?v=UeCJhMrxwws"
+        },
+        {
           "id": "p9M-QwamsYw",
           "title": "ONLY EATING FOOD THAT START WITH E *GONE WRONG*",
           "description": "guys....what the heck. TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-08-01T14:53:44Z",
           "url": "https://www.youtube.com/watch?v=p9M-QwamsYw"
-        },
-        {
-          "id": "KyAzsSHj3gw",
-          "title": "EATING WHAT THE PERSON IN FRONT OF US ORDERED",
-          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
-          "publishedAt": "2026-07-25T13:01:49Z",
-          "url": "https://www.youtube.com/watch?v=KyAzsSHj3gw"
-        },
-        {
-          "id": "_uW4BqUpRAI",
-          "title": "HA SISTERS NYC MORNING ROUTINE *VLOG*",
-          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
-          "publishedAt": "2026-07-24T13:00:17Z",
-          "url": "https://www.youtube.com/watch?v=_uW4BqUpRAI"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-02T04:21:55.115Z"
+  "fetchedAt": "2026-08-03T04:28:23.662Z"
 }
