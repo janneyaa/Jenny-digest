@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "ECA498lcFOI",
+          "title": "How To Win Someone Over In 10 Seconds | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-05T19:30:26Z",
+          "url": "https://www.youtube.com/watch?v=ECA498lcFOI"
+        },
+        {
           "id": "yBwSkBs627E",
           "title": "Stop Asking Permission to Be Great | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-08-03T19:30:11Z",
           "url": "https://www.youtube.com/watch?v=-P6PhibqBEQ"
-        },
-        {
-          "id": "ylswUDZVgWM",
-          "title": "If You Only Watch One Video This Week, Make It This One",
-          "description": "This might be one of the greatest conversations Mel has ever had on this podcast. Today, you're getting an absolute masterclass ...",
-          "publishedAt": "2026-08-03T09:00:38Z",
-          "url": "https://www.youtube.com/watch?v=ylswUDZVgWM"
         }
       ]
     },
@@ -72,18 +72,18 @@
           "url": "https://www.youtube.com/watch?v=KCjwU4XYBL8"
         },
         {
-          "id": "bWR_3Sg-H-8",
-          "title": "Learn This Skill If You Want To Win In The Next 2-3 Years",
-          "description": "Capture any idea, find what's going viral, and create unique content: https://eden.so Or join the bootcamp before July 8th: ...",
-          "publishedAt": "2026-07-05T19:09:58Z",
-          "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8"
+          "id": "K2QvCV1PB1w",
+          "title": "How To Become So Valuable AI Can Never Replace You",
+          "description": "Find validated ideas & create unique content: https://eden.so Or join the bootcamp before July 8th: https://eden.so/bootcamp ...",
+          "publishedAt": "2026-06-28T22:37:06Z",
+          "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
         },
         {
-          "id": "v3ltjIJb-F0",
-          "title": "How to change your life in 1 day",
-          "description": "",
-          "publishedAt": "2026-07-05T16:22:14Z",
-          "url": "https://www.youtube.com/watch?v=v3ltjIJb-F0"
+          "id": "FBHhmqBs894",
+          "title": "If You Have Multiple Interests, Start A One-Person Business",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
+          "publishedAt": "2026-06-13T14:37:51Z",
+          "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
         }
       ]
     },
@@ -123,13 +123,6 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "Ir5sRParP5I",
-          "title": "Lena Waithe | Good Hang with Amy Poehler",
-          "description": "Lena Waithe is always cool. Amy hangs with the 'Chi' creator and 'Cats: The Jellicle Ball' producer and talks about the best part of ...",
-          "publishedAt": "2026-08-04T10:00:03Z",
-          "url": "https://www.youtube.com/watch?v=Ir5sRParP5I"
-        },
-        {
           "id": "mE_ZjjQyE6I",
           "title": "Every dance floor needs a Beyoncé and someone two-stepping on the side.",
           "description": "Every dance floor needs a Beyoncé and someone two-stepping on the side.",
@@ -142,6 +135,13 @@
           "description": "The perks of being @lenawaithe are endless.",
           "publishedAt": "2026-08-05T01:15:15Z",
           "url": "https://www.youtube.com/watch?v=UZx3rt4V8f4"
+        },
+        {
+          "id": "Ir5sRParP5I",
+          "title": "Lena Waithe | Good Hang with Amy Poehler",
+          "description": "Lena Waithe is always cool. Amy hangs with the 'Chi' creator and 'Cats: The Jellicle Ball' producer and talks about the best part of ...",
+          "publishedAt": "2026-08-04T10:00:03Z",
+          "url": "https://www.youtube.com/watch?v=Ir5sRParP5I"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-05T04:06:41.910Z"
+  "fetchedAt": "2026-08-06T04:10:12.658Z"
 }
