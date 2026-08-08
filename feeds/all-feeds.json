@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "LHcwbJCeu-Y",
+          "title": "The 6 Pantry Categories That Make Organization Easy | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-07T19:30:21Z",
+          "url": "https://www.youtube.com/watch?v=LHcwbJCeu-Y"
+        },
+        {
           "id": "1fwCp6zjtB0",
           "title": "Clutter Is Not a Character Flaw | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -15,17 +22,10 @@
         },
         {
           "id": "BfW9ENoucyE",
-          "title": "Organize Your Life &amp; Home: The Simple System That Gives You More Time &amp; Energy | The Home Edit",
+          "title": "Organize Your Life &amp; Home: The Simple System That Gives You More Time, Energy, &amp; Control",
           "description": "This conversation will make your home and your life feel lighter and easier in the first 10 minutes. Clutter is stealing your time, ...",
           "publishedAt": "2026-08-06T09:00:30Z",
           "url": "https://www.youtube.com/watch?v=BfW9ENoucyE"
-        },
-        {
-          "id": "ECA498lcFOI",
-          "title": "How To Win Someone Over In 10 Seconds | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-05T19:30:26Z",
-          "url": "https://www.youtube.com/watch?v=ECA498lcFOI"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "BNCw12uDbcQ",
+          "title": "EATING EVERY SPICY KOREAN RAMEN FLAVOR *everything hurts*",
+          "description": "I really thought we'd never do this again but HERE WE ARE AGAIN! Shop Off-to-College at Amazon – and save on college, save ...",
+          "publishedAt": "2026-08-07T13:00:11Z",
+          "url": "https://www.youtube.com/watch?v=BNCw12uDbcQ"
+        },
+        {
           "id": "HCywFJdaq6Q",
           "title": "where else should we go 👀",
           "description": "",
@@ -164,13 +171,6 @@
           "description": "WE'RE DOING OUR FIRST EVER LIVE SHOW IN NYC!!!!!! presale starts TOMORROW (8/5) at 10am ET - use code CATCAKES.",
           "publishedAt": "2026-08-05T01:21:10Z",
           "url": "https://www.youtube.com/watch?v=2u6co2FbUlA"
-        },
-        {
-          "id": "m2Uqdy8g8gU",
-          "title": "im gonna bully her back next",
-          "description": "",
-          "publishedAt": "2026-08-03T18:56:26Z",
-          "url": "https://www.youtube.com/watch?v=m2Uqdy8g8gU"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-07T03:48:37.490Z"
+  "fetchedAt": "2026-08-08T02:53:12.040Z"
 }
