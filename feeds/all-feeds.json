@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "FGrXPCO9G9s",
+          "title": "The First Step Back To A Purposeful Life | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-09T19:30:01Z",
+          "url": "https://www.youtube.com/watch?v=FGrXPCO9G9s"
+        },
+        {
           "id": "dQhXBDxAHbg",
           "title": "The Most Important Decision You&#39;ll Ever Make | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "If you're feeling anxious, overwhelmed, burned out, or stressed, today's episode will remind you that you are not stuck - and that ...",
           "publishedAt": "2026-08-08T09:00:21Z",
           "url": "https://www.youtube.com/watch?v=knxzN5Y-_p4"
-        },
-        {
-          "id": "LHcwbJCeu-Y",
-          "title": "The 6 Pantry Categories That Make Organization Easy | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-07T19:30:21Z",
-          "url": "https://www.youtube.com/watch?v=LHcwbJCeu-Y"
         }
       ]
     },
@@ -50,11 +50,11 @@
           "url": "https://www.youtube.com/watch?v=372Iksaz8b0"
         },
         {
-          "id": "jvB2F_hYkXA",
-          "title": "How I got 30k+ GitHub stars as a nontechnical builder: vibe coding techniques and principles",
-          "description": "My talk on how code is becoming a medium for storytelling, and how non-traditional builders can use coding agents to turn taste, ...",
-          "publishedAt": "2026-06-14T17:18:57Z",
-          "url": "https://www.youtube.com/watch?v=jvB2F_hYkXA"
+          "id": "a2TPxTLwct0",
+          "title": "I built an AI-powered dictionary using Gemini 3",
+          "description": "Meet Deffie: my custom AI dictionary built with Gemini 3 in Google AI Studio. As a Japanese learner frustrated with existing ...",
+          "publishedAt": "2025-12-11T07:25:15Z",
+          "url": "https://www.youtube.com/watch?v=a2TPxTLwct0"
         }
       ]
     },
@@ -65,25 +65,25 @@
       "category": "个人成长",
       "videos": [
         {
-          "id": "K2QvCV1PB1w",
-          "title": "How To Become So Valuable AI Can Never Replace You",
-          "description": "Find validated ideas & create unique content: https://eden.so Or join the bootcamp before July 8th: https://eden.so/bootcamp ...",
-          "publishedAt": "2026-06-28T22:37:06Z",
-          "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
+          "id": "dbDpegaaxvo",
+          "title": "How To Remember Everything You Read (Stop Trying)",
+          "description": "Capture any idea, find proven ideas, and publish to all platforms: https://eden.so/go/learn-to-write The creators bootcamp - learn to ...",
+          "publishedAt": "2026-08-09T20:24:21Z",
+          "url": "https://www.youtube.com/watch?v=dbDpegaaxvo"
         },
         {
-          "id": "FBHhmqBs894",
-          "title": "If You Have Multiple Interests, Start A One-Person Business",
-          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
-          "publishedAt": "2026-06-13T14:37:51Z",
-          "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
+          "id": "KCjwU4XYBL8",
+          "title": "The Writing System That Saved My Brain (Learn Faster &amp; Think Clearly)",
+          "description": "Capture any idea, find what's going viral, and create unique content: https://eden.so/go/learn-to-write The creators bootcamp ...",
+          "publishedAt": "2026-07-27T22:42:33Z",
+          "url": "https://www.youtube.com/watch?v=KCjwU4XYBL8"
         },
         {
-          "id": "7HM-rptYdTs",
-          "title": "How To Grow An Audience If You Have 0 Followers (It&#39;s Only 2 Habits)",
-          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so The youtube swipe ...",
-          "publishedAt": "2026-05-14T17:55:49Z",
-          "url": "https://www.youtube.com/watch?v=7HM-rptYdTs"
+          "id": "bWR_3Sg-H-8",
+          "title": "Learn This Skill If You Want To Win In The Next 2-3 Years",
+          "description": "Capture any idea, find what's going viral, and create unique content: https://eden.so Or join the bootcamp before July 8th: ...",
+          "publishedAt": "2026-07-05T19:09:58Z",
+          "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8"
         }
       ]
     },
@@ -202,7 +202,7 @@
       "category": "个人成长",
       "items": [
         {
-          "title": "Strategy vs tactics: How to actually get ahead of 99% of people",
+          "title": "The Art Of Strategic Thinking (How To Become Wildly Successful)",
           "description": "Most people are obsessed with false progress, and it shows.",
           "pubDate": "Sat, 08 Aug 2026 21:02:25 GMT",
           "url": "https://letters.thedankoe.com/p/strategy-vs-tactics-how-to-actually"
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-09T03:00:58.352Z"
+  "fetchedAt": "2026-08-10T03:10:16.429Z"
 }
