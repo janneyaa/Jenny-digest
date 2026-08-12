@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "LqAkBjaCXrE",
+          "title": "The Exercise That Helps You Get Unstuck | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-11T19:30:00Z",
+          "url": "https://www.youtube.com/watch?v=LqAkBjaCXrE"
+        },
+        {
           "id": "qRclJSp1jig",
           "title": "If You Feel Like You&#39;re Falling Apart, Watch This | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start ...",
           "publishedAt": "2026-08-10T09:00:38Z",
           "url": "https://www.youtube.com/watch?v=2WhnTeC0Ql0"
-        },
-        {
-          "id": "FGrXPCO9G9s",
-          "title": "The First Step Back To A Purposeful Life | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-09T19:30:01Z",
-          "url": "https://www.youtube.com/watch?v=FGrXPCO9G9s"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "cXRarrZPF1Q",
-          "title": "Genuinely hope this episode resurrects Blockbuster and MTV’s Unplugged.",
-          "description": "Genuinely hope this episode resurrects Blockbuster and MTV's Unplugged.",
-          "publishedAt": "2026-08-08T04:20:01Z",
-          "url": "https://www.youtube.com/watch?v=cXRarrZPF1Q"
+          "id": "Qe5SQjfizjM",
+          "title": "Young Sheldon has nothing on Young Rosie.",
+          "description": "Young Sheldon has nothing on Young Rosie.",
+          "publishedAt": "2026-08-11T20:50:06Z",
+          "url": "https://www.youtube.com/watch?v=Qe5SQjfizjM"
         },
         {
-          "id": "T18Q3dKuZd0",
-          "title": "And that’s on putting the vision in television.",
-          "description": "And that's on putting the vision in television.",
-          "publishedAt": "2026-08-06T22:50:38Z",
-          "url": "https://www.youtube.com/watch?v=T18Q3dKuZd0"
+          "id": "LdoWUSl9fSE",
+          "title": "We hear you’re an Aries, @thereallukeevans? Please confirm.",
+          "description": "We hear you're an Aries, @thereallukeevans? Please confirm.",
+          "publishedAt": "2026-08-11T20:36:26Z",
+          "url": "https://www.youtube.com/watch?v=LdoWUSl9fSE"
         },
         {
-          "id": "PUJl2PjziTI",
-          "title": "Babies “R” Us is still for Millennials.",
-          "description": "Babies “R” Us is still for Millennials.",
-          "publishedAt": "2026-08-06T22:40:22Z",
-          "url": "https://www.youtube.com/watch?v=PUJl2PjziTI"
+          "id": "E5kQw31iynk",
+          "title": "Rosie O&#39;Donnell | Good Hang with Amy Poehler",
+          "description": "Rosie O'Donnell is re-famous. Amy hangs with the actress and talk show host and talks about her one-woman show, 'Common ...",
+          "publishedAt": "2026-08-11T07:00:12Z",
+          "url": "https://www.youtube.com/watch?v=E5kQw31iynk"
         }
       ]
     },
@@ -159,11 +159,11 @@
           "url": "https://www.youtube.com/watch?v=HYuGmNQbmDo"
         },
         {
-          "id": "BNCw12uDbcQ",
-          "title": "EATING EVERY SPICY KOREAN RAMEN FLAVOR *everything hurts*",
-          "description": "I really thought we'd never do this again but HERE WE ARE AGAIN! Shop Off-to-College at Amazon – and save on college, save ...",
-          "publishedAt": "2026-08-07T13:00:11Z",
-          "url": "https://www.youtube.com/watch?v=BNCw12uDbcQ"
+          "id": "HCywFJdaq6Q",
+          "title": "where else should we go 👀",
+          "description": "",
+          "publishedAt": "2026-08-05T01:34:36Z",
+          "url": "https://www.youtube.com/watch?v=HCywFJdaq6Q"
         },
         {
           "id": "2u6co2FbUlA",
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-11T03:03:05.421Z"
+  "fetchedAt": "2026-08-12T03:21:57.008Z"
 }
