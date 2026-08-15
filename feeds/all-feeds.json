@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
-          "id": "xyC9LuZwKK8",
-          "title": "How To Build Real Resilience | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-13T19:30:38Z",
-          "url": "https://www.youtube.com/watch?v=xyC9LuZwKK8"
-        },
-        {
           "id": "h9a553vDvU8",
-          "title": "The Exact Video You Need Today if You Feel Overwhelmed, Stressed, or Stuck",
+          "title": "If You Feel Overwhelmed, Stressed, or Stuck, Listen to This",
           "description": "Today's episode is a conversation you are going to want to revisit over and over and over. You are about to learn the skills nobody ...",
           "publishedAt": "2026-08-13T09:00:21Z",
           "url": "https://www.youtube.com/watch?v=h9a553vDvU8"
         },
         {
-          "id": "tLQ81Gng8FM",
-          "title": "5 Early Signs You&#39;re Dealing With a Sociopath | Mel Robbins #shorts",
+          "id": "2WhnTeC0Ql0",
+          "title": "World Leading Psychologist: How to Manifest Anything &amp; Create the Life You Want",
+          "description": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start ...",
+          "publishedAt": "2026-08-10T09:00:38Z",
+          "url": "https://www.youtube.com/watch?v=2WhnTeC0Ql0"
+        },
+        {
+          "id": "RjjnRA0L1FE",
+          "title": "The First Thing to Do When You&#39;re Overwhelmed | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-12T19:30:31Z",
-          "url": "https://www.youtube.com/watch?v=tLQ81Gng8FM"
+          "publishedAt": "2026-08-14T19:30:10Z",
+          "url": "https://www.youtube.com/watch?v=RjjnRA0L1FE"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "MKkXjxJffgo",
+          "title": "Sometimes all you want is an iced tea from @tomcruise🍹",
+          "description": "Sometimes all you want is an iced tea from @tomcruise.",
+          "publishedAt": "2026-08-15T01:00:32Z",
+          "url": "https://www.youtube.com/watch?v=MKkXjxJffgo"
+        },
+        {
           "id": "KHpkYqQvpho",
           "title": "From Star Search to Car Search.",
           "description": "From Star Search to Car Search.",
@@ -135,13 +142,6 @@
           "description": "Jerry Simon, you will always be famous.",
           "publishedAt": "2026-08-13T17:40:02Z",
           "url": "https://www.youtube.com/watch?v=H9-QLFpqFw4"
-        },
-        {
-          "id": "GBgagz4mvvM",
-          "title": "Need a Flintstones sequel set at the Four Seasons ASAP.",
-          "description": "Need a Flintstones sequel set at the Four Seasons ASAP.",
-          "publishedAt": "2026-08-13T17:30:17Z",
-          "url": "https://www.youtube.com/watch?v=GBgagz4mvvM"
         }
       ]
     },
@@ -166,11 +166,11 @@
           "url": "https://www.youtube.com/watch?v=BNCw12uDbcQ"
         },
         {
-          "id": "HCywFJdaq6Q",
-          "title": "where else should we go 👀",
-          "description": "",
-          "publishedAt": "2026-08-05T01:34:36Z",
-          "url": "https://www.youtube.com/watch?v=HCywFJdaq6Q"
+          "id": "UeCJhMrxwws",
+          "title": "WE TRIED CAMPING ALONE FOR THE FIRST TIME EVER *never again*",
+          "description": "Hi Catcakes! We're officially camping experts at this point! Should we try a longer camping trip next time? Comment where else ...",
+          "publishedAt": "2026-08-02T13:00:35Z",
+          "url": "https://www.youtube.com/watch?v=UeCJhMrxwws"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-14T03:23:15.854Z"
+  "fetchedAt": "2026-08-15T02:12:28.289Z"
 }
