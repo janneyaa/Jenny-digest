@@ -7,18 +7,11 @@
       "category": "个人成长",
       "videos": [
         {
-          "id": "h9a553vDvU8",
-          "title": "If You Feel Overwhelmed, Stressed, or Stuck, Listen to This",
-          "description": "Today's episode is a conversation you are going to want to revisit over and over and over. You are about to learn the skills nobody ...",
-          "publishedAt": "2026-08-13T09:00:21Z",
-          "url": "https://www.youtube.com/watch?v=h9a553vDvU8"
-        },
-        {
-          "id": "2WhnTeC0Ql0",
-          "title": "World Leading Psychologist: How to Manifest Anything &amp; Create the Life You Want",
-          "description": "Today, you are going to learn the science of manifestation, visualization, and imagination - and the steps you can take to start ...",
-          "publishedAt": "2026-08-10T09:00:38Z",
-          "url": "https://www.youtube.com/watch?v=2WhnTeC0Ql0"
+          "id": "q9UiVTsyZvM",
+          "title": "The Biggest Myth About Menopause | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-15T19:30:23Z",
+          "url": "https://www.youtube.com/watch?v=q9UiVTsyZvM"
         },
         {
           "id": "RjjnRA0L1FE",
@@ -26,6 +19,13 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-08-14T19:30:10Z",
           "url": "https://www.youtube.com/watch?v=RjjnRA0L1FE"
+        },
+        {
+          "id": "xyC9LuZwKK8",
+          "title": "How To Build Real Resilience | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-13T19:30:38Z",
+          "url": "https://www.youtube.com/watch?v=xyC9LuZwKK8"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "MJRoIf4f22s",
+          "title": "Ellen Sue! One more story about Penny Marshall💜",
+          "description": "Ellen Sue! One more story about Penny Marshall.",
+          "publishedAt": "2026-08-15T01:05:26Z",
+          "url": "https://www.youtube.com/watch?v=MJRoIf4f22s"
+        },
+        {
           "id": "MKkXjxJffgo",
           "title": "Sometimes all you want is an iced tea from @tomcruise🍹",
           "description": "Sometimes all you want is an iced tea from @tomcruise.",
@@ -135,13 +142,6 @@
           "description": "From Star Search to Car Search.",
           "publishedAt": "2026-08-14T01:55:25Z",
           "url": "https://www.youtube.com/watch?v=KHpkYqQvpho"
-        },
-        {
-          "id": "H9-QLFpqFw4",
-          "title": "Jerry Simon, you will always be famous.",
-          "description": "Jerry Simon, you will always be famous.",
-          "publishedAt": "2026-08-13T17:40:02Z",
-          "url": "https://www.youtube.com/watch?v=H9-QLFpqFw4"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "DhriI9rOsNo",
+          "title": "WE STAYED OVERNIGHT IN OUR TESLA...(major throwback!!!)",
+          "description": "You guys asked for it... so here we are again with this challenge! TUNE IN TO OUR PODCAST - New Episode Every Tuesday!",
+          "publishedAt": "2026-08-15T13:46:47Z",
+          "url": "https://www.youtube.com/watch?v=DhriI9rOsNo"
+        },
         {
           "id": "HYuGmNQbmDo",
           "title": "STRANGERS CONTROLLED OUR DAY IN NYC FOR 24 HOURS *help!!!*",
@@ -164,13 +171,6 @@
           "description": "I really thought we'd never do this again but HERE WE ARE AGAIN! Shop Off-to-College at Amazon – and save on college, save ...",
           "publishedAt": "2026-08-07T13:00:11Z",
           "url": "https://www.youtube.com/watch?v=BNCw12uDbcQ"
-        },
-        {
-          "id": "UeCJhMrxwws",
-          "title": "WE TRIED CAMPING ALONE FOR THE FIRST TIME EVER *never again*",
-          "description": "Hi Catcakes! We're officially camping experts at this point! Should we try a longer camping trip next time? Comment where else ...",
-          "publishedAt": "2026-08-02T13:00:35Z",
-          "url": "https://www.youtube.com/watch?v=UeCJhMrxwws"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-15T02:12:28.289Z"
+  "fetchedAt": "2026-08-16T02:20:10.121Z"
 }
