@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "h9a553vDvU8",
+          "title": "If You Feel Overwhelmed, Stressed, or Stuck, Listen to This",
+          "description": "Today's episode is a conversation you are going to want to revisit over and over and over. You are about to learn the skills nobody ...",
+          "publishedAt": "2026-08-13T09:00:21Z",
+          "url": "https://www.youtube.com/watch?v=h9a553vDvU8"
+        },
+        {
+          "id": "f6rFVTr3ttM",
+          "title": "Save Money With This Small Habit | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-16T19:30:34Z",
+          "url": "https://www.youtube.com/watch?v=f6rFVTr3ttM"
+        },
+        {
           "id": "q9UiVTsyZvM",
           "title": "The Biggest Myth About Menopause | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-08-15T19:30:23Z",
           "url": "https://www.youtube.com/watch?v=q9UiVTsyZvM"
-        },
-        {
-          "id": "RjjnRA0L1FE",
-          "title": "The First Thing to Do When You&#39;re Overwhelmed | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-14T19:30:10Z",
-          "url": "https://www.youtube.com/watch?v=RjjnRA0L1FE"
-        },
-        {
-          "id": "xyC9LuZwKK8",
-          "title": "How To Build Real Resilience | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-13T19:30:38Z",
-          "url": "https://www.youtube.com/watch?v=xyC9LuZwKK8"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-16T02:20:10.121Z"
+  "fetchedAt": "2026-08-17T02:18:49.356Z"
 }
