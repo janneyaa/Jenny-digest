@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "pMO11uKxHfk",
+          "title": "The Career Advice Everyone Needs to Hear | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-18T19:30:08Z",
+          "url": "https://www.youtube.com/watch?v=pMO11uKxHfk"
+        },
+        {
           "id": "unjCbqVzv-U",
           "title": "She Fooled The President in 1990 | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Today, a former spy and the former Chief of Disguise for the CIA is taking you inside the heart-pounding world of espionage and ...",
           "publishedAt": "2026-08-17T09:00:26Z",
           "url": "https://www.youtube.com/watch?v=duWUa9Md_tU"
-        },
-        {
-          "id": "f6rFVTr3ttM",
-          "title": "Save Money With This Small Habit | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-16T19:30:34Z",
-          "url": "https://www.youtube.com/watch?v=f6rFVTr3ttM"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "MJRoIf4f22s",
-          "title": "Ellen Sue! One more story about Penny Marshall💜",
-          "description": "Ellen Sue! One more story about Penny Marshall.",
-          "publishedAt": "2026-08-15T01:05:26Z",
-          "url": "https://www.youtube.com/watch?v=MJRoIf4f22s"
+          "id": "Zp5g4JxQCxw",
+          "title": "Cut the clown show!",
+          "description": "Cut the clown show!",
+          "publishedAt": "2026-08-18T20:15:29Z",
+          "url": "https://www.youtube.com/watch?v=Zp5g4JxQCxw"
         },
         {
-          "id": "MKkXjxJffgo",
-          "title": "Sometimes all you want is an iced tea from @tomcruise🍹",
-          "description": "Sometimes all you want is an iced tea from @tomcruise.",
-          "publishedAt": "2026-08-15T01:00:32Z",
-          "url": "https://www.youtube.com/watch?v=MKkXjxJffgo"
+          "id": "LRQtPoIXjAA",
+          "title": "We would like to ask His Holiness Pope Leo XIV to look into this, since he’s also a Virgo♍️",
+          "description": "We would like to ask His Holiness Pope Leo XIV to look into this, since he's also a Virgo.",
+          "publishedAt": "2026-08-18T20:01:28Z",
+          "url": "https://www.youtube.com/watch?v=LRQtPoIXjAA"
         },
         {
-          "id": "KHpkYqQvpho",
-          "title": "From Star Search to Car Search.",
-          "description": "From Star Search to Car Search.",
-          "publishedAt": "2026-08-14T01:55:25Z",
-          "url": "https://www.youtube.com/watch?v=KHpkYqQvpho"
+          "id": "Q_0IRS1YLKU",
+          "title": "Keke Palmer | Good Hang with Amy Poehler",
+          "description": "Keke Palmer can do it all. Amy hangs with the actress, singer, and podcast host and talks about how Jesus was really a Virgo, her ...",
+          "publishedAt": "2026-08-18T10:00:25Z",
+          "url": "https://www.youtube.com/watch?v=Q_0IRS1YLKU"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-18T02:14:30.159Z"
+  "fetchedAt": "2026-08-19T02:17:30.543Z"
 }
