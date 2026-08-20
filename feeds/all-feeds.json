@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "biMJXtHyk14",
+          "title": "The Missing Piece of Retirement Planning | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-19T19:30:11Z",
+          "url": "https://www.youtube.com/watch?v=biMJXtHyk14"
+        },
+        {
           "id": "pMO11uKxHfk",
           "title": "The Career Advice Everyone Needs to Hear | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-08-17T19:30:13Z",
           "url": "https://www.youtube.com/watch?v=unjCbqVzv-U"
-        },
-        {
-          "id": "duWUa9Md_tU",
-          "title": "Former CIA Spy: How To Build Unshakable Confidence, Eliminate Self-Doubt, and Reinvent Yourself",
-          "description": "Today, a former spy and the former Chief of Disguise for the CIA is taking you inside the heart-pounding world of espionage and ...",
-          "publishedAt": "2026-08-17T09:00:26Z",
-          "url": "https://www.youtube.com/watch?v=duWUa9Md_tU"
         }
       ]
     },
@@ -65,6 +65,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "Qk8rSlDR8z4",
+          "title": "How To Think So Strategically People Assume You&#39;re A Genius",
+          "description": "Strategic thinking will change your life. Full Eden guide: https://youtu.be/1VhMmgL_Gx8 Personal brand strategy AI: ...",
+          "publishedAt": "2026-08-19T18:46:30Z",
+          "url": "https://www.youtube.com/watch?v=Qk8rSlDR8z4"
+        },
+        {
           "id": "dbDpegaaxvo",
           "title": "How To Learn Anything 10x Faster Than Anyone",
           "description": "Capture any idea, find proven ideas, and publish to all platforms: https://eden.so/go/learn-to-write The creators bootcamp - learn to ...",
@@ -77,13 +84,6 @@
           "description": "Capture any idea, find what's going viral, and create unique content: https://eden.so/go/learn-to-write The creators bootcamp ...",
           "publishedAt": "2026-07-27T22:42:33Z",
           "url": "https://www.youtube.com/watch?v=KCjwU4XYBL8"
-        },
-        {
-          "id": "bWR_3Sg-H-8",
-          "title": "Learn This Skill If You Want To Win In The Next 2-3 Years",
-          "description": "Capture any idea, find what's going viral, and create unique content: https://eden.so Or join the bootcamp before July 8th: ...",
-          "publishedAt": "2026-07-05T19:09:58Z",
-          "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "PyAUxUkIr18",
+          "title": "Don’t mind if we turn this hangery into a dancery.",
+          "description": "Don't mind if we turn this hangery into a dancery.",
+          "publishedAt": "2026-08-20T00:00:27Z",
+          "url": "https://www.youtube.com/watch?v=PyAUxUkIr18"
+        },
+        {
           "id": "Zp5g4JxQCxw",
           "title": "Cut the clown show!",
           "description": "Cut the clown show!",
@@ -135,13 +142,6 @@
           "description": "We would like to ask His Holiness Pope Leo XIV to look into this, since he's also a Virgo.",
           "publishedAt": "2026-08-18T20:01:28Z",
           "url": "https://www.youtube.com/watch?v=LRQtPoIXjAA"
-        },
-        {
-          "id": "Q_0IRS1YLKU",
-          "title": "Keke Palmer | Good Hang with Amy Poehler",
-          "description": "Keke Palmer can do it all. Amy hangs with the actress, singer, and podcast host and talks about how Jesus was really a Virgo, her ...",
-          "publishedAt": "2026-08-18T10:00:25Z",
-          "url": "https://www.youtube.com/watch?v=Q_0IRS1YLKU"
         }
       ]
     },
@@ -202,19 +202,19 @@
       "category": "个人成长",
       "items": [
         {
+          "title": "Give me 20 minutes and i’ll make you impossible to manipulate",
+          "description": "The world is a circus",
+          "pubDate": "Wed, 19 Aug 2026 22:21:28 GMT",
+          "url": "https://letters.thedankoe.com/p/give-me-20-minutes-and-ill-make-you"
+        },
+        {
           "title": "The Art Of Strategic Thinking (How To Become Wildly Successful)",
           "description": "Most people are obsessed with false progress, and it shows.",
           "pubDate": "Sat, 08 Aug 2026 21:02:25 GMT",
           "url": "https://letters.thedankoe.com/p/strategy-vs-tactics-how-to-actually"
-        },
-        {
-          "title": "How to remember everything you read... don't",
-          "description": "The best way to learn anything fast",
-          "pubDate": "Sat, 25 Jul 2026 16:59:45 GMT",
-          "url": "https://letters.thedankoe.com/p/how-to-remember-everything-you-read"
         }
       ]
     }
   ],
-  "fetchedAt": "2026-08-19T02:17:30.543Z"
+  "fetchedAt": "2026-08-20T02:16:10.186Z"
 }
