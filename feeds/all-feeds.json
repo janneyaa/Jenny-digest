@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "Z-yvMwsmodg",
+          "title": "Don&#39;t Forget Why They Were Your Favorite Person | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-25T19:30:27Z",
+          "url": "https://www.youtube.com/watch?v=Z-yvMwsmodg"
+        },
+        {
           "id": "OowJ0Rwi0Ys",
           "title": "The Best Relationship Advice I&#39;ve Ever Heard | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Today is Mel's 30th wedding anniversary. And she couldn't think of a better way to celebrate than to have a sit down conversation ...",
           "publishedAt": "2026-08-24T09:00:29Z",
           "url": "https://www.youtube.com/watch?v=3J5VcQIlAck"
-        },
-        {
-          "id": "tnMhgbVrIVQ",
-          "title": "The 80/20 Rule Every Home Needs | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-23T19:30:05Z",
-          "url": "https://www.youtube.com/watch?v=tnMhgbVrIVQ"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "z6hGNmrIksw",
+          "title": "Come what may, we want Nicole Kidman to sing every theme song until our dying day.",
+          "description": "Come what may, we want Nicole Kidman to sing every theme song until our dying day.",
+          "publishedAt": "2026-08-25T17:54:21Z",
+          "url": "https://www.youtube.com/watch?v=z6hGNmrIksw"
+        },
+        {
+          "id": "cSPhuUailtc",
+          "title": "D&#39;Arcy Carden (Live) | Good Hang with Amy Poehler",
+          "description": "D'Arcy Carden is beyond one hundred. Amy hangs with the 'Good Place' and 'Five-Star Weekend' star for a live taping of Good ...",
+          "publishedAt": "2026-08-25T10:00:05Z",
+          "url": "https://www.youtube.com/watch?v=cSPhuUailtc"
+        },
+        {
           "id": "0XAL4rHLIQM",
           "title": "@queenlatifah, we’re ready to bring out the throne for Amy and Keke to interview you👑",
           "description": "queenlatifah, we're ready to bring out the throne for Amy and Keke to interview you.",
           "publishedAt": "2026-08-21T17:00:18Z",
           "url": "https://www.youtube.com/watch?v=0XAL4rHLIQM"
-        },
-        {
-          "id": "hmUKvUZ2wvw",
-          "title": "Don’t forget to schedule a good cry this",
-          "description": "Don't forget to schedule a good cry this.",
-          "publishedAt": "2026-08-21T16:42:18Z",
-          "url": "https://www.youtube.com/watch?v=hmUKvUZ2wvw"
-        },
-        {
-          "id": "mEs9yNflxRw",
-          "title": "No rein, no gain🦌",
-          "description": "No rein, no gain.",
-          "publishedAt": "2026-08-20T17:30:36Z",
-          "url": "https://www.youtube.com/watch?v=mEs9yNflxRw"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-25T02:16:51.443Z"
+  "fetchedAt": "2026-08-26T02:23:23.159Z"
 }
