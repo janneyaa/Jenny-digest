@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "sLRWi55Tx_Y",
+          "title": "Stop Trying to Prove Yourself | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-27T19:30:28Z",
+          "url": "https://www.youtube.com/watch?v=sLRWi55Tx_Y"
+        },
+        {
           "id": "N5OjMuyqdJQ",
           "title": "Stop Wasting Your Energy: How to Deal With People Who Won’t Change &amp; What to Do Instead",
           "description": "There's someone in your life you wish would change. You've pushed, reminded, and given advice. You've had the same ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-08-26T19:30:32Z",
           "url": "https://www.youtube.com/watch?v=34faSkr66cc"
-        },
-        {
-          "id": "Z-yvMwsmodg",
-          "title": "Don&#39;t Forget Why They Were Your Favorite Person | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-25T19:30:27Z",
-          "url": "https://www.youtube.com/watch?v=Z-yvMwsmodg"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "9VxAZAYdWI8",
+          "title": "Don&#39;t forget to forget women today.",
+          "description": "Don't forget to forget women today.",
+          "publishedAt": "2026-08-27T19:28:50Z",
+          "url": "https://www.youtube.com/watch?v=9VxAZAYdWI8"
+        },
+        {
+          "id": "7vCakWWAJb4",
+          "title": "11/10 would buy a t-shirt that says, “Ann. Damn. Dowd.”",
+          "description": "11/10 would buy a t-shirt that says, “Ann. Damn. Dowd.”",
+          "publishedAt": "2026-08-27T16:08:29Z",
+          "url": "https://www.youtube.com/watch?v=7vCakWWAJb4"
+        },
+        {
           "id": "4ZQmNu9U6wk",
           "title": "A pause so long you’d think Pink Floyd might have written it.",
           "description": "A pause so long you'd think Pink Floyd might have written it.",
           "publishedAt": "2026-08-26T22:30:34Z",
           "url": "https://www.youtube.com/watch?v=4ZQmNu9U6wk"
-        },
-        {
-          "id": "xMZyExgAUS0",
-          "title": "You’re never fully dressed without printed-out lyrics.",
-          "description": "You're never fully dressed without printed-out lyrics.",
-          "publishedAt": "2026-08-26T19:13:14Z",
-          "url": "https://www.youtube.com/watch?v=xMZyExgAUS0"
-        },
-        {
-          "id": "EcvrtJFyle0",
-          "title": "Sources say Peaseblossom is still out there celebrating the Knicks.",
-          "description": "Sources say Peaseblossom is still out there celebrating the Knicks.",
-          "publishedAt": "2026-08-26T15:12:37Z",
-          "url": "https://www.youtube.com/watch?v=EcvrtJFyle0"
         }
       ]
     },
@@ -202,19 +202,19 @@
       "category": "个人成长",
       "items": [
         {
+          "title": "We are in the middle of the digital renaissance, please take advantage of it",
+          "description": "why polymaths win in the AI age",
+          "pubDate": "Thu, 27 Aug 2026 18:57:41 GMT",
+          "url": "https://letters.thedankoe.com/p/we-are-in-the-middle-of-the-digital"
+        },
+        {
           "title": "Give me 20 minutes and i’ll make you impossible to manipulate",
           "description": "The world is a circus",
           "pubDate": "Wed, 19 Aug 2026 22:21:28 GMT",
           "url": "https://letters.thedankoe.com/p/give-me-20-minutes-and-ill-make-you"
-        },
-        {
-          "title": "The Art Of Strategic Thinking (How To Become Wildly Successful)",
-          "description": "Most people are obsessed with false progress, and it shows.",
-          "pubDate": "Sat, 08 Aug 2026 21:02:25 GMT",
-          "url": "https://letters.thedankoe.com/p/strategy-vs-tactics-how-to-actually"
         }
       ]
     }
   ],
-  "fetchedAt": "2026-08-27T10:54:19.617Z"
+  "fetchedAt": "2026-08-28T12:30:00.325Z"
 }
