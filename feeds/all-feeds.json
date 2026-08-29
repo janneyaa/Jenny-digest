@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "FsfX3f2rwP8",
+          "title": "2 Questions to Ask Yourself at The End of The Day | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-28T19:30:15Z",
+          "url": "https://www.youtube.com/watch?v=FsfX3f2rwP8"
+        },
+        {
           "id": "sLRWi55Tx_Y",
           "title": "Stop Trying to Prove Yourself | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "There's someone in your life you wish would change. You've pushed, reminded, and given advice. You've had the same ...",
           "publishedAt": "2026-08-27T09:00:25Z",
           "url": "https://www.youtube.com/watch?v=N5OjMuyqdJQ"
-        },
-        {
-          "id": "34faSkr66cc",
-          "title": "How Manifestation Actually Works | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-26T19:30:32Z",
-          "url": "https://www.youtube.com/watch?v=34faSkr66cc"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "PnJGY3_zpmc",
+          "title": "🎶Despite all her rage, D’Arcy’s still singing Annie on stage🎶",
+          "description": "Despite all her rage, D'Arcy's still singing Annie on stage.",
+          "publishedAt": "2026-08-28T15:39:06Z",
+          "url": "https://www.youtube.com/watch?v=PnJGY3_zpmc"
+        },
+        {
           "id": "9VxAZAYdWI8",
           "title": "Don&#39;t forget to forget women today.",
           "description": "Don't forget to forget women today.",
@@ -135,13 +142,6 @@
           "description": "11/10 would buy a t-shirt that says, “Ann. Damn. Dowd.”",
           "publishedAt": "2026-08-27T16:08:29Z",
           "url": "https://www.youtube.com/watch?v=7vCakWWAJb4"
-        },
-        {
-          "id": "4ZQmNu9U6wk",
-          "title": "A pause so long you’d think Pink Floyd might have written it.",
-          "description": "A pause so long you'd think Pink Floyd might have written it.",
-          "publishedAt": "2026-08-26T22:30:34Z",
-          "url": "https://www.youtube.com/watch?v=4ZQmNu9U6wk"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "rKSwpdaKZwU",
+          "title": "Ha Sister’s Everyday Beauty Routine | VOGUE PARODY",
+          "description": "COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets Available Now: https://bit.ly/HaSistersLiveNYC TUNE IN ...",
+          "publishedAt": "2026-08-28T13:00:37Z",
+          "url": "https://www.youtube.com/watch?v=rKSwpdaKZwU"
+        },
         {
           "id": "usALKv1Sn_Q",
           "title": "PICKING UP ON A NEW HOBBY CHALLENGE (wait we’re kinda good..?)",
@@ -164,13 +171,6 @@
           "description": "COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets Available Now: https://bit.ly/HaSistersLiveNYC hey guys!",
           "publishedAt": "2026-08-21T13:00:39Z",
           "url": "https://www.youtube.com/watch?v=dggre7m73GY"
-        },
-        {
-          "id": "Uazm_XdoebE",
-          "title": "get your tickets NOW!!!! can’t wait to see u guys on OCTOBER 2 ❤️❤️❤️",
-          "description": "",
-          "publishedAt": "2026-08-20T20:29:19Z",
-          "url": "https://www.youtube.com/watch?v=Uazm_XdoebE"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-28T12:30:00.325Z"
+  "fetchedAt": "2026-08-29T07:39:45.589Z"
 }
