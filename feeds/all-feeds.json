@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "NI6CMueWSXo",
+          "title": "Don&#39;t Underestimate Yourself | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-08-30T19:30:28Z",
+          "url": "https://www.youtube.com/watch?v=NI6CMueWSXo"
+        },
+        {
           "id": "3fJUDKhK8Bs",
           "title": "The Real Threat to Your Peace | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-08-28T19:30:15Z",
           "url": "https://www.youtube.com/watch?v=FsfX3f2rwP8"
-        },
-        {
-          "id": "sLRWi55Tx_Y",
-          "title": "Stop Trying to Prove Yourself | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-08-27T19:30:28Z",
-          "url": "https://www.youtube.com/watch?v=sLRWi55Tx_Y"
         }
       ]
     },
@@ -65,25 +65,25 @@
       "category": "个人成长",
       "videos": [
         {
-          "id": "Qk8rSlDR8z4",
-          "title": "The Art of Strategic Thinking (How to Become Wildly Successful at Anything You Do)",
-          "description": "Strategic thinking will change your life. Full Eden guide: https://youtu.be/1VhMmgL_Gx8 Personal brand strategy AI: ...",
-          "publishedAt": "2026-08-19T18:46:30Z",
-          "url": "https://www.youtube.com/watch?v=Qk8rSlDR8z4"
+          "id": "K2QvCV1PB1w",
+          "title": "How To Become So Valuable AI Can Never Replace You",
+          "description": "Find validated ideas & create unique content: https://eden.so Or join the bootcamp before July 8th: https://eden.so/bootcamp ...",
+          "publishedAt": "2026-06-28T22:37:06Z",
+          "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
         },
         {
-          "id": "dbDpegaaxvo",
-          "title": "How To Learn Anything 10x Faster Than Anyone",
-          "description": "Capture any idea, find proven ideas, and publish to all platforms: https://eden.so/go/learn-to-write The creators bootcamp - learn to ...",
-          "publishedAt": "2026-08-09T20:24:21Z",
-          "url": "https://www.youtube.com/watch?v=dbDpegaaxvo"
+          "id": "FBHhmqBs894",
+          "title": "If You Have Multiple Interests, Start A One-Person Business",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
+          "publishedAt": "2026-06-13T14:37:51Z",
+          "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
         },
         {
-          "id": "KCjwU4XYBL8",
-          "title": "The Writing System That Saved My Brain (Learn Faster &amp; Think Clearly)",
-          "description": "Capture any idea, find what's going viral, and create unique content: https://eden.so/go/learn-to-write The creators bootcamp ...",
-          "publishedAt": "2026-07-27T22:42:33Z",
-          "url": "https://www.youtube.com/watch?v=KCjwU4XYBL8"
+          "id": "7HM-rptYdTs",
+          "title": "How To Grow An Audience If You Have 0 Followers (It&#39;s Only 2 Habits)",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so The youtube swipe ...",
+          "publishedAt": "2026-05-14T17:55:49Z",
+          "url": "https://www.youtube.com/watch?v=7HM-rptYdTs"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-08-30T06:14:25.712Z"
+  "fetchedAt": "2026-08-31T06:40:05.231Z"
 }
