@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "s8A-If5BNx4",
+          "title": "How to Know You&#39;re With the Right Person | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-05T19:30:24Z",
+          "url": "https://www.youtube.com/watch?v=s8A-If5BNx4"
+        },
+        {
+          "id": "SYdeddh5g2M",
+          "title": "How to recover from rejection | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-05T15:00:06Z",
+          "url": "https://www.youtube.com/watch?v=SYdeddh5g2M"
+        },
+        {
           "id": "kSSAE7o6snk",
           "title": "Stop letting excuses hold you back | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-09-04T15:00:01Z",
           "url": "https://www.youtube.com/watch?v=kSSAE7o6snk"
-        },
-        {
-          "id": "NNmqg9oJpI8",
-          "title": "Benny Blanco on Overcoming Fear, Failure, And Self-Doubt | Mel Robbins #shorts",
-          "description": "Benny Blanco has an important message to share with you today: Failure is the key to success. @bennyblanco is a 12-time ...",
-          "publishedAt": "2026-09-03T15:00:36Z",
-          "url": "https://www.youtube.com/watch?v=NNmqg9oJpI8"
-        },
-        {
-          "id": "wzUxCN-ZFfU",
-          "title": "Give Me 60 Minutes and I&#39;ll Eliminate Your Self-Doubt Forever | Benny Blanco and Mel Robbins",
-          "description": "In this episode, you'll learn how to stop doubting yourself and get anything you want in life. Mel is thrilled to introduce you to her ...",
-          "publishedAt": "2026-09-03T09:00:21Z",
-          "url": "https://www.youtube.com/watch?v=wzUxCN-ZFfU"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "dJhXS7bB-2s",
+          "title": "WE LET TIKTOK DECIDE WHAT WE EAT FOR 24 HOURS!!",
+          "description": "tiktok coming through with some good recommendations... COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall ...",
+          "publishedAt": "2026-09-05T13:00:28Z",
+          "url": "https://www.youtube.com/watch?v=dJhXS7bB-2s"
+        },
+        {
           "id": "fqt_PdLsOkk",
           "title": "WE BECAME BROTHERS FOR THE DAY… *NYC VLOG!*",
           "description": "COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets Available Now: https://bit.ly/HaSistersLiveNYC TUNE IN ...",
@@ -164,13 +171,6 @@
           "description": "COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets Available Now: https://bit.ly/HaSistersLiveNYC TUNE IN ...",
           "publishedAt": "2026-08-28T13:00:37Z",
           "url": "https://www.youtube.com/watch?v=rKSwpdaKZwU"
-        },
-        {
-          "id": "Od8HL_6a-Xk",
-          "title": "Ha Sisters Go To COACHELLA!!",
-          "description": "we went to coachella again! enjoy~ INSTAGRAM: https://www.instagram.com/HJEVELYN/ SHOP OUR MERCH: ...",
-          "publishedAt": "2025-04-19T19:31:11Z",
-          "url": "https://www.youtube.com/watch?v=Od8HL_6a-Xk"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-05T05:16:15.861Z"
+  "fetchedAt": "2026-09-06T05:30:15.790Z"
 }
