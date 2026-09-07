@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "lbrM98JL4U4",
+          "title": "The Hidden Cause of Bloating",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-06T15:00:02Z",
+          "url": "https://www.youtube.com/watch?v=lbrM98JL4U4"
+        },
+        {
           "id": "s8A-If5BNx4",
           "title": "How to Know You&#39;re With the Right Person | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-09-05T15:00:06Z",
           "url": "https://www.youtube.com/watch?v=SYdeddh5g2M"
-        },
-        {
-          "id": "kSSAE7o6snk",
-          "title": "Stop letting excuses hold you back | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-09-04T15:00:01Z",
-          "url": "https://www.youtube.com/watch?v=kSSAE7o6snk"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "kYCD3hofoaE",
+          "title": "KOREAN FOOD ASMR MUKBANG *so satisfying*",
+          "description": "comment what you're eating and what else we should eat :p COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall ...",
+          "publishedAt": "2026-09-06T13:00:33Z",
+          "url": "https://www.youtube.com/watch?v=kYCD3hofoaE"
+        },
+        {
           "id": "dJhXS7bB-2s",
           "title": "WE LET TIKTOK DECIDE WHAT WE EAT FOR 24 HOURS!!",
           "description": "tiktok coming through with some good recommendations... COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall ...",
@@ -164,13 +171,6 @@
           "description": "COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets Available Now: https://bit.ly/HaSistersLiveNYC TUNE IN ...",
           "publishedAt": "2026-09-01T12:00:27Z",
           "url": "https://www.youtube.com/watch?v=fqt_PdLsOkk"
-        },
-        {
-          "id": "rKSwpdaKZwU",
-          "title": "Ha Sister’s Everyday Beauty Routine | VOGUE PARODY",
-          "description": "COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets Available Now: https://bit.ly/HaSistersLiveNYC TUNE IN ...",
-          "publishedAt": "2026-08-28T13:00:37Z",
-          "url": "https://www.youtube.com/watch?v=rKSwpdaKZwU"
         }
       ]
     }
@@ -202,19 +202,19 @@
       "category": "个人成长",
       "items": [
         {
+          "title": "The One-Human Business: How To Earn In The Age of AI",
+          "description": "Your interests + social media + AI = modern business",
+          "pubDate": "Sun, 06 Sep 2026 19:22:36 GMT",
+          "url": "https://letters.thedankoe.com/p/the-one-human-business-how-to-earn"
+        },
+        {
           "title": "We are in the middle of the digital renaissance, please take advantage of it",
           "description": "why polymaths win in the AI age",
           "pubDate": "Thu, 27 Aug 2026 18:57:41 GMT",
           "url": "https://letters.thedankoe.com/p/we-are-in-the-middle-of-the-digital"
-        },
-        {
-          "title": "Give me 20 minutes and i’ll make you impossible to manipulate",
-          "description": "The world is a circus",
-          "pubDate": "Wed, 19 Aug 2026 22:21:28 GMT",
-          "url": "https://letters.thedankoe.com/p/give-me-20-minutes-and-ill-make-you"
         }
       ]
     }
   ],
-  "fetchedAt": "2026-09-06T05:30:15.790Z"
+  "fetchedAt": "2026-09-07T05:41:31.660Z"
 }
