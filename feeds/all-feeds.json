@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "g1TJKhmZsN0",
+          "title": "Everyone Needs To Hear This | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-08T15:00:27Z",
+          "url": "https://www.youtube.com/watch?v=g1TJKhmZsN0"
+        },
+        {
           "id": "X6Xl5mHjHwk",
           "title": "How to let go of regret | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "This episode is a MUST-listen. If you've ever felt behind, scared, stuck, or doubting yourself, you need to hit play. Today, Mel sits ...",
           "publishedAt": "2026-09-07T09:00:23Z",
           "url": "https://www.youtube.com/watch?v=g_wMpEGgc1Q"
-        },
-        {
-          "id": "lbrM98JL4U4",
-          "title": "The Hidden Cause of Bloating",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-09-06T15:00:02Z",
-          "url": "https://www.youtube.com/watch?v=lbrM98JL4U4"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "CLYTZpXiunI",
-          "title": "Grateful to have Gramsy at SNL and on the Insta Gram Gram.",
-          "description": "Grateful to have Gramsy at SNL and on the Insta Gram Gram.",
-          "publishedAt": "2026-09-04T16:12:46Z",
-          "url": "https://www.youtube.com/watch?v=CLYTZpXiunI"
+          "id": "oh_GoXAD3DI",
+          "title": "This one’s for all the pervs out there.",
+          "description": "This one's for all the pervs out there.",
+          "publishedAt": "2026-09-08T19:12:21Z",
+          "url": "https://www.youtube.com/watch?v=oh_GoXAD3DI"
         },
         {
-          "id": "ehm8VJc4YoU",
-          "title": "God bless censorship baby!!!!",
-          "description": "God bless censorship baby!!!!",
-          "publishedAt": "2026-09-03T23:24:14Z",
-          "url": "https://www.youtube.com/watch?v=ehm8VJc4YoU"
+          "id": "URbKMEkFJu4",
+          "title": "Only a comedy red carpet can make you feel like one in a million🥪🍪",
+          "description": "Only a comedy red carpet can make you feel like one in a million.",
+          "publishedAt": "2026-09-08T15:41:10Z",
+          "url": "https://www.youtube.com/watch?v=URbKMEkFJu4"
         },
         {
-          "id": "VYWvBFFERY0",
-          "title": "Baking a chocolate cake with ketchup really was All That.",
-          "description": "Baking a chocolate cake with ketchup really was All That.",
-          "publishedAt": "2026-09-03T15:08:43Z",
-          "url": "https://www.youtube.com/watch?v=VYWvBFFERY0"
+          "id": "R8b6YZGSX_Y",
+          "title": "Sandra Bullock | Good Hang with Amy Poehler",
+          "description": "Sandra Bullock spoke the perfect amount on this podcast. Amy hangs with the actress and star of 'Practical Magic 2' and talks ...",
+          "publishedAt": "2026-09-08T10:00:32Z",
+          "url": "https://www.youtube.com/watch?v=R8b6YZGSX_Y"
         }
       ]
     },
@@ -202,19 +202,19 @@
       "category": "个人成长",
       "items": [
         {
+          "title": "1 day left to join",
+          "description": "If you have multiple interests and want to build a future-proof skill set",
+          "pubDate": "Tue, 08 Sep 2026 14:36:05 GMT",
+          "url": "https://letters.thedankoe.com/p/1-day-left-to-join"
+        },
+        {
           "title": "The One-Human Business: How To Earn In The Age of AI",
           "description": "Your interests + social media + AI = modern business",
           "pubDate": "Sun, 06 Sep 2026 19:22:36 GMT",
           "url": "https://letters.thedankoe.com/p/the-one-human-business-how-to-earn"
-        },
-        {
-          "title": "We are in the middle of the digital renaissance, please take advantage of it",
-          "description": "why polymaths win in the AI age",
-          "pubDate": "Thu, 27 Aug 2026 18:57:41 GMT",
-          "url": "https://letters.thedankoe.com/p/we-are-in-the-middle-of-the-digital"
         }
       ]
     }
   ],
-  "fetchedAt": "2026-09-08T05:36:19.553Z"
+  "fetchedAt": "2026-09-09T05:43:15.346Z"
 }
