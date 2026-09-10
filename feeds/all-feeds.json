@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "-lCBO5SCSPs",
+          "title": "3 Ways to Reverse Insulin Resistance",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-09T15:00:21Z",
+          "url": "https://www.youtube.com/watch?v=-lCBO5SCSPs"
+        },
+        {
           "id": "g1TJKhmZsN0",
           "title": "Everyone Needs To Hear This | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-09-07T15:00:19Z",
           "url": "https://www.youtube.com/watch?v=X6Xl5mHjHwk"
-        },
-        {
-          "id": "g_wMpEGgc1Q",
-          "title": "This One Episode Will Motivate You to Change Your Entire Life | Gary Vee",
-          "description": "This episode is a MUST-listen. If you've ever felt behind, scared, stuck, or doubting yourself, you need to hit play. Today, Mel sits ...",
-          "publishedAt": "2026-09-07T09:00:23Z",
-          "url": "https://www.youtube.com/watch?v=g_wMpEGgc1Q"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "EsAmJy9LxIA",
+          "title": "You can’t spell George without ER.",
+          "description": "You can't spell George without ER.",
+          "publishedAt": "2026-09-09T22:52:52Z",
+          "url": "https://www.youtube.com/watch?v=EsAmJy9LxIA"
+        },
+        {
+          "id": "bZWQL_MHWTM",
+          "title": "Loved that scene in Speed where the skunk drives the bus🦨",
+          "description": "Loved that scene in Speed where the skunk drives the bus.",
+          "publishedAt": "2026-09-09T15:58:42Z",
+          "url": "https://www.youtube.com/watch?v=bZWQL_MHWTM"
+        },
+        {
           "id": "oh_GoXAD3DI",
           "title": "This one’s for all the pervs out there.",
           "description": "This one's for all the pervs out there.",
           "publishedAt": "2026-09-08T19:12:21Z",
           "url": "https://www.youtube.com/watch?v=oh_GoXAD3DI"
-        },
-        {
-          "id": "URbKMEkFJu4",
-          "title": "Only a comedy red carpet can make you feel like one in a million🥪🍪",
-          "description": "Only a comedy red carpet can make you feel like one in a million.",
-          "publishedAt": "2026-09-08T15:41:10Z",
-          "url": "https://www.youtube.com/watch?v=URbKMEkFJu4"
-        },
-        {
-          "id": "R8b6YZGSX_Y",
-          "title": "Sandra Bullock | Good Hang with Amy Poehler",
-          "description": "Sandra Bullock spoke the perfect amount on this podcast. Amy hangs with the actress and star of 'Practical Magic 2' and talks ...",
-          "publishedAt": "2026-09-08T10:00:32Z",
-          "url": "https://www.youtube.com/watch?v=R8b6YZGSX_Y"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-09T05:43:15.346Z"
+  "fetchedAt": "2026-09-10T05:36:44.442Z"
 }
