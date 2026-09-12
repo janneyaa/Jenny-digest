@@ -65,6 +65,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "XqS7kIWMIDE",
+          "title": "If You Have Multiple Interests, Please Start a One-Person Business",
+          "description": "Free: the full one person business AI system: https://eden.so/kits/one-human-business/ My weekly writing on the mind, the internet, ...",
+          "publishedAt": "2026-09-11T16:01:32Z",
+          "url": "https://www.youtube.com/watch?v=XqS7kIWMIDE"
+        },
+        {
           "id": "pmQhqVLVApw",
           "title": "If You Have Multiple Interests, Please Take Advantage of the Next 10 Years",
           "description": "Creator bootcamp starts sept 9th: https://eden.so/bootcamp Combine your interests into one brand with this custom AI: ...",
@@ -77,13 +84,6 @@
           "description": "Find validated ideas & create unique content: https://eden.so Or join the bootcamp before July 8th: https://eden.so/bootcamp ...",
           "publishedAt": "2026-06-28T22:37:06Z",
           "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
-        },
-        {
-          "id": "FBHhmqBs894",
-          "title": "If You Have Multiple Interests, Start A One-Person Business",
-          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
-          "publishedAt": "2026-06-13T14:37:51Z",
-          "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "B4gP95NlKxk",
+          "title": "Sounds like we’re getting a Sandra Bullock Good Hang residency!!!",
+          "description": "Sounds like we're getting a Sandra Bullock Good Hang residency!!!",
+          "publishedAt": "2026-09-11T15:16:36Z",
+          "url": "https://www.youtube.com/watch?v=B4gP95NlKxk"
+        },
+        {
           "id": "8HaXKACHqQc",
           "title": "Actually, let’s learn how to say this word in every language.",
           "description": "Actually, let's learn how to say this word in every language.",
@@ -135,13 +142,6 @@
           "description": "You can't spell George without ER.",
           "publishedAt": "2026-09-09T22:52:52Z",
           "url": "https://www.youtube.com/watch?v=EsAmJy9LxIA"
-        },
-        {
-          "id": "bZWQL_MHWTM",
-          "title": "Loved that scene in Speed where the skunk drives the bus🦨",
-          "description": "Loved that scene in Speed where the skunk drives the bus.",
-          "publishedAt": "2026-09-09T15:58:42Z",
-          "url": "https://www.youtube.com/watch?v=bZWQL_MHWTM"
         }
       ]
     },
@@ -166,11 +166,11 @@
           "url": "https://www.youtube.com/watch?v=dJhXS7bB-2s"
         },
         {
-          "id": "fqt_PdLsOkk",
-          "title": "WE BECAME BROTHERS FOR THE DAY… *NYC VLOG!*",
-          "description": "COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets Available Now: https://bit.ly/HaSistersLiveNYC TUNE IN ...",
-          "publishedAt": "2026-09-01T12:00:27Z",
-          "url": "https://www.youtube.com/watch?v=fqt_PdLsOkk"
+          "id": "Od8HL_6a-Xk",
+          "title": "Ha Sisters Go To COACHELLA!!",
+          "description": "we went to coachella again! enjoy~ INSTAGRAM: https://www.instagram.com/HJEVELYN/ SHOP OUR MERCH: ...",
+          "publishedAt": "2025-04-19T19:31:11Z",
+          "url": "https://www.youtube.com/watch?v=Od8HL_6a-Xk"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-11T05:37:31.467Z"
+  "fetchedAt": "2026-09-12T05:24:51.334Z"
 }
