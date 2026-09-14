@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "B3xs9FtVNNg",
+          "title": "You&#39;ll NEVER Believe Who Is Coming On The Podcast...| Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-13T22:54:40Z",
+          "url": "https://www.youtube.com/watch?v=B3xs9FtVNNg"
+        },
+        {
+          "id": "CQouhd3_MYk",
+          "title": "Have The Courage To Be Disliked | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-13T15:00:36Z",
+          "url": "https://www.youtube.com/watch?v=CQouhd3_MYk"
+        },
+        {
           "id": "UL6h-OqJQh8",
           "title": "Stanford Psychologist: 7 Small Things You Can Do Right Now to Enjoy Life More",
           "description": "You don't have to wait for your life to get easier to start enjoying it. Today, Mel sits down with Dr. Kelly McGonigal, a renowned ...",
           "publishedAt": "2026-09-10T09:00:08Z",
           "url": "https://www.youtube.com/watch?v=UL6h-OqJQh8"
-        },
-        {
-          "id": "-lCBO5SCSPs",
-          "title": "3 Ways to Reverse Insulin Resistance",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-09-09T15:00:21Z",
-          "url": "https://www.youtube.com/watch?v=-lCBO5SCSPs"
-        },
-        {
-          "id": "g1TJKhmZsN0",
-          "title": "Everyone Needs To Hear This | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-09-08T15:00:27Z",
-          "url": "https://www.youtube.com/watch?v=g1TJKhmZsN0"
         }
       ]
     },
@@ -72,18 +72,18 @@
           "url": "https://www.youtube.com/watch?v=XqS7kIWMIDE"
         },
         {
-          "id": "pmQhqVLVApw",
-          "title": "If You Have Multiple Interests, Please Take Advantage of the Next 10 Years",
-          "description": "Creator bootcamp starts sept 9th: https://eden.so/bootcamp Combine your interests into one brand with this custom AI: ...",
-          "publishedAt": "2026-09-03T20:32:23Z",
-          "url": "https://www.youtube.com/watch?v=pmQhqVLVApw"
-        },
-        {
           "id": "K2QvCV1PB1w",
           "title": "How To Become So Valuable AI Can Never Replace You",
           "description": "Find validated ideas & create unique content: https://eden.so Or join the bootcamp before July 8th: https://eden.so/bootcamp ...",
           "publishedAt": "2026-06-28T22:37:06Z",
           "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w"
+        },
+        {
+          "id": "FBHhmqBs894",
+          "title": "If You Have Multiple Interests, Start A One-Person Business",
+          "description": "Research, write, and schedule content with your AI strategist (gives you daily ideas to run with): https://eden.so If you don't know ...",
+          "publishedAt": "2026-06-13T14:37:51Z",
+          "url": "https://www.youtube.com/watch?v=FBHhmqBs894"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "80L837p4G2Q",
+          "title": "BUYING KIDS EVERYTHING THEY NEED FOR BACK TO SCHOOL!!! *so cute*",
+          "description": "comment down below if you're going back to school!!! COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall Tickets ...",
+          "publishedAt": "2026-09-13T13:00:38Z",
+          "url": "https://www.youtube.com/watch?v=80L837p4G2Q"
+        },
+        {
           "id": "doqBq-05jO0",
           "title": "WE BUILT A COLLEGE DORM IN OUR BASEMENT!!! (it&#39;s actually so good…)",
           "description": "what else should we build in our basement??? Shop Off-to-College at Amazon – and save on college, save the everyday!",
@@ -164,13 +171,6 @@
           "description": "comment what you're eating and what else we should eat :p COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall ...",
           "publishedAt": "2026-09-06T13:00:33Z",
           "url": "https://www.youtube.com/watch?v=kYCD3hofoaE"
-        },
-        {
-          "id": "dJhXS7bB-2s",
-          "title": "WE LET TIKTOK DECIDE WHAT WE EAT FOR 24 HOURS!!",
-          "description": "tiktok coming through with some good recommendations... COME TO OUR NYC LIVE SHOW! October 2, 2026 - Town Hall ...",
-          "publishedAt": "2026-09-05T13:00:28Z",
-          "url": "https://www.youtube.com/watch?v=dJhXS7bB-2s"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-13T05:39:47.064Z"
+  "fetchedAt": "2026-09-14T05:47:57.889Z"
 }
