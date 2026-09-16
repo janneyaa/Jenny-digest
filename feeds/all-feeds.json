@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "vCeYo2Hngk0",
+          "title": "What Happens When You Quit Social Media for 1 Week | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-15T15:00:02Z",
+          "url": "https://www.youtube.com/watch?v=vCeYo2Hngk0"
+        },
+        {
           "id": "b02vpNgl9CQ",
           "title": "What Social Media Is Doing to Girls | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-09-14T13:28:02Z",
           "url": "https://www.youtube.com/watch?v=ej46FEg7Ov8"
-        },
-        {
-          "id": "HOG2BYMWw7w",
-          "title": "The Science Behind Why Your Pet Makes You Feel Better | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-09-14T13:26:32Z",
-          "url": "https://www.youtube.com/watch?v=HOG2BYMWw7w"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "B4gP95NlKxk",
-          "title": "Sounds like we’re getting a Sandra Bullock Good Hang residency!!!",
-          "description": "Sounds like we're getting a Sandra Bullock Good Hang residency!!!",
-          "publishedAt": "2026-09-11T15:16:36Z",
-          "url": "https://www.youtube.com/watch?v=B4gP95NlKxk"
+          "id": "ufwa1n3PKe0",
+          "title": "Robert De Niro is down with B-O-B.",
+          "description": "Robert De Niro is down with B-O-B.",
+          "publishedAt": "2026-09-15T19:49:29Z",
+          "url": "https://www.youtube.com/watch?v=ufwa1n3PKe0"
         },
         {
-          "id": "8HaXKACHqQc",
-          "title": "Actually, let’s learn how to say this word in every language.",
-          "description": "Actually, let's learn how to say this word in every language.",
-          "publishedAt": "2026-09-10T15:16:19Z",
-          "url": "https://www.youtube.com/watch?v=8HaXKACHqQc"
+          "id": "iZZewibKKvg",
+          "title": "Better to be a king on TikTok than a schmuck for a lifetime.",
+          "description": "Better to be a king on TikTok than a schmuck for a lifetime.",
+          "publishedAt": "2026-09-15T15:51:12Z",
+          "url": "https://www.youtube.com/watch?v=iZZewibKKvg"
         },
         {
-          "id": "EsAmJy9LxIA",
-          "title": "You can’t spell George without ER.",
-          "description": "You can't spell George without ER.",
-          "publishedAt": "2026-09-09T22:52:52Z",
-          "url": "https://www.youtube.com/watch?v=EsAmJy9LxIA"
+          "id": "LsQN3RinNRU",
+          "title": "Robert De Niro | Good Hang with Amy Poehler",
+          "description": "Robert De Niro said that we can call him Bob. Amy hangs with the movie star and talks about being the subject of thirst traps, his ...",
+          "publishedAt": "2026-09-15T10:00:24Z",
+          "url": "https://www.youtube.com/watch?v=LsQN3RinNRU"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-15T05:49:41.653Z"
+  "fetchedAt": "2026-09-16T05:38:17.026Z"
 }
