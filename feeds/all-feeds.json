@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "qWTBvfyiNn4",
+          "title": "You Are Not Too Much | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-18T15:00:23Z",
+          "url": "https://www.youtube.com/watch?v=qWTBvfyiNn4"
+        },
+        {
           "id": "38miChIw1OM",
           "title": "Oprah&#39;s Message To YOU | Mel Robbins #Shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "This episode is a master class on how to live an incredible life. In one of the most powerful conversations ever recorded on The ...",
           "publishedAt": "2026-09-17T09:00:34Z",
           "url": "https://www.youtube.com/watch?v=adQyLViK_ZU"
-        },
-        {
-          "id": "BtRsFxI47lo",
-          "title": "This Is Why So Many Women Miss ADHD | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-09-16T19:30:06Z",
-          "url": "https://www.youtube.com/watch?v=BtRsFxI47lo"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "pl63nygNSQY",
+          "title": "Scorsese could only dream of a review like this.",
+          "description": "Scorsese could only dream of a review like this.",
+          "publishedAt": "2026-09-18T15:22:04Z",
+          "url": "https://www.youtube.com/watch?v=pl63nygNSQY"
+        },
+        {
           "id": "oxtqUn9HUuk",
           "title": "We’re hearing reports that Bob was spotted at Uncle Gino’s after we recorded.",
           "description": "We're hearing reports that Bob was spotted at Uncle Gino's after we recorded.",
@@ -135,13 +142,6 @@
           "description": "Let's get Bob back on the sax please!!",
           "publishedAt": "2026-09-16T23:54:02Z",
           "url": "https://www.youtube.com/watch?v=3uZH0UyIJck"
-        },
-        {
-          "id": "0Wm7rbe1n5k",
-          "title": "Robert De Niro is, in fact, talkin’ to us this week.",
-          "description": "Robert De Niro is, in fact, talkin' to us this week.",
-          "publishedAt": "2026-09-16T23:18:21Z",
-          "url": "https://www.youtube.com/watch?v=0Wm7rbe1n5k"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-18T05:33:19.233Z"
+  "fetchedAt": "2026-09-19T05:29:34.097Z"
 }
