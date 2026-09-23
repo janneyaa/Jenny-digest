@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "lil04xAgGDQ",
+          "title": "Stop Thinking They Should, Ask If They Could| Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-22T15:00:06Z",
+          "url": "https://www.youtube.com/watch?v=lil04xAgGDQ"
+        },
+        {
           "id": "OOIaDO8AxKA",
           "title": "You May Be Part Of The Problem | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-09-21T17:10:24Z",
           "url": "https://www.youtube.com/watch?v=oCWU-bcdrGw"
-        },
-        {
-          "id": "brVzDv0Ze-o",
-          "title": "Let Them: How to Handle Difficult People &amp; Take Back Your Peace and Power",
-          "description": "Today, Mel is digging into The Let Them Theory in a brand-new way – and answering the #1 question she's been asked since the ...",
-          "publishedAt": "2026-09-21T09:00:09Z",
-          "url": "https://www.youtube.com/watch?v=brVzDv0Ze-o"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "pl63nygNSQY",
-          "title": "Scorsese could only dream of a review like this.",
-          "description": "Scorsese could only dream of a review like this.",
-          "publishedAt": "2026-09-18T15:22:04Z",
-          "url": "https://www.youtube.com/watch?v=pl63nygNSQY"
+          "id": "iYYBDUDcxVE",
+          "title": "Hey @copstv, we found her!!!!!",
+          "description": "Hey @copstv, we found her!!!!!",
+          "publishedAt": "2026-09-22T23:50:53Z",
+          "url": "https://www.youtube.com/watch?v=iYYBDUDcxVE"
         },
         {
-          "id": "oxtqUn9HUuk",
-          "title": "We’re hearing reports that Bob was spotted at Uncle Gino’s after we recorded.",
-          "description": "We're hearing reports that Bob was spotted at Uncle Gino's after we recorded.",
-          "publishedAt": "2026-09-17T16:14:33Z",
-          "url": "https://www.youtube.com/watch?v=oxtqUn9HUuk"
+          "id": "MaZIjvfBWss",
+          "title": "We talkin’ laptops?",
+          "description": "We talkin' laptops?",
+          "publishedAt": "2026-09-22T15:37:55Z",
+          "url": "https://www.youtube.com/watch?v=MaZIjvfBWss"
         },
         {
-          "id": "3uZH0UyIJck",
-          "title": "Let’s get Bob back on the sax please!!🎷",
-          "description": "Let's get Bob back on the sax please!!",
-          "publishedAt": "2026-09-16T23:54:02Z",
-          "url": "https://www.youtube.com/watch?v=3uZH0UyIJck"
+          "id": "jdHsdRXT1wU",
+          "title": "Ashley Padilla | Good Hang with Amy Poehler",
+          "description": "Ashley Padilla is so good at impressions. Amy hangs with the 'SNL' star and talks about hiding from the cops in a rose bush, ...",
+          "publishedAt": "2026-09-22T10:00:31Z",
+          "url": "https://www.youtube.com/watch?v=jdHsdRXT1wU"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "sA8VOTYAPhQ",
+          "title": "NYC WE’RE SO EXCITED TO HANG OUT WITH YOU ON OCT 2 ❤️❤️❤️",
+          "description": "",
+          "publishedAt": "2026-09-22T22:08:09Z",
+          "url": "https://www.youtube.com/watch?v=sA8VOTYAPhQ"
+        },
         {
           "id": "bus6S797nf0",
           "title": "WE TRIED ALL OF THE WEIRD PREGNANCY CRAVINGS!!!",
@@ -164,13 +171,6 @@
           "description": "",
           "publishedAt": "2026-09-20T20:08:36Z",
           "url": "https://www.youtube.com/watch?v=M6HNWt8rCus"
-        },
-        {
-          "id": "igHo-BeKaJ8",
-          "title": "SEE YOU ON BROADWAY OCTOBER 2!!!!",
-          "description": "",
-          "publishedAt": "2026-09-20T19:17:43Z",
-          "url": "https://www.youtube.com/watch?v=igHo-BeKaJ8"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-22T05:51:51.216Z"
+  "fetchedAt": "2026-09-23T05:29:42.354Z"
 }
