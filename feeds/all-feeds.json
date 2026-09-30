@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "FkLqpR-_AOI",
+          "title": "Send Me Your Stories!",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-29T21:12:31Z",
+          "url": "https://www.youtube.com/watch?v=FkLqpR-_AOI"
+        },
+        {
+          "id": "ome8YlWN9oA",
+          "title": "Save Money, Spend Less | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-09-29T15:00:16Z",
+          "url": "https://www.youtube.com/watch?v=ome8YlWN9oA"
+        },
+        {
           "id": "29hYL8l7CS0",
           "title": "Living With Your Parents is a Power Move | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-09-28T15:48:57Z",
           "url": "https://www.youtube.com/watch?v=29hYL8l7CS0"
-        },
-        {
-          "id": "78BsFkDrAr8",
-          "title": "How to Stop Living Paycheck to Paycheck &amp; Finally Get Ahead",
-          "description": "In this episode, you'll learn some of the best financial advice you'll ever hear - no matter what your financial situation is right now.",
-          "publishedAt": "2026-09-28T09:00:10Z",
-          "url": "https://www.youtube.com/watch?v=78BsFkDrAr8"
-        },
-        {
-          "id": "JV7grxDUhug",
-          "title": "The Worst Thing You Can Do | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-09-27T15:00:13Z",
-          "url": "https://www.youtube.com/watch?v=JV7grxDUhug"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "DpxFYBX91rc",
-          "title": "Thinking of the magic of Diane Keaton today and every day💜",
-          "description": "Thinking of the magic of Diane Keaton today and every day.",
-          "publishedAt": "2026-09-24T21:45:06Z",
-          "url": "https://www.youtube.com/watch?v=DpxFYBX91rc"
+          "id": "9WJUwKXZ9Ek",
+          "title": "Andrew Garfield is a real M-E-T-H-O-D Man.",
+          "description": "Andrew Garfield is a real M-E-T-H-O-D Man.",
+          "publishedAt": "2026-09-30T01:50:57Z",
+          "url": "https://www.youtube.com/watch?v=9WJUwKXZ9Ek"
         },
         {
-          "id": "ElS7jLSHwpc",
-          "title": "For how long???????",
-          "description": "For how long???????",
-          "publishedAt": "2026-09-24T21:39:14Z",
-          "url": "https://www.youtube.com/watch?v=ElS7jLSHwpc"
+          "id": "TWD3n0l6usw",
+          "title": "What’s your age/sense/location??",
+          "description": "What's your age/sense/location??",
+          "publishedAt": "2026-09-29T16:38:08Z",
+          "url": "https://www.youtube.com/watch?v=TWD3n0l6usw"
         },
         {
-          "id": "Xva_kq1aTzA",
-          "title": "Shakira says to stay in school.",
-          "description": "Shakira says to stay in school.",
-          "publishedAt": "2026-09-23T20:38:45Z",
-          "url": "https://www.youtube.com/watch?v=Xva_kq1aTzA"
+          "id": "OJV8AaWCxQQ",
+          "title": "Andrew Garfield | Good Hang with Amy Poehler",
+          "description": "Andrew Garfield is a real tenderoni. Amy hangs with the movie star and talks about why Munich has the best felt, getting too ...",
+          "publishedAt": "2026-09-29T10:00:01Z",
+          "url": "https://www.youtube.com/watch?v=OJV8AaWCxQQ"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-09-29T06:34:48.817Z"
+  "fetchedAt": "2026-09-30T06:17:49.759Z"
 }
