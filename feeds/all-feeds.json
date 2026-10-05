@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "wcTUWVi2JeA",
+          "title": "If You Hate Your Job | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-10-04T15:00:15Z",
+          "url": "https://www.youtube.com/watch?v=wcTUWVi2JeA"
+        },
+        {
           "id": "kgAsGFTrR7s",
           "title": "People Pleasing | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-10-02T15:00:31Z",
           "url": "https://www.youtube.com/watch?v=hhAMIEnD_rs"
-        },
-        {
-          "id": "X2ITJNeZQO8",
-          "title": "John Grisham’s One Page a Day Rule | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-10-01T15:32:42Z",
-          "url": "https://www.youtube.com/watch?v=X2ITJNeZQO8"
         }
       ]
     },
@@ -79,11 +79,11 @@
           "url": "https://www.youtube.com/watch?v=oMtAfbNHfnw"
         },
         {
-          "id": "rAjMOfKSAks",
-          "title": "You need to be delusional if you want to succeed.",
-          "description": "Save anything, read, highlight, and create with Eden: https://eden.so Join the Creator Bootcamp: https://eden.so/bootcamp My ...",
-          "publishedAt": "2026-09-20T17:35:20Z",
-          "url": "https://www.youtube.com/watch?v=rAjMOfKSAks"
+          "id": "Qk8rSlDR8z4",
+          "title": "The Art of Strategic Thinking (How to Become Wildly Successful at Anything You Do)",
+          "description": "Strategic thinking will change your life. Full Eden guide: https://youtu.be/1VhMmgL_Gx8 Personal brand strategy AI: ...",
+          "publishedAt": "2026-08-19T18:46:30Z",
+          "url": "https://www.youtube.com/watch?v=Qk8rSlDR8z4"
         }
       ]
     },
@@ -101,18 +101,18 @@
           "url": "https://www.youtube.com/watch?v=n-F1nhE_9wo"
         },
         {
-          "id": "0rDmiJfUX5c",
-          "title": "顆粒+濾鏡，Nikon也能直出膠片感了？全新Nikon Z5IIC上手體驗分享📷",
-          "description": "Timestamps 00:00 Intro 00:46 商店街隨手拍02:39 慶州的綠色04:48 韓屋&咖啡   instagram ...",
-          "publishedAt": "2026-09-24T09:45:16Z",
-          "url": "https://www.youtube.com/watch?v=0rDmiJfUX5c"
-        },
-        {
           "id": "gXW5kq0C3Ic",
           "title": "只有iPhone 18 Pro 相機才有的新玩法？這次更新了什麼？",
           "description": "影片裡的提詞器app是Qcam，是我們為所有想要用iPhone創作者打造的最好的提詞器相機。 可以在App Store 直接下載免費版QCam ...",
           "publishedAt": "2026-09-17T13:08:55Z",
           "url": "https://www.youtube.com/watch?v=gXW5kq0C3Ic"
+        },
+        {
+          "id": "RrtP_fd_c2c",
+          "title": "用AI管理時間？當Codex遇上Apple 日曆＋HTML互動看板",
+          "description": "如果你也對AI充滿好奇、想用它解決實際問題，歡迎加入我們「用AI發電」的空間。我的專屬早鳥折扣 ...",
+          "publishedAt": "2026-07-11T10:00:22Z",
+          "url": "https://www.youtube.com/watch?v=RrtP_fd_c2c"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-04T06:37:12.380Z"
+  "fetchedAt": "2026-10-05T06:33:04.947Z"
 }
