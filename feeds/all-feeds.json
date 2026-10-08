@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "zGp-pQaOXOY",
+          "title": "The Most Important Thing | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-10-07T15:00:11Z",
+          "url": "https://www.youtube.com/watch?v=zGp-pQaOXOY"
+        },
+        {
           "id": "f1Nsav5fk6A",
           "title": "You Need To Move | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-10-05T15:09:51Z",
           "url": "https://www.youtube.com/watch?v=RrPNg3Pgrv8"
-        },
-        {
-          "id": "362Dmp_HU0Y",
-          "title": "7 Life Lessons (I Wish Someone Had Told Me)",
-          "description": "In this episode, Mel is answering your biggest questions about relationships, career, health, confidence, change, and how to trust ...",
-          "publishedAt": "2026-10-05T09:00:28Z",
-          "url": "https://www.youtube.com/watch?v=362Dmp_HU0Y"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "QgigBunvkxA",
+          "title": "We hope we got this translation right. (We had to ask Juan Jamón).",
+          "description": "We hope we got this translation right. (We had to ask Juan Jamón).",
+          "publishedAt": "2026-10-08T05:15:42Z",
+          "url": "https://www.youtube.com/watch?v=QgigBunvkxA"
+        },
+        {
+          "id": "a7Qvf0iEmOY",
+          "title": "Cillin was crazy for that!",
+          "description": "Cillin was crazy for that!",
+          "publishedAt": "2026-10-08T01:22:38Z",
+          "url": "https://www.youtube.com/watch?v=a7Qvf0iEmOY"
+        },
+        {
           "id": "XJmFxjvi0LY",
           "title": "The shorts are finally rising up.",
           "description": "The shorts are finally rising up.",
           "publishedAt": "2026-10-06T22:38:49Z",
           "url": "https://www.youtube.com/watch?v=XJmFxjvi0LY"
-        },
-        {
-          "id": "sCBP8ebK45Y",
-          "title": "Meacello Hernández is here 💐",
-          "description": "Meacello Hernández is here.",
-          "publishedAt": "2026-10-06T18:44:21Z",
-          "url": "https://www.youtube.com/watch?v=sCBP8ebK45Y"
-        },
-        {
-          "id": "l_x_Ki8P_dk",
-          "title": "Marcello Hernández | Good Hang with Amy Poehler",
-          "description": "Marcello Hernández is going to tell us what his deal is. Amy hangs with the 'SNL' star and talks about being a bad texter, why ...",
-          "publishedAt": "2026-10-06T10:00:38Z",
-          "url": "https://www.youtube.com/watch?v=l_x_Ki8P_dk"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-07T06:51:03.036Z"
+  "fetchedAt": "2026-10-08T06:59:55.663Z"
 }
