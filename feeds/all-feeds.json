@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "5kv0_5Hqwm0",
+          "title": "When you think your partner has low testosterone | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-10-09T15:00:09Z",
+          "url": "https://www.youtube.com/watch?v=5kv0_5Hqwm0"
+        },
+        {
           "id": "qRqcxgx3FQk",
           "title": "How sleep impacts testosterone | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "This is the ultimate guide to male hormones and men's health. If a man you love has seemed a bit off lately, this episode will help ...",
           "publishedAt": "2026-10-08T09:00:27Z",
           "url": "https://www.youtube.com/watch?v=kbx9iMmJWn0"
-        },
-        {
-          "id": "zGp-pQaOXOY",
-          "title": "The Most Important Thing | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-10-07T15:00:11Z",
-          "url": "https://www.youtube.com/watch?v=zGp-pQaOXOY"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "LdHLf4X515k",
+          "title": "No work and all play means we’re having fun on the Amy Poehler show today.",
+          "description": "No work and all play means we're having fun on the Amy Poehler show today.",
+          "publishedAt": "2026-10-09T19:51:17Z",
+          "url": "https://www.youtube.com/watch?v=LdHLf4X515k"
+        },
+        {
+          "id": "K_Ij5oAkHbY",
+          "title": "Latinos are having a moment!",
+          "description": "Latinos are having a moment!",
+          "publishedAt": "2026-10-09T15:43:04Z",
+          "url": "https://www.youtube.com/watch?v=K_Ij5oAkHbY"
+        },
+        {
           "id": "wqyZf3cLxAM",
           "title": "No laptops were harmed during the making of this episode.",
           "description": "No laptops were harmed during the making of this episode.",
           "publishedAt": "2026-10-09T04:31:30Z",
           "url": "https://www.youtube.com/watch?v=wqyZf3cLxAM"
-        },
-        {
-          "id": "QgigBunvkxA",
-          "title": "We hope we got this translation right. (We had to ask Juan Jamón).",
-          "description": "We hope we got this translation right. (We had to ask Juan Jamón).",
-          "publishedAt": "2026-10-08T05:15:42Z",
-          "url": "https://www.youtube.com/watch?v=QgigBunvkxA"
-        },
-        {
-          "id": "a7Qvf0iEmOY",
-          "title": "Cillin was crazy for that!",
-          "description": "Cillin was crazy for that!",
-          "publishedAt": "2026-10-08T01:22:38Z",
-          "url": "https://www.youtube.com/watch?v=a7Qvf0iEmOY"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-09T07:08:00.121Z"
+  "fetchedAt": "2026-10-10T06:41:18.297Z"
 }
