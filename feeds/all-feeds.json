@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "IMPfQCnFoZc",
+          "title": "The Power Of Gratitude | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-10-11T15:00:25Z",
+          "url": "https://www.youtube.com/watch?v=IMPfQCnFoZc"
+        },
+        {
           "id": "3O40KZfNTbE",
           "title": "You need to hear this | Mel Robbins #Shorts",
           "description": "Just 6 years ago, my life looked very different than it does right now…and I have a video to prove it. I was turning 52 and starting ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-10-10T15:00:19Z",
           "url": "https://www.youtube.com/watch?v=fpKYApKhEl0"
-        },
-        {
-          "id": "3SdOXtuPLiU",
-          "title": "How to Stop Being Overlooked &amp; Start Getting What You Want With Top Business School Professor",
-          "description": "What are you not doing because you're afraid nobody will notice? In this episode, you're going to learn one of the most important ...",
-          "publishedAt": "2026-10-10T09:00:39Z",
-          "url": "https://www.youtube.com/watch?v=3SdOXtuPLiU"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "ajwRj_CWaVw",
+          "title": "WE PERFORMED LIVE FOR THE FIRST TIME IN NYC!",
+          "description": "thank you to our catcakes that made it to our first ever live show. we love you so much!!!!! TUNE IN TO OUR PODCAST - New ...",
+          "publishedAt": "2026-10-11T13:00:14Z",
+          "url": "https://www.youtube.com/watch?v=ajwRj_CWaVw"
+        },
+        {
           "id": "VAbpmmpyaKw",
           "title": "SURPRISING OUR MOM WITH HER DREAM VACATION IN ITALY!!! *vlog*",
           "description": "the start of our italy vlogs!!!! TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "tjmaxx….. we're back TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-10-02T14:38:01Z",
           "url": "https://www.youtube.com/watch?v=DOh8-my-qb0"
-        },
-        {
-          "id": "GxaXDhylPos",
-          "title": "WE’LL SEE YOU SOOO SOON NYC!!!",
-          "description": "",
-          "publishedAt": "2026-10-02T00:41:22Z",
-          "url": "https://www.youtube.com/watch?v=GxaXDhylPos"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-11T06:48:14.275Z"
+  "fetchedAt": "2026-10-12T06:58:34.257Z"
 }
