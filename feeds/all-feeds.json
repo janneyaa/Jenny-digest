@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "25jO3Bd9r_U",
+          "title": "How To Ask For a Raise | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-10-14T15:00:32Z",
+          "url": "https://www.youtube.com/watch?v=25jO3Bd9r_U"
+        },
+        {
           "id": "1wthqMKdSHs",
           "title": "The stroke patient that broke her | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-10-12T15:00:31Z",
           "url": "https://www.youtube.com/watch?v=8Vy2bgduL0A"
-        },
-        {
-          "id": "OojWAavwEyg",
-          "title": "#1 Neuroscientist: After Watching This, Your Brain Will Not Be the Same",
-          "description": "Today, you are getting a step-by-step guide on how to change your brain. Joining Mel is neuroscientist Dr. Lara Boyd, a professor ...",
-          "publishedAt": "2026-10-12T09:00:27Z",
-          "url": "https://www.youtube.com/watch?v=OojWAavwEyg"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "F7mVcZLDhUo",
-          "title": "That’s Sir Tall Paul to you!",
-          "description": "That's Sir Tall Paul to you!",
-          "publishedAt": "2026-10-14T01:07:01Z",
-          "url": "https://www.youtube.com/watch?v=F7mVcZLDhUo"
+          "id": "pJJl23RXd7M",
+          "title": "Need the Billies to create a super group and drop a track about Tomato Bisque Soup ASAP",
+          "description": "Need the Billies to create a super group and drop a track about Tomato Bisque Soup ASAP.",
+          "publishedAt": "2026-10-14T22:39:56Z",
+          "url": "https://www.youtube.com/watch?v=pJJl23RXd7M"
         },
         {
-          "id": "ZCy2PWX2Pts",
-          "title": "Does Doctor Robert handle time travel?",
-          "description": "Does Doctor Robert handle time travel?",
-          "publishedAt": "2026-10-13T21:14:52Z",
-          "url": "https://www.youtube.com/watch?v=ZCy2PWX2Pts"
+          "id": "1f5hT4y7bjY",
+          "title": "Sir Paul’s getting another Grammy for explaining the sounds of his cereal🥣🍓🫐",
+          "description": "Sir Paul's getting another Grammy for explaining the sounds of his cereal.",
+          "publishedAt": "2026-10-14T20:40:54Z",
+          "url": "https://www.youtube.com/watch?v=1f5hT4y7bjY"
         },
         {
-          "id": "XNCeOIYMryg",
-          "title": "Paul McCartney | Good Hang with Amy Poehler",
-          "description": "Paul McCartney is music. Amy hangs with the iconic musician and talks about almost becoming the coil-winding king, being a ...",
-          "publishedAt": "2026-10-13T10:00:36Z",
-          "url": "https://www.youtube.com/watch?v=XNCeOIYMryg"
+          "id": "bnaFT0pBYG4",
+          "title": "Dear Buckingham Palace, let us know when you&#39;re free for tea.",
+          "description": "Dear Buckingham Palace, let us know when you're free for tea.",
+          "publishedAt": "2026-10-14T18:26:00Z",
+          "url": "https://www.youtube.com/watch?v=bnaFT0pBYG4"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "kbjgzN5gQvE",
+          "title": "BEAN BOOZLED CHALLENGE WITH MY SISTERS *gone wrong*",
+          "description": "this was all emily's idea btw TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-10-14T14:00:21Z",
+          "url": "https://www.youtube.com/watch?v=kbjgzN5gQvE"
+        },
         {
           "id": "SGn2gfgbm-Y",
           "title": "ULTIMATE BEACH DAY IN ITALY *VLOG!!*",
@@ -164,13 +171,6 @@
           "description": "thank you to our catcakes that made it to our first ever live show. we love you so much!!!!! TUNE IN TO OUR PODCAST - New ...",
           "publishedAt": "2026-10-11T13:00:14Z",
           "url": "https://www.youtube.com/watch?v=ajwRj_CWaVw"
-        },
-        {
-          "id": "VAbpmmpyaKw",
-          "title": "SURPRISING OUR MOM WITH HER DREAM VACATION IN ITALY!!! *vlog*",
-          "description": "the start of our italy vlogs!!!! TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
-          "publishedAt": "2026-10-08T14:22:58Z",
-          "url": "https://www.youtube.com/watch?v=VAbpmmpyaKw"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-14T05:49:18.839Z"
+  "fetchedAt": "2026-10-15T05:33:49.526Z"
 }
