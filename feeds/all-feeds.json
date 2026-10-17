@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "_i0aAtg5lwo",
+          "title": "Ina Garten wants you to do the scary thing | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-10-16T15:00:21Z",
+          "url": "https://www.youtube.com/watch?v=_i0aAtg5lwo"
+        },
+        {
           "id": "TANmYlZ59rM",
           "title": "Ina Garten’s Best Life Advice | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "If you've ever wondered whether it's too late to change direction, start over, trust yourself, or create a life that feels more like you, ...",
           "publishedAt": "2026-10-15T09:00:06Z",
           "url": "https://www.youtube.com/watch?v=6KjH6Svur0o"
-        },
-        {
-          "id": "25jO3Bd9r_U",
-          "title": "How To Ask For a Raise | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-10-14T15:00:32Z",
-          "url": "https://www.youtube.com/watch?v=25jO3Bd9r_U"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "aCBg84jDiQY",
+          "title": "You’re asking Paul, will his love for @thebeatles grow? We do now know💜",
+          "description": "You're asking Paul, will his love for @thebeatles grow? We do now know.",
+          "publishedAt": "2026-10-16T19:07:38Z",
+          "url": "https://www.youtube.com/watch?v=aCBg84jDiQY"
+        },
+        {
+          "id": "_wuuVMJNASw",
+          "title": "Maxwell’s silver hammer made sure that zombie was dead🧟‍♂️",
+          "description": "Maxwell's silver hammer made sure that zombie was dead  ‍",
+          "publishedAt": "2026-10-16T16:27:49Z",
+          "url": "https://www.youtube.com/watch?v=_wuuVMJNASw"
+        },
+        {
           "id": "qWMkpNMjnlY",
           "title": "Baby, are we really born to run for three hours?",
           "description": "Baby, are we really born to run for three hours?",
           "publishedAt": "2026-10-15T23:38:30Z",
           "url": "https://www.youtube.com/watch?v=qWMkpNMjnlY"
-        },
-        {
-          "id": "QUDyJa3fMEM",
-          "title": "All messages to Bob are still blowin’ in the wind.",
-          "description": "All messages to Bob are still blowin' in the wind.",
-          "publishedAt": "2026-10-15T17:18:02Z",
-          "url": "https://www.youtube.com/watch?v=QUDyJa3fMEM"
-        },
-        {
-          "id": "pJJl23RXd7M",
-          "title": "Need the Billies to create a super group and drop a track about Tomato Bisque Soup ASAP",
-          "description": "Need the Billies to create a super group and drop a track about Tomato Bisque Soup ASAP.",
-          "publishedAt": "2026-10-14T22:39:56Z",
-          "url": "https://www.youtube.com/watch?v=pJJl23RXd7M"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-16T05:27:15.815Z"
+  "fetchedAt": "2026-10-17T05:19:08.707Z"
 }
