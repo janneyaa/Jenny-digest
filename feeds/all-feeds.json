@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "cdS0Atgcidg",
+          "title": "Tell The World What You Suck At | Mel Robbins #shorts",
+          "description": "Want more confidence? @garyvee start by admitting what you suck at. On this episode of The Mel Robbins Podcast, Gary ...",
+          "publishedAt": "2026-10-21T15:00:15Z",
+          "url": "https://www.youtube.com/watch?v=cdS0Atgcidg"
+        },
+        {
           "id": "bGt0WVjABdE",
           "title": "Drink THIS For Amazing Skin | Mel Robbins #shorts",
           "description": "Want a smoothie recipe for glowing skin? Try this one from Mayo Clinic dermatologist Dr. Saranya Wyles! Smoothie Recipe: ...",
@@ -19,13 +26,6 @@
           "description": "Did you know there is a connection between divorce and skin health? Wait until you hear this study Dr. Saranya Wyles shared ...",
           "publishedAt": "2026-10-19T16:30:11Z",
           "url": "https://www.youtube.com/watch?v=N45gzCsB6K8"
-        },
-        {
-          "id": "H6H2T1b9NDM",
-          "title": "Best Diet For Acne | Mel Robbins #shorts",
-          "description": "I had NO idea sugar does this to your skin. Turns out, eating too much sugar doesn't just give you a higher risk of acne - it can also ...",
-          "publishedAt": "2026-10-19T16:27:11Z",
-          "url": "https://www.youtube.com/watch?v=H6H2T1b9NDM"
         }
       ]
     },
@@ -94,6 +94,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "jAf0hEe13LI",
+          "title": "iPhone Duo上手體驗，比想像中更...好玩一點？🤔",
+          "description": "Timestamps 00:00 Why DUO? 00:31 大小&尺寸01:35 不同螢幕02:35 按鍵&細節03:11 鉸鏈設計03:38 新的界面? 04:22 如何分 ...",
+          "publishedAt": "2026-10-21T15:46:45Z",
+          "url": "https://www.youtube.com/watch?v=jAf0hEe13LI"
+        },
+        {
           "id": "n-F1nhE_9wo",
           "title": "給自己打造了一個夢想中的工作室🏠✌️Home Studio Tour",
           "description": "Timestamps 00:00 Intro 00:26 藍色小房間01:02 桌面setup 02:16 光線&軟裝04:12 原木風家具05:25 點綴&燈光06:05 值不值得？",
@@ -106,13 +113,6 @@
           "description": "Timestamps 00:00 Intro 00:46 商店街隨手拍02:39 慶州的綠色04:48 韓屋&咖啡   instagram ...",
           "publishedAt": "2026-09-24T09:45:16Z",
           "url": "https://www.youtube.com/watch?v=0rDmiJfUX5c"
-        },
-        {
-          "id": "gXW5kq0C3Ic",
-          "title": "只有iPhone 18 Pro 相機才有的新玩法？這次更新了什麼？",
-          "description": "影片裡的提詞器app是Qcam，是我們為所有想要用iPhone創作者打造的最好的提詞器相機。 可以在App Store 直接下載免費版QCam ...",
-          "publishedAt": "2026-09-17T13:08:55Z",
-          "url": "https://www.youtube.com/watch?v=gXW5kq0C3Ic"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "0JsT0LJBogc",
+          "title": "We’re gonna need a little bit more from the moon tbh.",
+          "description": "We're gonna need a little bit more from the moon tbh.",
+          "publishedAt": "2026-10-21T22:00:12Z",
+          "url": "https://www.youtube.com/watch?v=0JsT0LJBogc"
+        },
+        {
+          "id": "5w3JjMl_qII",
+          "title": "Baby, where the hell is Eric?",
+          "description": "Baby, where the hell is Eric?",
+          "publishedAt": "2026-10-21T20:04:03Z",
+          "url": "https://www.youtube.com/watch?v=5w3JjMl_qII"
+        },
+        {
           "id": "5WE1Ej_s7-A",
           "title": "The perfect presidential candidate has arrived.",
           "description": "The perfect presidential candidate has arrived.",
           "publishedAt": "2026-10-20T20:34:56Z",
           "url": "https://www.youtube.com/watch?v=5WE1Ej_s7-A"
-        },
-        {
-          "id": "zoFAtHb3sL4",
-          "title": "Kate Berlant is volunteering as tribute to keep any leftover times in the green room.",
-          "description": "Kate Berlant is volunteering as tribute to keep any leftover times in the green room.",
-          "publishedAt": "2026-10-20T18:41:28Z",
-          "url": "https://www.youtube.com/watch?v=zoFAtHb3sL4"
-        },
-        {
-          "id": "yuC5On_rhQA",
-          "title": "Kate Berlant | Good Hang with Amy Poehler",
-          "description": "Kate Berlant was seeing a few too many ghosts for a while. Amy hangs with the actress and comedian and talks about why you ...",
-          "publishedAt": "2026-10-20T10:00:02Z",
-          "url": "https://www.youtube.com/watch?v=yuC5On_rhQA"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-21T05:43:26.192Z"
+  "fetchedAt": "2026-10-22T05:45:28.497Z"
 }
