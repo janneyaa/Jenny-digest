@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "zFxfBJn4SQc",
+          "title": "How To Avoid Dumb Decisions | Mel Robbins #shorts",
+          "description": "Can't stop overthinking? The problem might be that you're actually UNDERTHINKING, according to Adam Grant. When you're ...",
+          "publishedAt": "2026-10-23T15:00:28Z",
+          "url": "https://www.youtube.com/watch?v=zFxfBJn4SQc"
+        },
+        {
           "id": "nk6dPW54rDI",
           "title": "Why Sending Memes Matters | Mel Robbins #shorts",
           "description": "Don't you love when someone sends you a funny meme or Reel? Turns out there's science behind it. There's a reason sharing a ...",
@@ -19,13 +26,6 @@
           "description": "Your future friends are the people you USED to know.” I just love that!! If you've been feeling lonely or disconnected, you might not ...",
           "publishedAt": "2026-10-22T15:09:46Z",
           "url": "https://www.youtube.com/watch?v=Xk4SU9Qe0Sg"
-        },
-        {
-          "id": "-YRkpHOkDJM",
-          "title": "How to Unlock Your Full Potential with #1 Professor Adam Grant",
-          "description": "In today's episode, you're going to learn why you're more capable than you think, what's keeping you stuck, and the ...",
-          "publishedAt": "2026-10-22T09:00:27Z",
-          "url": "https://www.youtube.com/watch?v=-YRkpHOkDJM"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "6se4KXEvR3E",
+          "title": "A little Neil Young, some PacSun, and advice to stun.",
+          "description": "A little Neil Young, some PacSun, and advice to stun.",
+          "publishedAt": "2026-10-23T21:00:15Z",
+          "url": "https://www.youtube.com/watch?v=6se4KXEvR3E"
+        },
+        {
+          "id": "J35t72_VWwo",
+          "title": "Nothing like hearing you have an addiction to your phone while on your phone.",
+          "description": "Nothing like hearing you have an addiction to your phone while on your phone.",
+          "publishedAt": "2026-10-23T19:30:46Z",
+          "url": "https://www.youtube.com/watch?v=J35t72_VWwo"
+        },
+        {
           "id": "bAEuETGvuI4",
           "title": "You’re goofy, you’re kind, you’re smart, and you’re generous.",
           "description": "You're goofy, you're kind, you're smart, and you're generous.",
           "publishedAt": "2026-10-22T22:00:16Z",
           "url": "https://www.youtube.com/watch?v=bAEuETGvuI4"
-        },
-        {
-          "id": "W_mXm3ucJf8",
-          "title": "You get dinner and a show when you fly with Kate Berlant.",
-          "description": "You get dinner and a show when you fly with Kate Berlant.",
-          "publishedAt": "2026-10-22T20:52:07Z",
-          "url": "https://www.youtube.com/watch?v=W_mXm3ucJf8"
-        },
-        {
-          "id": "0JsT0LJBogc",
-          "title": "We’re gonna need a little bit more from the moon tbh.",
-          "description": "We're gonna need a little bit more from the moon tbh.",
-          "publishedAt": "2026-10-21T22:00:12Z",
-          "url": "https://www.youtube.com/watch?v=0JsT0LJBogc"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-23T05:44:22.242Z"
+  "fetchedAt": "2026-10-24T05:23:04.807Z"
 }
