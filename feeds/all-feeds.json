@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "njZtqUek6mU",
+          "title": "If You Are Struggling To Make A Decision | Mel Robbins #shorts",
+          "description": "If you're struggling to make a big decision, hear this: You probably already know what you want to do. The hard part is trusting ...",
+          "publishedAt": "2026-10-24T15:00:29Z",
+          "url": "https://www.youtube.com/watch?v=njZtqUek6mU"
+        },
+        {
           "id": "zFxfBJn4SQc",
           "title": "How To Avoid Dumb Decisions | Mel Robbins #shorts",
           "description": "Can't stop overthinking? The problem might be that you're actually UNDERTHINKING, according to Adam Grant. When you're ...",
@@ -19,13 +26,6 @@
           "description": "Don't you love when someone sends you a funny meme or Reel? Turns out there's science behind it. There's a reason sharing a ...",
           "publishedAt": "2026-10-22T15:11:03Z",
           "url": "https://www.youtube.com/watch?v=nk6dPW54rDI"
-        },
-        {
-          "id": "Xk4SU9Qe0Sg",
-          "title": "Stop Trying To Make New Friends | Mel Robbins #shorts",
-          "description": "Your future friends are the people you USED to know.” I just love that!! If you've been feeling lonely or disconnected, you might not ...",
-          "publishedAt": "2026-10-22T15:09:46Z",
-          "url": "https://www.youtube.com/watch?v=Xk4SU9Qe0Sg"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "IVa5yBn8a0o",
+          "title": "WE WENT TO A HAUNTED CORN MAZE *FML*",
+          "description": "until next year.... maybe..... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-10-24T14:00:22Z",
+          "url": "https://www.youtube.com/watch?v=IVa5yBn8a0o"
+        },
+        {
           "id": "wrpK_rl-wLE",
           "title": "WE GOT INVITED TO THE VICTORIA&#39;S SECRET FASHION SHOW!! *vlog!!*",
           "description": "Big thank you to the VS PINK team for having us!!!! TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "",
           "publishedAt": "2026-10-19T23:22:48Z",
           "url": "https://www.youtube.com/watch?v=DzVHwmS1EPA"
-        },
-        {
-          "id": "75n6snGKndk",
-          "title": "THE BEST DAY EVER WITH @VSPINK #PINKpartner",
-          "description": "",
-          "publishedAt": "2026-10-19T04:52:10Z",
-          "url": "https://www.youtube.com/watch?v=75n6snGKndk"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-24T05:23:04.807Z"
+  "fetchedAt": "2026-10-25T05:41:48.180Z"
 }
