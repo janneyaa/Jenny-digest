@@ -65,6 +65,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "CZ5WyfbXtH4",
+          "title": "The Death Of The Influencer (&amp; The Future Of Creative Work)",
+          "description": "Save inspiration, create unique content, and run your entire creator business with Eden: https://eden.so Prompts I mentioned in ...",
+          "publishedAt": "2026-10-25T19:38:15Z",
+          "url": "https://www.youtube.com/watch?v=CZ5WyfbXtH4"
+        },
+        {
           "id": "B74niQ96kXM",
           "title": "How To Make Your First Viral YouTube Video Script",
           "description": "",
@@ -77,13 +84,6 @@
           "description": "",
           "publishedAt": "2026-10-17T17:26:01Z",
           "url": "https://www.youtube.com/watch?v=Wf0V7Zd2t_w"
-        },
-        {
-          "id": "NREEB59piMc",
-          "title": "A core sign of low intelligence",
-          "description": "",
-          "publishedAt": "2026-10-06T23:09:04Z",
-          "url": "https://www.youtube.com/watch?v=NREEB59piMc"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "rDW_8bkiiKU",
+          "title": "OUR DREAM BOAT DAY IN ITALY *VLOG!!*",
+          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
+          "publishedAt": "2026-10-24T14:16:33Z",
+          "url": "https://www.youtube.com/watch?v=rDW_8bkiiKU"
+        },
+        {
           "id": "IVa5yBn8a0o",
           "title": "WE WENT TO A HAUNTED CORN MAZE *FML*",
           "description": "until next year.... maybe..... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "Big thank you to the VS PINK team for having us!!!! TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-10-20T19:04:01Z",
           "url": "https://www.youtube.com/watch?v=wrpK_rl-wLE"
-        },
-        {
-          "id": "DzVHwmS1EPA",
-          "title": "Ready for the Victoria Secret Fashion Show 2026!!",
-          "description": "",
-          "publishedAt": "2026-10-19T23:22:48Z",
-          "url": "https://www.youtube.com/watch?v=DzVHwmS1EPA"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-25T05:41:48.180Z"
+  "fetchedAt": "2026-10-26T05:46:28.286Z"
 }
