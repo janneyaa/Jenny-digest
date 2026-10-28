@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "1Yx-CGgjkC8",
+          "title": "Your Biggest Mistakes Are Your Greatest Qualifications | Mel Robbins #shorts",
+          "description": "Your setbacks can become your advantage. I LOVE this perspective from my dear friend Ed Mylett. On The Mel Robbins Podcast, ...",
+          "publishedAt": "2026-10-27T15:00:18Z",
+          "url": "https://www.youtube.com/watch?v=1Yx-CGgjkC8"
+        },
+        {
           "id": "t1tto4ovq20",
           "title": "Losing a Parent | Mel Robbins #shorts",
           "description": "Please don't wait until something terrible happens to realize what matters most in your life. When Ed Mylett lost his dad, ...",
@@ -19,13 +26,6 @@
           "description": "This story about Ed Mylett's father brought me to tears. Ed grew up with a dad who struggled with addiction. And one day, while ...",
           "publishedAt": "2026-10-26T15:58:31Z",
           "url": "https://www.youtube.com/watch?v=yuHsjvqotO4"
-        },
-        {
-          "id": "QIqaJtF5g8k",
-          "title": "It’s Not Too Late: The 5 Shifts That Will Change the Rest of Your Year | Ed Mylett",
-          "description": "What if the best part of the year hasn't happened yet? If you've been feeling stuck, behind, and sick of your own bad habits, this ...",
-          "publishedAt": "2026-10-26T09:00:35Z",
-          "url": "https://www.youtube.com/watch?v=QIqaJtF5g8k"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "6se4KXEvR3E",
-          "title": "A little Neil Young, some PacSun, and advice to stun.",
-          "description": "A little Neil Young, some PacSun, and advice to stun.",
-          "publishedAt": "2026-10-23T21:00:15Z",
-          "url": "https://www.youtube.com/watch?v=6se4KXEvR3E"
+          "id": "xwr3ufOVJs0",
+          "title": "Thinking about all the brave men who served as sexiest man alive today.",
+          "description": "Thinking about all the brave men who served as sexiest man alive today.",
+          "publishedAt": "2026-10-28T00:53:11Z",
+          "url": "https://www.youtube.com/watch?v=xwr3ufOVJs0"
         },
         {
-          "id": "J35t72_VWwo",
-          "title": "Nothing like hearing you have an addiction to your phone while on your phone.",
-          "description": "Nothing like hearing you have an addiction to your phone while on your phone.",
-          "publishedAt": "2026-10-23T19:30:46Z",
-          "url": "https://www.youtube.com/watch?v=J35t72_VWwo"
+          "id": "Jn_w93-xjfU",
+          "title": "We’ve got a Code Blue!!!",
+          "description": "We've got a Code Blue!!!",
+          "publishedAt": "2026-10-27T22:37:05Z",
+          "url": "https://www.youtube.com/watch?v=Jn_w93-xjfU"
         },
         {
-          "id": "bAEuETGvuI4",
-          "title": "You’re goofy, you’re kind, you’re smart, and you’re generous.",
-          "description": "You're goofy, you're kind, you're smart, and you're generous.",
-          "publishedAt": "2026-10-22T22:00:16Z",
-          "url": "https://www.youtube.com/watch?v=bAEuETGvuI4"
+          "id": "uPJWt2RurLA",
+          "title": "Jonathan Bailey, you have 15 Pitt hours to respond.",
+          "description": "Jonathan Bailey, you have 15 Pitt hours to respond.",
+          "publishedAt": "2026-10-27T15:30:41Z",
+          "url": "https://www.youtube.com/watch?v=uPJWt2RurLA"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-27T05:58:45.885Z"
+  "fetchedAt": "2026-10-28T06:37:49.175Z"
 }
