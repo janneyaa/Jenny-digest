@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "VRQwLbe4Eqo",
+          "title": "It IS possible to change your brain | Mel Robbins #shorts",
+          "description": "Yes, you can change your brain at any age. On this episode of The Mel Robbins Podcast, neuroscientist Dr. Lara Boyd explains ...",
+          "publishedAt": "2026-10-28T15:00:29Z",
+          "url": "https://www.youtube.com/watch?v=VRQwLbe4Eqo"
+        },
+        {
           "id": "1Yx-CGgjkC8",
           "title": "Your Biggest Mistakes Are Your Greatest Qualifications | Mel Robbins #shorts",
           "description": "Your setbacks can become your advantage. I LOVE this perspective from my dear friend Ed Mylett. On The Mel Robbins Podcast, ...",
@@ -19,13 +26,6 @@
           "description": "Please don't wait until something terrible happens to realize what matters most in your life. When Ed Mylett lost his dad, ...",
           "publishedAt": "2026-10-26T15:57:52Z",
           "url": "https://www.youtube.com/watch?v=t1tto4ovq20"
-        },
-        {
-          "id": "yuHsjvqotO4",
-          "title": "A Tool for Making Big Life Changes | Mel Robbins #shorts",
-          "description": "This story about Ed Mylett's father brought me to tears. Ed grew up with a dad who struggled with addiction. And one day, while ...",
-          "publishedAt": "2026-10-26T15:58:31Z",
-          "url": "https://www.youtube.com/watch?v=yuHsjvqotO4"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "xfWpAYD8UA4",
+          "title": "Please don’t ask Noah Wyle for any medical advice.",
+          "description": "Please don't ask Noah Wyle for any medical advice.",
+          "publishedAt": "2026-10-29T03:48:53Z",
+          "url": "https://www.youtube.com/watch?v=xfWpAYD8UA4"
+        },
+        {
+          "id": "Uuc050R5aM4",
+          "title": "All it takes is a few good moments of kindness.",
+          "description": "All it takes is a few good moments of kindness.",
+          "publishedAt": "2026-10-28T16:32:48Z",
+          "url": "https://www.youtube.com/watch?v=Uuc050R5aM4"
+        },
+        {
           "id": "xwr3ufOVJs0",
           "title": "Thinking about all the brave men who served as sexiest man alive today.",
           "description": "Thinking about all the brave men who served as sexiest man alive today.",
           "publishedAt": "2026-10-28T00:53:11Z",
           "url": "https://www.youtube.com/watch?v=xwr3ufOVJs0"
-        },
-        {
-          "id": "Jn_w93-xjfU",
-          "title": "We’ve got a Code Blue!!!",
-          "description": "We've got a Code Blue!!!",
-          "publishedAt": "2026-10-27T22:37:05Z",
-          "url": "https://www.youtube.com/watch?v=Jn_w93-xjfU"
-        },
-        {
-          "id": "uPJWt2RurLA",
-          "title": "Jonathan Bailey, you have 15 Pitt hours to respond.",
-          "description": "Jonathan Bailey, you have 15 Pitt hours to respond.",
-          "publishedAt": "2026-10-27T15:30:41Z",
-          "url": "https://www.youtube.com/watch?v=uPJWt2RurLA"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "HciHmxOG8og",
+          "title": "DRESSING UP AS PANDAS FOR 24 HOURS IN NYC *so embarrassing*",
+          "description": "not ur regular panda TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-10-28T13:00:03Z",
+          "url": "https://www.youtube.com/watch?v=HciHmxOG8og"
+        },
         {
           "id": "rDW_8bkiiKU",
           "title": "OUR DREAM BOAT DAY IN ITALY *VLOG!!*",
@@ -164,13 +171,6 @@
           "description": "until next year.... maybe..... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-10-24T14:00:22Z",
           "url": "https://www.youtube.com/watch?v=IVa5yBn8a0o"
-        },
-        {
-          "id": "wrpK_rl-wLE",
-          "title": "WE GOT INVITED TO THE VICTORIA&#39;S SECRET FASHION SHOW!! *vlog!!*",
-          "description": "Big thank you to the VS PINK team for having us!!!! TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
-          "publishedAt": "2026-10-20T19:04:01Z",
-          "url": "https://www.youtube.com/watch?v=wrpK_rl-wLE"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-28T06:37:49.175Z"
+  "fetchedAt": "2026-10-29T06:45:12.201Z"
 }
