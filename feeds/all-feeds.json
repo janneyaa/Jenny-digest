@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "9xi0p6vA45M",
+          "title": "What Happened Between Ina Garten and Her Husband | Mel Robbins #shorts",
+          "description": "Ina's secret to a strong marriage: Don't make it \"work.\" Instead, make it BETTER. She and her husband Jeffrey spent time apart, ...",
+          "publishedAt": "2026-10-31T15:00:32Z",
+          "url": "https://www.youtube.com/watch?v=9xi0p6vA45M"
+        },
+        {
           "id": "NBrAh51YhPk",
           "title": "If No One Wants To Date You, Change THIS | Mel Robbins #shorts",
           "description": "If you're single, this is for you. Just because you haven't met the right person yet doesn't mean there's something wrong with you.",
@@ -19,13 +26,6 @@
           "description": "If you're going through a breakup, you need to hear this. On this episode of The Mel Robbins Podcast, my daughter Sawyer ...",
           "publishedAt": "2026-10-29T15:20:39Z",
           "url": "https://www.youtube.com/watch?v=B2rTfpzIrvo"
-        },
-        {
-          "id": "Wvzo_LdFFTA",
-          "title": "3 Signs You’re With the Right Person or if You Are Settling (Best Relationship Advice)",
-          "description": "How do you know if the person you love is “the one”? How do you know when it's time to walk away? How do you resolve your ...",
-          "publishedAt": "2026-10-29T09:00:05Z",
-          "url": "https://www.youtube.com/watch?v=Wvzo_LdFFTA"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "ZWnPlkYrc60",
+          "title": "TRYING EVERY TRADER JOE’S FALL SNACKS *so good*",
+          "description": "i can still feel the sugar rush TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-10-31T13:47:53Z",
+          "url": "https://www.youtube.com/watch?v=ZWnPlkYrc60"
+        },
+        {
           "id": "1EW_4g0G6Tk",
           "title": "choose ur (kung fu) panda",
           "description": "",
@@ -164,13 +171,6 @@
           "description": "not ur regular panda TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-10-28T13:00:03Z",
           "url": "https://www.youtube.com/watch?v=HciHmxOG8og"
-        },
-        {
-          "id": "rDW_8bkiiKU",
-          "title": "OUR DREAM BOAT DAY IN ITALY *VLOG!!*",
-          "description": "TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: https://www.youtube.com/@HahaPodcastOfficial Apple ...",
-          "publishedAt": "2026-10-24T14:16:33Z",
-          "url": "https://www.youtube.com/watch?v=rDW_8bkiiKU"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-10-31T06:38:02.414Z"
+  "fetchedAt": "2026-11-01T07:07:54.946Z"
 }
