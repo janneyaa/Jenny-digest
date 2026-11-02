@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "ytg1J4O9KVI",
+          "title": "Ina Garten Never Expected a Yes | Mel Robbins #shorts",
+          "description": "Ina Garten never thought her cookbook proposal would go anywhere. On this episode of The Mel Robbins Podcast, Ina Garten ...",
+          "publishedAt": "2026-11-01T16:00:31Z",
+          "url": "https://www.youtube.com/watch?v=ytg1J4O9KVI"
+        },
+        {
           "id": "9xi0p6vA45M",
           "title": "What Happened Between Ina Garten and Her Husband | Mel Robbins #shorts",
           "description": "Ina's secret to a strong marriage: Don't make it \"work.\" Instead, make it BETTER. She and her husband Jeffrey spent time apart, ...",
@@ -19,13 +26,6 @@
           "description": "If you're single, this is for you. Just because you haven't met the right person yet doesn't mean there's something wrong with you.",
           "publishedAt": "2026-10-30T15:00:34Z",
           "url": "https://www.youtube.com/watch?v=NBrAh51YhPk"
-        },
-        {
-          "id": "B2rTfpzIrvo",
-          "title": "How To Get Over A Breakup | Mel Robbins #shorts",
-          "description": "If you're going through a breakup, you need to hear this. On this episode of The Mel Robbins Podcast, my daughter Sawyer ...",
-          "publishedAt": "2026-10-29T15:20:39Z",
-          "url": "https://www.youtube.com/watch?v=B2rTfpzIrvo"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "u5_OA5qoIgc",
+          "title": "WE STAYED AT THE OLDEST VILLA IN ITALY!",
+          "description": "from the roman empire?????? TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-11-01T18:34:58Z",
+          "url": "https://www.youtube.com/watch?v=u5_OA5qoIgc"
+        },
+        {
           "id": "ZWnPlkYrc60",
           "title": "TRYING EVERY TRADER JOE’S FALL SNACKS *so good*",
           "description": "i can still feel the sugar rush TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "",
           "publishedAt": "2026-10-30T16:39:13Z",
           "url": "https://www.youtube.com/watch?v=1EW_4g0G6Tk"
-        },
-        {
-          "id": "HciHmxOG8og",
-          "title": "DRESSING UP AS PANDAS FOR 24 HOURS IN NYC *so embarrassing*",
-          "description": "not ur regular panda TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
-          "publishedAt": "2026-10-28T13:00:03Z",
-          "url": "https://www.youtube.com/watch?v=HciHmxOG8og"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-01T07:07:54.946Z"
+  "fetchedAt": "2026-11-02T07:14:12.054Z"
 }
