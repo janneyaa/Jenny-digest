@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "kIhSMjhDdkw",
+          "title": "Ina&#39;s favorite recipe | Mel Robbins #shorts",
+          "description": "Is this what you expected Ina's favorite recipe to be? On this episode of The Mel Robbins Podcast, Ina Garten reveals her favorite ...",
+          "publishedAt": "2026-11-04T16:00:13Z",
+          "url": "https://www.youtube.com/watch?v=kIhSMjhDdkw"
+        },
+        {
           "id": "RsoQpGUkqTE",
           "title": "Biggest Mistake As A Parent | Mel Robbins #shorts",
           "description": "One of the biggest mistakes I made as a parent? Trying to fix everything for my kids. On this episode of The Mel Robbins Podcast, ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-11-02T17:15:32Z",
           "url": "https://www.youtube.com/watch?v=RWOODq8nm-s"
-        },
-        {
-          "id": "aSBVMA28RHw",
-          "title": "My Daughter Got Brutally Honest About What I Got Wrong as a Mom (My Biggest Regrets)",
-          "description": "What if you could sit down with your parents and finally tell them what they got wrong? Or ask your kids what they wish you'd done ...",
-          "publishedAt": "2026-11-02T10:00:20Z",
-          "url": "https://www.youtube.com/watch?v=aSBVMA28RHw"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "FF3moLC2H28",
-          "title": "🎶It’s like rainnnnnnnnnn in your coffee mug🎶",
-          "description": "It's like rainnnnnnnnnn in your coffee mug.",
-          "publishedAt": "2026-11-04T00:00:11Z",
-          "url": "https://www.youtube.com/watch?v=FF3moLC2H28"
+          "id": "asVQ1IIVRYg",
+          "title": "And that’s on trauma bonding!",
+          "description": "And that's on trauma bonding!",
+          "publishedAt": "2026-11-05T04:08:58Z",
+          "url": "https://www.youtube.com/watch?v=asVQ1IIVRYg"
         },
         {
-          "id": "vCg6dniJqdE",
-          "title": "Thank U Anger.",
-          "description": "Thank U Anger.",
-          "publishedAt": "2026-11-03T23:06:48Z",
-          "url": "https://www.youtube.com/watch?v=vCg6dniJqdE"
+          "id": "QcDjbUDaihc",
+          "title": "Come and knock on our door, we’ve been waiting for this story about John Ritter💜",
+          "description": "Come and knock on our door, we've been waiting for this story about John Ritter.",
+          "publishedAt": "2026-11-04T22:45:59Z",
+          "url": "https://www.youtube.com/watch?v=QcDjbUDaihc"
         },
         {
-          "id": "JITHMe7m0Zg",
-          "title": "Just God wondering who God is.",
-          "description": "Just God wondering who God is.",
-          "publishedAt": "2026-11-03T17:18:04Z",
-          "url": "https://www.youtube.com/watch?v=JITHMe7m0Zg"
+          "id": "TLNMF6bi2eg",
+          "title": "Congrats to all the marathon runners out there?",
+          "description": "Congrats to all the marathon runners out there?",
+          "publishedAt": "2026-11-04T20:07:50Z",
+          "url": "https://www.youtube.com/watch?v=TLNMF6bi2eg"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-04T07:14:13.522Z"
+  "fetchedAt": "2026-11-05T07:42:42.146Z"
 }
