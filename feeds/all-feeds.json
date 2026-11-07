@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "CJdBOeBrwr0",
+          "title": "You&#39;re Not Tough. You&#39;re Hurt | Mel Robbins #shorts",
+          "description": "Sometimes you're not looking for a solution. You're looking for someone to agree that you've been hurt. On this episode of The ...",
+          "publishedAt": "2026-11-06T16:00:02Z",
+          "url": "https://www.youtube.com/watch?v=CJdBOeBrwr0"
+        },
+        {
           "id": "qDckIOLOY7c",
           "title": "How to Change Your Life in 52 Days | Mel Robbins #shorts",
           "description": "The year is not over. Neither are you. On this episode of The Mel Robbins Podcast, world-renowned motivational speaker Dr. Eric ...",
@@ -19,13 +26,6 @@
           "description": "What if the thing you're most embarrassed about is actually the key to changing your life? On this episode of The Mel Robbins ...",
           "publishedAt": "2026-11-05T16:15:51Z",
           "url": "https://www.youtube.com/watch?v=AUp7BWxCJbw"
-        },
-        {
-          "id": "MbN_96MWKek",
-          "title": "Focus on Yourself: Do THIS Before 2026 Ends to Get Back on Track with Eric Thomas",
-          "description": "If you've been feeling like this year got away from you, this episode will help you get back on track. In this powerful and practical ...",
-          "publishedAt": "2026-11-05T10:00:56Z",
-          "url": "https://www.youtube.com/watch?v=MbN_96MWKek"
         }
       ]
     },
@@ -123,6 +123,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "5nmN6-YIn8I",
+          "title": "Time to discuss the eighth wonder of the world.",
+          "description": "Time to discuss the eighth wonder of the world.",
+          "publishedAt": "2026-11-06T18:12:03Z",
+          "url": "https://www.youtube.com/watch?v=5nmN6-YIn8I"
+        },
+        {
           "id": "GMGNgHdEA4A",
           "title": "Hoping to drop this track soon.",
           "description": "Hoping to drop this track soon.",
@@ -135,13 +142,6 @@
           "description": "And that's on trauma bonding!",
           "publishedAt": "2026-11-05T04:08:58Z",
           "url": "https://www.youtube.com/watch?v=asVQ1IIVRYg"
-        },
-        {
-          "id": "QcDjbUDaihc",
-          "title": "Come and knock on our door, we’ve been waiting for this story about John Ritter💜",
-          "description": "Come and knock on our door, we've been waiting for this story about John Ritter.",
-          "publishedAt": "2026-11-04T22:45:59Z",
-          "url": "https://www.youtube.com/watch?v=QcDjbUDaihc"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "t68JeuZS6aw",
+          "title": "WE PLAYED HIDE &amp; SEEK IN THE OLDEST ITALIAN VILLA",
+          "description": "the bump is lowkey still on my head... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-11-06T14:00:21Z",
+          "url": "https://www.youtube.com/watch?v=t68JeuZS6aw"
+        },
         {
           "id": "u5_OA5qoIgc",
           "title": "WE STAYED AT THE OLDEST VILLA IN ITALY!",
@@ -164,13 +171,6 @@
           "description": "i can still feel the sugar rush TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-10-31T13:47:53Z",
           "url": "https://www.youtube.com/watch?v=ZWnPlkYrc60"
-        },
-        {
-          "id": "1EW_4g0G6Tk",
-          "title": "choose ur (kung fu) panda",
-          "description": "",
-          "publishedAt": "2026-10-30T16:39:13Z",
-          "url": "https://www.youtube.com/watch?v=1EW_4g0G6Tk"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-06T07:39:30.119Z"
+  "fetchedAt": "2026-11-07T06:49:28.816Z"
 }
