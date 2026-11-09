@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "OKQXMzpM4OY",
+          "title": "The ONLY Sunscreens That Work | Mel Robbins #shorts",
+          "description": "Mineral, chemical, tinted, “natural”... which sunscreens actually block UV? Leading Mayo Clinic dermatologist Dr. Saranya Wyles ...",
+          "publishedAt": "2026-11-08T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=OKQXMzpM4OY"
+        },
+        {
           "id": "kLDoggnxLoY",
           "title": "Erectile Dysfunction | Mel Robbins #shorts",
           "description": "I asked Dr. Michael Eisenberg about erectile dysfunction and he did NOT hold back On the first EVER men's health episode of ...",
@@ -19,13 +26,6 @@
           "description": "Are you the person everyone depends on? Do you remember the appointments, make the plans, solve the problems, keep track of ...",
           "publishedAt": "2026-11-07T10:00:10Z",
           "url": "https://www.youtube.com/watch?v=DJat2GMfVeU"
-        },
-        {
-          "id": "CJdBOeBrwr0",
-          "title": "You&#39;re Not Tough. You&#39;re Hurt | Mel Robbins #shorts",
-          "description": "Sometimes you're not looking for a solution. You're looking for someone to agree that you've been hurt. On this episode of The ...",
-          "publishedAt": "2026-11-06T16:00:02Z",
-          "url": "https://www.youtube.com/watch?v=CJdBOeBrwr0"
         }
       ]
     },
@@ -79,11 +79,11 @@
           "url": "https://www.youtube.com/watch?v=B74niQ96kXM"
         },
         {
-          "id": "Wf0V7Zd2t_w",
-          "title": "All it takes is 6 months to change your trajectory",
+          "id": "EU8w96jYEr8",
+          "title": "Average people don’t try to solve their problems",
           "description": "",
-          "publishedAt": "2026-10-17T17:26:01Z",
-          "url": "https://www.youtube.com/watch?v=Wf0V7Zd2t_w"
+          "publishedAt": "2026-09-30T14:08:01Z",
+          "url": "https://www.youtube.com/watch?v=EU8w96jYEr8"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "KYTBky8o6oo",
+          "title": "WE TRIED MICHELIN STAR FOOD FOR 24 HRS *VLOG!!*",
+          "description": "wait were kinda giving irl streamers TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-11-08T14:41:13Z",
+          "url": "https://www.youtube.com/watch?v=KYTBky8o6oo"
+        },
+        {
           "id": "2vdOUcakGtE",
           "title": "BLIND FACE PAINT CHALLENGE WITH MY SISTERS!",
           "description": "mind you halloween is over... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "the bump is lowkey still on my head... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-11-06T14:00:21Z",
           "url": "https://www.youtube.com/watch?v=t68JeuZS6aw"
-        },
-        {
-          "id": "u5_OA5qoIgc",
-          "title": "WE STAYED AT THE OLDEST VILLA IN ITALY!",
-          "description": "from the roman empire?????? TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
-          "publishedAt": "2026-11-01T18:34:58Z",
-          "url": "https://www.youtube.com/watch?v=u5_OA5qoIgc"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-08T06:55:35.941Z"
+  "fetchedAt": "2026-11-09T07:40:33.420Z"
 }
