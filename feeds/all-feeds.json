@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "SyEjwpW1WGQ",
+          "title": "Time Isn&#39;t Waiting | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-11-10T16:00:30Z",
+          "url": "https://www.youtube.com/watch?v=SyEjwpW1WGQ"
+        },
+        {
           "id": "JYSSI8SYqIA",
           "title": "Don&#39;t Wait to Live | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "You are in for a treat today. You're getting The Mel Robbins Podcast on the go! Last week, my mother-in-law, Judie, walked into ...",
           "publishedAt": "2026-11-09T10:00:26Z",
           "url": "https://www.youtube.com/watch?v=x6fJdde1NOM"
-        },
-        {
-          "id": "OKQXMzpM4OY",
-          "title": "The ONLY Sunscreens That Work | Mel Robbins #shorts",
-          "description": "Mineral, chemical, tinted, “natural”... which sunscreens actually block UV? Leading Mayo Clinic dermatologist Dr. Saranya Wyles ...",
-          "publishedAt": "2026-11-08T16:00:08Z",
-          "url": "https://www.youtube.com/watch?v=OKQXMzpM4OY"
         }
       ]
     },
@@ -65,6 +65,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "zdshL1IcetU",
+          "title": "The Most Lucrative AI Business To Start In 2027 (Complete Guide)",
+          "description": "Eden - where creatives build businesses: https://eden.so Prompt I mentioned in this video: ...",
+          "publishedAt": "2026-11-10T18:58:40Z",
+          "url": "https://www.youtube.com/watch?v=zdshL1IcetU"
+        },
+        {
           "id": "CZ5WyfbXtH4",
           "title": "The Death Of The Influencer (&amp; The Future Of Creative Work)",
           "description": "Save inspiration, create unique content, and run your entire creator business with Eden: https://eden.so Prompts I mentioned in ...",
@@ -77,13 +84,6 @@
           "description": "",
           "publishedAt": "2026-10-19T17:32:01Z",
           "url": "https://www.youtube.com/watch?v=B74niQ96kXM"
-        },
-        {
-          "id": "Wf0V7Zd2t_w",
-          "title": "All it takes is 6 months to change your trajectory",
-          "description": "",
-          "publishedAt": "2026-10-17T17:26:01Z",
-          "url": "https://www.youtube.com/watch?v=Wf0V7Zd2t_w"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "5nmN6-YIn8I",
-          "title": "Time to discuss the eighth wonder of the world.",
-          "description": "Time to discuss the eighth wonder of the world.",
-          "publishedAt": "2026-11-06T18:12:03Z",
-          "url": "https://www.youtube.com/watch?v=5nmN6-YIn8I"
+          "id": "1L4leWHAIi4",
+          "title": "Another win for Sweden.",
+          "description": "Another win for Sweden.",
+          "publishedAt": "2026-11-11T00:36:51Z",
+          "url": "https://www.youtube.com/watch?v=1L4leWHAIi4"
         },
         {
-          "id": "GMGNgHdEA4A",
-          "title": "Hoping to drop this track soon.",
-          "description": "Hoping to drop this track soon.",
-          "publishedAt": "2026-11-05T21:49:56Z",
-          "url": "https://www.youtube.com/watch?v=GMGNgHdEA4A"
+          "id": "x8LtY4fbrBY",
+          "title": "Even the laptop is hitting the Buffalo Stance.",
+          "description": "Even the laptop is hitting the Buffalo Stance.",
+          "publishedAt": "2026-11-10T21:03:25Z",
+          "url": "https://www.youtube.com/watch?v=x8LtY4fbrBY"
         },
         {
-          "id": "asVQ1IIVRYg",
-          "title": "And that’s on trauma bonding!",
-          "description": "And that's on trauma bonding!",
-          "publishedAt": "2026-11-05T04:08:58Z",
-          "url": "https://www.youtube.com/watch?v=asVQ1IIVRYg"
+          "id": "5sJ5ZbKcR5I",
+          "title": "We’re showing some love and we’re showing some life this Tuesday.",
+          "description": "We're showing some love and we're showing some life this Tuesday.",
+          "publishedAt": "2026-11-10T17:58:29Z",
+          "url": "https://www.youtube.com/watch?v=5sJ5ZbKcR5I"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-10T07:59:47.823Z"
+  "fetchedAt": "2026-11-11T07:29:27.199Z"
 }
