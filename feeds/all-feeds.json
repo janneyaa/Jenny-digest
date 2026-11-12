@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "-cM9O0Lx0f8",
+          "title": "The Surprising Reason Your Hair Is Shedding | Mel Robbins #shorts",
+          "description": "Your hair may be showing you what your body went through 3 months ago, according to Mayo Clinic dermatologist Dr. Saranya ...",
+          "publishedAt": "2026-11-11T16:00:32Z",
+          "url": "https://www.youtube.com/watch?v=-cM9O0Lx0f8"
+        },
+        {
           "id": "SyEjwpW1WGQ",
           "title": "Time Isn&#39;t Waiting | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-11-09T16:00:21Z",
           "url": "https://www.youtube.com/watch?v=JYSSI8SYqIA"
-        },
-        {
-          "id": "x6fJdde1NOM",
-          "title": "What Are You Doing With Your Life? An 89 Year Old’s Best Advice for You",
-          "description": "You are in for a treat today. You're getting The Mel Robbins Podcast on the go! Last week, my mother-in-law, Judie, walked into ...",
-          "publishedAt": "2026-11-09T10:00:26Z",
-          "url": "https://www.youtube.com/watch?v=x6fJdde1NOM"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "yKpoN4QsnoM",
+          "title": "Big Daddy was the correct choice.",
+          "description": "Big Daddy was the correct choice.",
+          "publishedAt": "2026-11-11T23:31:48Z",
+          "url": "https://www.youtube.com/watch?v=yKpoN4QsnoM"
+        },
+        {
+          "id": "ABQUsATsrEs",
+          "title": "Call your brother. It&#39;s time you had the talk.",
+          "description": "Call your brother. It's time you had the talk.",
+          "publishedAt": "2026-11-11T17:15:37Z",
+          "url": "https://www.youtube.com/watch?v=ABQUsATsrEs"
+        },
+        {
           "id": "1L4leWHAIi4",
           "title": "Another win for Sweden.",
           "description": "Another win for Sweden.",
           "publishedAt": "2026-11-11T00:36:51Z",
           "url": "https://www.youtube.com/watch?v=1L4leWHAIi4"
-        },
-        {
-          "id": "x8LtY4fbrBY",
-          "title": "Even the laptop is hitting the Buffalo Stance.",
-          "description": "Even the laptop is hitting the Buffalo Stance.",
-          "publishedAt": "2026-11-10T21:03:25Z",
-          "url": "https://www.youtube.com/watch?v=x8LtY4fbrBY"
-        },
-        {
-          "id": "5sJ5ZbKcR5I",
-          "title": "We’re showing some love and we’re showing some life this Tuesday.",
-          "description": "We're showing some love and we're showing some life this Tuesday.",
-          "publishedAt": "2026-11-10T17:58:29Z",
-          "url": "https://www.youtube.com/watch?v=5sJ5ZbKcR5I"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-11T07:29:27.199Z"
+  "fetchedAt": "2026-11-12T07:57:32.770Z"
 }
