@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "mTRnN-3_HmI",
+          "title": "Every Woman Needs to Hear This | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-11-13T16:00:20Z",
+          "url": "https://www.youtube.com/watch?v=mTRnN-3_HmI"
+        },
+        {
           "id": "QthK_hLjCqw",
           "title": "Top OB-GYN: Ask for this at your next doctor&#39;s visit | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-11-12T16:00:04Z",
           "url": "https://www.youtube.com/watch?v=tfRsEYzGdbw"
-        },
-        {
-          "id": "M5K5N-QZIx8",
-          "title": "The Silent Signs of Breast Cancer &amp; How to Know Your Cancer Risk With World-Renowned OB-GYN",
-          "description": "This episode is a MUST listen. It's one of the most important conversations about women's health we've ever had on The Mel ...",
-          "publishedAt": "2026-11-12T10:00:33Z",
-          "url": "https://www.youtube.com/watch?v=M5K5N-QZIx8"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "lOJK64zjjWc",
+          "title": "We&#39;re falling recklessly, headlessly in love with Robyn&#39;s hair",
+          "description": "We're falling recklessly, headlessly in love with Robyn's hair.",
+          "publishedAt": "2026-11-13T21:40:45Z",
+          "url": "https://www.youtube.com/watch?v=lOJK64zjjWc"
+        },
+        {
+          "id": "6Bj_YcvkYSg",
+          "title": "We’re hanging out on the floor this weekend.",
+          "description": "We're hanging out on the floor this weekend.",
+          "publishedAt": "2026-11-13T20:46:33Z",
+          "url": "https://www.youtube.com/watch?v=6Bj_YcvkYSg"
+        },
+        {
           "id": "aa9RvmqEB1g",
           "title": "We got Robyn out of the corner to give her her flowers.",
           "description": "We got Robyn out of the corner to give her her flowers.",
           "publishedAt": "2026-11-13T00:06:26Z",
           "url": "https://www.youtube.com/watch?v=aa9RvmqEB1g"
-        },
-        {
-          "id": "9Q0zlpAGzbU",
-          "title": "When in doubt, create your own record label💿",
-          "description": "When in doubt, create your own record label.",
-          "publishedAt": "2026-11-12T19:20:48Z",
-          "url": "https://www.youtube.com/watch?v=9Q0zlpAGzbU"
-        },
-        {
-          "id": "yKpoN4QsnoM",
-          "title": "Big Daddy was the correct choice.",
-          "description": "Big Daddy was the correct choice.",
-          "publishedAt": "2026-11-11T23:31:48Z",
-          "url": "https://www.youtube.com/watch?v=yKpoN4QsnoM"
         }
       ]
     },
@@ -151,6 +151,13 @@
       "handle": "hasisters",
       "category": "娱乐",
       "videos": [
+        {
+          "id": "Kqk94w8O6jA",
+          "title": "WE TESTED A 1-STAR HOTEL IN NYC *never again*",
+          "description": "the reviews were not lying... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-11-13T14:03:57Z",
+          "url": "https://www.youtube.com/watch?v=Kqk94w8O6jA"
+        },
         {
           "id": "KYTBky8o6oo",
           "title": "WE TRIED MICHELIN STAR FOOD FOR 24 HRS *VLOG!!*",
@@ -164,13 +171,6 @@
           "description": "mind you halloween is over... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-11-07T14:00:07Z",
           "url": "https://www.youtube.com/watch?v=2vdOUcakGtE"
-        },
-        {
-          "id": "t68JeuZS6aw",
-          "title": "WE PLAYED HIDE &amp; SEEK IN THE OLDEST ITALIAN VILLA",
-          "description": "the bump is lowkey still on my head... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
-          "publishedAt": "2026-11-06T14:00:21Z",
-          "url": "https://www.youtube.com/watch?v=t68JeuZS6aw"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-13T07:36:22.951Z"
+  "fetchedAt": "2026-11-14T07:20:36.159Z"
 }
