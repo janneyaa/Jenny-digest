@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "ZHy97BuGYIk",
+          "title": "The Biggest Myth About Hydrating Your Skin | Mel Robbins #shorts",
+          "description": "I had skin hydration all wrong until this Mayo Clinic dermatologist told me exactly how much water to drink - and which ...",
+          "publishedAt": "2026-11-14T16:00:06Z",
+          "url": "https://www.youtube.com/watch?v=ZHy97BuGYIk"
+        },
+        {
+          "id": "LUegw_zKVxc",
+          "title": "What Your Doctor May Be Missing: The Real Reason for Moodiness, Acne, Weight Gain, and Anxiety",
+          "description": "This is the health advice every woman, particularly those in their teens, 20s, 30s, and 40s, needs to hear. Today, world-renowned ...",
+          "publishedAt": "2026-11-14T10:00:12Z",
+          "url": "https://www.youtube.com/watch?v=LUegw_zKVxc"
+        },
+        {
           "id": "mTRnN-3_HmI",
           "title": "Every Woman Needs to Hear This | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-11-13T16:00:20Z",
           "url": "https://www.youtube.com/watch?v=mTRnN-3_HmI"
-        },
-        {
-          "id": "QthK_hLjCqw",
-          "title": "Top OB-GYN: Ask for this at your next doctor&#39;s visit | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-12T16:00:12Z",
-          "url": "https://www.youtube.com/watch?v=QthK_hLjCqw"
-        },
-        {
-          "id": "tfRsEYzGdbw",
-          "title": "What to Ask Your Doctor at Every Age | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-12T16:00:04Z",
-          "url": "https://www.youtube.com/watch?v=tfRsEYzGdbw"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "Yj-D4b1VQF8",
+          "title": "EATING TURKISH FOOD FOR THE FIRST TIME *IZMIR, TÜRKIYE*",
+          "description": "we're going back to turkiye asappppppp TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-11-14T15:34:30Z",
+          "url": "https://www.youtube.com/watch?v=Yj-D4b1VQF8"
+        },
+        {
           "id": "Kqk94w8O6jA",
           "title": "WE TESTED A 1-STAR HOTEL IN NYC *never again*",
           "description": "the reviews were not lying... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "wait were kinda giving irl streamers TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-11-08T14:41:13Z",
           "url": "https://www.youtube.com/watch?v=KYTBky8o6oo"
-        },
-        {
-          "id": "2vdOUcakGtE",
-          "title": "BLIND FACE PAINT CHALLENGE WITH MY SISTERS!",
-          "description": "mind you halloween is over... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
-          "publishedAt": "2026-11-07T14:00:07Z",
-          "url": "https://www.youtube.com/watch?v=2vdOUcakGtE"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-14T07:20:36.159Z"
+  "fetchedAt": "2026-11-15T07:33:29.390Z"
 }
