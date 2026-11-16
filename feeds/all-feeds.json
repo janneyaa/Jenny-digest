@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "ZcBSAGAfVSU",
+          "title": "The Truth About Tough Love | Mel Robbins #shorts",
+          "description": "The people who tell you what you DON'T want to hear might be the people who care about you most. We all need people who ...",
+          "publishedAt": "2026-11-15T16:00:14Z",
+          "url": "https://www.youtube.com/watch?v=ZcBSAGAfVSU"
+        },
+        {
           "id": "ZHy97BuGYIk",
           "title": "The Biggest Myth About Hydrating Your Skin | Mel Robbins #shorts",
           "description": "I had skin hydration all wrong until this Mayo Clinic dermatologist told me exactly how much water to drink - and which ...",
@@ -15,17 +22,10 @@
         },
         {
           "id": "LUegw_zKVxc",
-          "title": "What Your Doctor May Be Missing: The Real Reason for Moodiness, Acne, Weight Gain, and Anxiety",
+          "title": "If You Have Acne, Weight Gain, Anxiety, Painful Periods, or Hair Loss, Listen to This",
           "description": "This is the health advice every woman, particularly those in their teens, 20s, 30s, and 40s, needs to hear. Today, world-renowned ...",
           "publishedAt": "2026-11-14T10:00:12Z",
           "url": "https://www.youtube.com/watch?v=LUegw_zKVxc"
-        },
-        {
-          "id": "mTRnN-3_HmI",
-          "title": "Every Woman Needs to Hear This | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-13T16:00:20Z",
-          "url": "https://www.youtube.com/watch?v=mTRnN-3_HmI"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-15T07:33:29.390Z"
+  "fetchedAt": "2026-11-16T07:39:19.707Z"
 }
