@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "gbya29_W_-w",
+          "title": "What Is Endometriosis | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-11-17T16:00:14Z",
+          "url": "https://www.youtube.com/watch?v=gbya29_W_-w"
+        },
+        {
+          "id": "g_AxfwXCMns",
+          "title": "How to Fix the Male Loneliness Epidemic | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-11-17T16:00:37Z",
+          "url": "https://www.youtube.com/watch?v=g_AxfwXCMns"
+        },
+        {
           "id": "t_4ygHr7kmA",
           "title": "Men Are at War With Themselves | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-11-16T16:00:03Z",
           "url": "https://www.youtube.com/watch?v=t_4ygHr7kmA"
-        },
-        {
-          "id": "S9tVu8P8qdY",
-          "title": "Why PMOS Patients Get Misdiagnosed | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-16T15:58:37Z",
-          "url": "https://www.youtube.com/watch?v=S9tVu8P8qdY"
-        },
-        {
-          "id": "5TJvGMAtb6U",
-          "title": "What Every Man Needs To Hear (and Every Woman Needs To Understand)",
-          "description": "Why do so many men shut down emotionally, struggle to ask for help, or feel like nothing they do is ever enough? This episode ...",
-          "publishedAt": "2026-11-16T10:00:17Z",
-          "url": "https://www.youtube.com/watch?v=5TJvGMAtb6U"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "lOJK64zjjWc",
-          "title": "We&#39;re falling recklessly, headlessly in love with Robyn&#39;s hair",
-          "description": "We're falling recklessly, headlessly in love with Robyn's hair.",
-          "publishedAt": "2026-11-13T21:40:45Z",
-          "url": "https://www.youtube.com/watch?v=lOJK64zjjWc"
+          "id": "j_RW_ZNtKJw",
+          "title": "Some poppies were in the studio today.",
+          "description": "Some poppies were in the studio today.",
+          "publishedAt": "2026-11-18T01:02:52Z",
+          "url": "https://www.youtube.com/watch?v=j_RW_ZNtKJw"
         },
         {
-          "id": "6Bj_YcvkYSg",
-          "title": "We’re hanging out on the floor this weekend.",
-          "description": "We're hanging out on the floor this weekend.",
-          "publishedAt": "2026-11-13T20:46:33Z",
-          "url": "https://www.youtube.com/watch?v=6Bj_YcvkYSg"
+          "id": "HLFLXQuoWfk",
+          "title": "Tell us what’s going on with the stars today, Deb🔮",
+          "description": "Tell us what's going on with the stars today, Deb.",
+          "publishedAt": "2026-11-17T22:00:11Z",
+          "url": "https://www.youtube.com/watch?v=HLFLXQuoWfk"
         },
         {
-          "id": "aa9RvmqEB1g",
-          "title": "We got Robyn out of the corner to give her her flowers.",
-          "description": "We got Robyn out of the corner to give her her flowers.",
-          "publishedAt": "2026-11-13T00:06:26Z",
-          "url": "https://www.youtube.com/watch?v=aa9RvmqEB1g"
+          "id": "hMZN9TVQnDE",
+          "title": "And we&#39;re not gonna try and spell it either.",
+          "description": "And we're not gonna try and spell it either.",
+          "publishedAt": "2026-11-17T19:01:01Z",
+          "url": "https://www.youtube.com/watch?v=hMZN9TVQnDE"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-17T08:48:33.192Z"
+  "fetchedAt": "2026-11-18T08:12:19.442Z"
 }
