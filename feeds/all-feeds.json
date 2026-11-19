@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "IDrM51_3i64",
+          "title": "What Is PCOS/PMOS | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-11-18T16:00:04Z",
+          "url": "https://www.youtube.com/watch?v=IDrM51_3i64"
+        },
+        {
+          "id": "FAJrtMFtZVA",
+          "title": "The Reason You Still Feed Stuck | Mel Robbins #shorts",
+          "description": "You could be ONE decision away from completely changing your life - and that opportunity might be closer than you think.",
+          "publishedAt": "2026-11-18T16:00:18Z",
+          "url": "https://www.youtube.com/watch?v=FAJrtMFtZVA"
+        },
+        {
           "id": "gbya29_W_-w",
           "title": "What Is Endometriosis | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-11-17T16:00:14Z",
           "url": "https://www.youtube.com/watch?v=gbya29_W_-w"
-        },
-        {
-          "id": "g_AxfwXCMns",
-          "title": "How to Fix the Male Loneliness Epidemic | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-17T16:00:37Z",
-          "url": "https://www.youtube.com/watch?v=g_AxfwXCMns"
-        },
-        {
-          "id": "t_4ygHr7kmA",
-          "title": "Men Are at War With Themselves | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-16T16:00:03Z",
-          "url": "https://www.youtube.com/watch?v=t_4ygHr7kmA"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "91uJ7YuG-Ss",
+          "title": "Elementary, my dear potato.",
+          "description": "Elementary, my dear potato.",
+          "publishedAt": "2026-11-18T21:12:00Z",
+          "url": "https://www.youtube.com/watch?v=91uJ7YuG-Ss"
+        },
+        {
+          "id": "LFDr5TAjTXU",
+          "title": "Podcasting is such sweet sorrow.",
+          "description": "Podcasting is such sweet sorrow.",
+          "publishedAt": "2026-11-18T16:08:57Z",
+          "url": "https://www.youtube.com/watch?v=LFDr5TAjTXU"
+        },
+        {
           "id": "j_RW_ZNtKJw",
           "title": "Some poppies were in the studio today.",
           "description": "Some poppies were in the studio today.",
           "publishedAt": "2026-11-18T01:02:52Z",
           "url": "https://www.youtube.com/watch?v=j_RW_ZNtKJw"
-        },
-        {
-          "id": "HLFLXQuoWfk",
-          "title": "Tell us what’s going on with the stars today, Deb🔮",
-          "description": "Tell us what's going on with the stars today, Deb.",
-          "publishedAt": "2026-11-17T22:00:11Z",
-          "url": "https://www.youtube.com/watch?v=HLFLXQuoWfk"
-        },
-        {
-          "id": "hMZN9TVQnDE",
-          "title": "And we&#39;re not gonna try and spell it either.",
-          "description": "And we're not gonna try and spell it either.",
-          "publishedAt": "2026-11-17T19:01:01Z",
-          "url": "https://www.youtube.com/watch?v=hMZN9TVQnDE"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-18T08:12:19.442Z"
+  "fetchedAt": "2026-11-19T08:24:11.691Z"
 }
