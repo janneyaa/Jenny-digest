@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "5SkjHHd5fuI",
+          "title": "The Secret to Looking Confident | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-11-20T16:00:08Z",
+          "url": "https://www.youtube.com/watch?v=5SkjHHd5fuI"
+        },
+        {
           "id": "hc3_ciYu0QU",
           "title": "Never Rush to Answer a Difficult Question | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -15,17 +22,10 @@
         },
         {
           "id": "PBUMOJ3M0DQ",
-          "title": "#1 Communication Expert: 9 Habits for Clearer Speaking (I Wish I Knew Sooner)",
+          "title": "How to Speak Better Than 99% of People: #1 Communication Expert’s Complete Framework",
           "description": "If you have ever walked away from a conversation feeling embarrassed, unheard, or disrespected, this episode is for you. Maybe ...",
           "publishedAt": "2026-11-19T10:00:38Z",
           "url": "https://www.youtube.com/watch?v=PBUMOJ3M0DQ"
-        },
-        {
-          "id": "IDrM51_3i64",
-          "title": "What Is PCOS/PMOS | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-18T16:00:04Z",
-          "url": "https://www.youtube.com/watch?v=IDrM51_3i64"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "os7mV8jxHnM",
+          "title": "We’ll be dropping the 2027 stadium tour dates soon.",
+          "description": "We'll be dropping the 2027 stadium tour dates soon.",
+          "publishedAt": "2026-11-20T23:00:40Z",
+          "url": "https://www.youtube.com/watch?v=os7mV8jxHnM"
+        },
+        {
+          "id": "yQAB9MEqWdY",
+          "title": "It’ll…pass the courvoisier.",
+          "description": "It'll…pass the courvoisier.",
+          "publishedAt": "2026-11-20T21:10:47Z",
+          "url": "https://www.youtube.com/watch?v=yQAB9MEqWdY"
+        },
+        {
           "id": "qkkVfSGw8_Q",
           "title": "Need you to weigh in, Cookie Monster.",
           "description": "Need you to weigh in, Cookie Monster.",
           "publishedAt": "2026-11-20T01:00:34Z",
           "url": "https://www.youtube.com/watch?v=qkkVfSGw8_Q"
-        },
-        {
-          "id": "1k18qYvK5r8",
-          "title": "To cry, or not to cry, that is the question.",
-          "description": "To cry, or not to cry, that is the question.",
-          "publishedAt": "2026-11-19T22:50:42Z",
-          "url": "https://www.youtube.com/watch?v=1k18qYvK5r8"
-        },
-        {
-          "id": "VvOzePDh5j4",
-          "title": "You may be entitled to financial compensation if you have watched the movie Up.",
-          "description": "You may be entitled to financial compensation if you have watched the movie Up.",
-          "publishedAt": "2026-11-19T19:44:36Z",
-          "url": "https://www.youtube.com/watch?v=VvOzePDh5j4"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-20T08:05:00.515Z"
+  "fetchedAt": "2026-11-21T07:59:03.231Z"
 }
