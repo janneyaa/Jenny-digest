@@ -7,25 +7,25 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "8ZsuPCCLeUc",
+          "title": "The Most Important Person In Your Life | Mel Robbins #shorts",
+          "description": "I bet there's a person in your life who - even when you didn't believe in yourself, even at your lowest - always saw your potential.",
+          "publishedAt": "2026-11-21T16:00:11Z",
+          "url": "https://www.youtube.com/watch?v=8ZsuPCCLeUc"
+        },
+        {
+          "id": "Xc_mWstSM6U",
+          "title": "If You Get Anxious Around Other People, You Need to Hear This",
+          "description": "Today, Mel is doing something she's never done before on The Mel Robbins Podcast. She's bringing members of her team into ...",
+          "publishedAt": "2026-11-21T10:00:00Z",
+          "url": "https://www.youtube.com/watch?v=Xc_mWstSM6U"
+        },
+        {
           "id": "5SkjHHd5fuI",
           "title": "The Secret to Looking Confident | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
           "publishedAt": "2026-11-20T16:00:08Z",
           "url": "https://www.youtube.com/watch?v=5SkjHHd5fuI"
-        },
-        {
-          "id": "hc3_ciYu0QU",
-          "title": "Never Rush to Answer a Difficult Question | Mel Robbins #shorts",
-          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
-          "publishedAt": "2026-11-19T16:00:33Z",
-          "url": "https://www.youtube.com/watch?v=hc3_ciYu0QU"
-        },
-        {
-          "id": "PBUMOJ3M0DQ",
-          "title": "How to Speak Better Than 99% of People: #1 Communication Expert’s Complete Framework",
-          "description": "If you have ever walked away from a conversation feeling embarrassed, unheard, or disrespected, this episode is for you. Maybe ...",
-          "publishedAt": "2026-11-19T10:00:38Z",
-          "url": "https://www.youtube.com/watch?v=PBUMOJ3M0DQ"
         }
       ]
     },
@@ -152,6 +152,13 @@
       "category": "娱乐",
       "videos": [
         {
+          "id": "oFUsHOLBN4g",
+          "title": "SPOILING OUR MOM IN ITALY FOR 24 HOURS *NO BUDGET*",
+          "description": "only the best for mama ha TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
+          "publishedAt": "2026-11-21T16:03:07Z",
+          "url": "https://www.youtube.com/watch?v=oFUsHOLBN4g"
+        },
+        {
           "id": "Yj-D4b1VQF8",
           "title": "EATING TURKISH FOOD FOR THE FIRST TIME *IZMIR, TÜRKIYE*",
           "description": "we're going back to turkiye asappppppp TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
@@ -164,13 +171,6 @@
           "description": "the reviews were not lying... TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
           "publishedAt": "2026-11-13T14:03:57Z",
           "url": "https://www.youtube.com/watch?v=Kqk94w8O6jA"
-        },
-        {
-          "id": "KYTBky8o6oo",
-          "title": "WE TRIED MICHELIN STAR FOOD FOR 24 HRS *VLOG!!*",
-          "description": "wait were kinda giving irl streamers TUNE IN TO OUR PODCAST - New Episode Every Tuesday! YouTube: ...",
-          "publishedAt": "2026-11-08T14:41:13Z",
-          "url": "https://www.youtube.com/watch?v=KYTBky8o6oo"
         }
       ]
     }
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-21T07:59:03.231Z"
+  "fetchedAt": "2026-11-22T07:45:44.013Z"
 }
