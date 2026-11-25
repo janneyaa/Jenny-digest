@@ -7,6 +7,13 @@
       "category": "个人成长",
       "videos": [
         {
+          "id": "XAS9kxRpYy4",
+          "title": "You need to change the way you view rejection | Mel Robbins #shorts",
+          "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
+          "publishedAt": "2026-11-24T16:00:37Z",
+          "url": "https://www.youtube.com/watch?v=XAS9kxRpYy4"
+        },
+        {
           "id": "91heGjmQRLY",
           "title": "How to Make Friends As an Adult | Mel Robbins #shorts",
           "description": "Order your copy of The Let Them Theory https://melrob.co/let-them-theory The #1 Best Selling Book of 2025 Discover how ...",
@@ -19,13 +26,6 @@
           "description": "Today, Mel is taking 58 years of hard-earned life lessons and is packing them into under an hour, to save you some of the time, ...",
           "publishedAt": "2026-11-23T10:00:06Z",
           "url": "https://www.youtube.com/watch?v=Anlh9h-W7H0"
-        },
-        {
-          "id": "Wi320_L7_AA",
-          "title": "How To Know If You&#39;re With The Right Person | Mel Robbins #shorts",
-          "description": "How do you know if you're with the right person? There is a deep, awful dread when the person that you're with is amazing, but ...",
-          "publishedAt": "2026-11-22T16:00:20Z",
-          "url": "https://www.youtube.com/watch?v=Wi320_L7_AA"
         }
       ]
     },
@@ -123,25 +123,25 @@
       "category": "娱乐",
       "videos": [
         {
-          "id": "i9Fa2uZ3loU",
-          "title": "Dig: The Podcast E1 (with Amy Poehler &amp; Mike Schur)",
-          "description": "Host Brennan Lee Mulligan sits down with co-creators Amy Poehler and Mike Schur to discuss the series premiere of Dig.",
-          "publishedAt": "2026-11-23T05:05:16Z",
-          "url": "https://www.youtube.com/watch?v=i9Fa2uZ3loU"
+          "id": "tO6ngTtF2NI",
+          "title": "#PopeLeoComeOnThePod",
+          "description": "PopeLeoComeOnThePod.",
+          "publishedAt": "2026-11-24T21:19:58Z",
+          "url": "https://www.youtube.com/watch?v=tO6ngTtF2NI"
         },
         {
-          "id": "os7mV8jxHnM",
-          "title": "We’ll be dropping the 2027 stadium tour dates soon.",
-          "description": "We'll be dropping the 2027 stadium tour dates soon.",
-          "publishedAt": "2026-11-20T23:00:40Z",
-          "url": "https://www.youtube.com/watch?v=os7mV8jxHnM"
+          "id": "mRDLDjFWvfI",
+          "title": "Friendship bracelets were exchanged.",
+          "description": "Friendship bracelets were exchanged.",
+          "publishedAt": "2026-11-24T20:17:09Z",
+          "url": "https://www.youtube.com/watch?v=mRDLDjFWvfI"
         },
         {
-          "id": "yQAB9MEqWdY",
-          "title": "It’ll…pass the courvoisier.",
-          "description": "It'll…pass the courvoisier.",
-          "publishedAt": "2026-11-20T21:10:47Z",
-          "url": "https://www.youtube.com/watch?v=yQAB9MEqWdY"
+          "id": "uNjEJ22h9fI",
+          "title": "Hugh Laurie | Good Hang with Amy Poehler",
+          "description": "Hugh Laurie might be older than the pope. Amy hangs with her 'Dig' costar and talks about trying to get John Cleese to laugh, ...",
+          "publishedAt": "2026-11-24T11:00:08Z",
+          "url": "https://www.youtube.com/watch?v=uNjEJ22h9fI"
         }
       ]
     },
@@ -216,5 +216,5 @@
       ]
     }
   ],
-  "fetchedAt": "2026-11-24T10:40:36.536Z"
+  "fetchedAt": "2026-11-25T09:33:12.975Z"
 }
